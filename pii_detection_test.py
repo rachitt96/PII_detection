@@ -17,6 +17,7 @@ import nltk
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
+import boto3
 
 train_df = pd.read_csv('train_to.tsv', sep = '\t', names = ['to', 'body', 'PII'])
 test_df = pd.read_csv('test_emails.tsv', sep = '\t', names = ['id','to', 'body'])
@@ -68,3 +69,13 @@ test_lables['IsPII'].value_counts()
 
 filename = 'PII_detected_file.tsv'
 test_lables.to_csv(filename, sep = '\t', index=False)
+
+s3_resource = boto3.resource('s3')
+s3_client = boto3.client('s3')
+
+try:
+	s3_client.upload_file('PII_detected_file.tsv', 'enronsamples', 'PII_detected_file.tsv')
+	print('Successfully uploaded the labeled file')
+
+except Exception as exc:
+	print(exc)
