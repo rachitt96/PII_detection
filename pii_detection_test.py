@@ -19,8 +19,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 import boto3
 
-train_df = pd.read_csv('train_to.tsv', sep = '\t', names = ['to', 'body', 'PII'])
-test_df = pd.read_csv('test_emails.tsv', sep = '\t', names = ['id','to', 'body'])
+train_df = pd.read_csv('data/train_to.tsv', sep = '\t', names = ['to', 'body', 'PII'])
+test_df = pd.read_csv('data/test_emails.tsv', sep = '\t', names = ['id','to', 'body'])
 
 train_df = train_df.dropna()
 train_df = train_df.reset_index()
