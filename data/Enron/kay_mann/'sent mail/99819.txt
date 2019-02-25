@@ -1,0 +1,20 @@
+From : Kay Mann
+To : rusty stevens; fred mitro; laura luce
+CC : 
+BCC : 
+Subject : Calumet/Torrence
+
+Message Body :I've roughed out a document for you to discuss.  It isn't in good enough 
+shape to go to Peoples yet, but hopefully it gives you something to discuss 
+internally so we can decide what we want to do. In the meanwhile, I'm going 
+to continue to think through the issues.
+
+Please let me know what I can do to help.
+
+Kay
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

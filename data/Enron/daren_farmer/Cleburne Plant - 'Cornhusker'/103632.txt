@@ -1,0 +1,24 @@
+From : Parker  Megan
+To : Farmer  Daren J.
+CC : 
+BCC : 
+Subject : Tenaska IV Adjustments 2001
+
+Message Body :Here are some changes I need for the Tenaska deal.  Let me know if you have any questions.
+
+Deal		Prod Month	
+384258		May 2001		change demand fee from $2,026,347.17 to $1,926,685.34
+514353		May 2001		change volume from 45,000 to 44,138.  
+						Nominated Supply 1,368,295 (44,138/day)
+						Actual Deliveries    877,696
+384258		June 2001		change demand fee from $3,938,205.00 to $3,578,257.50
+514353		June 2001		change volume from 45,000 to 53,733
+
+
+Thanks,
+Megan
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

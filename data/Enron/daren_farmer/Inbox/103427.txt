@@ -1,0 +1,57 @@
+From : Harmon  Kenneth M.
+To : Miroballi  Angelo; Shoup  Cynthia
+CC : Pena  Matt; Warner  John
+BCC : 
+Subject : FW: Shut Down of Estate scheduled for 6:00 P.M. (CST) Tuesday, February 5, 2002
+
+Message Body :Estate Unify Production Users.......Please read the email below detailing the Estate Unify Production outage that will occur next Tuesday (2/5) for approximately 2 hours.  If you have any concerns or problems regarding this outage, please call Matt Pena (5-4209).
+ 
+Thanks.
+ 
+Ken Harmon 
+(713) 853-5633 work 
+(713) 858-3062 cell 
+
+-----Original Message-----
+From: Pena, Matt 
+Sent: Friday, February 01, 2002 2:53 PM
+To: Smith, Regan M.; Warner, John; Harmon, Kenneth M.; Krishnaswamy, Jayant; Chitradurga, Sundar; Tang, Mable; Ward, Bob; Brewer, Charles; Ballmer, Charles; Barber, Michael; Jefferson, Marvia; Stevens, Wilford; Bennett, Stephen W.; Poston, David; Barber, Michael; Nolte, Ron; Kenne, Dawn C.; Lim, Francis S.; Virnau, Robert; Heal, Kevin; Dawes, Cheryl; 'hbcamp@aep.com'; 'eaterry@aep.com'; Machleit, Shirley; Peoples, Dexter; Holtman, Marcie; Wynne, Rita; Mcclure, Mark; Jaquet, Tammy; Baxter, Bryce; Yanowski, Tommy J.
+Cc: Clark, Cynthia; Boudreaux, Lori; Laurel, Robert; Tung, Benedicta; Sengupta, Jayanta; Melethil, Anwar; Nguyen, Ben; Ji, George; D'Souza, Romeo; MacPhail, Shawn; Kyle-Watson, Terris; Bennett, Stephen W.; Rao, Ramesh; Johnson, Jeff
+Subject: Shut Down of Estate scheduled for 6:00 P.M. (CST) Tuesday, February 5, 2002
+Importance: High
+
+
+This note is to confirm that we will shut down all applications at 6:00 P.M. CST on Tuesday, February 5, 2002.  The purpose of this test is to verify there are no dependencies on Estate for running the Netco versions of all the applications going forward.  We will then enable the applications at 8:00 P.M.  Please make sure that we have someone who can accomplish this.
+ 
+If this absolutely cannot be done, please reply to me and we can attempt to rearrange the schedule.  
+ 
+The application list we plan on including follows:
+EnPower
+Unify (Gas, Power, Financials, EDI)
+TAGG
+Sitara
+Global
+Phoenix (Jay K. will handle this)
+DCAF (Ron Nolte)
+ 
+ 
+Ken, I included some Unify users, please foward to all others that I didn't include.  Please let your estate users know of this change!  Also, please ensure that a representative from your team will be available to run through some of the tests through Netco.  Also, on the Unify side, don't do any table deletions prior to Tuesday so we can ensure all needed information from Global is in Unify.
+ 
+I'm asking the Unify team to stay late Tuesday to help support the testing.  I realize this is a burden, but would really appreciate it.  I'm going to ask a few key users from our Netco group to push a few scenarios through the system.  I will push most of them for the gas side.  
+ 
+From the Unify side, I need representation for the following:
+Running a draft for Gas, Power, and Financial (Cindy, Terris, Lori, Anwar)
+Sending EDI (Robert / disable EDI on Estate enable on Netco)
+Bridging deals from Sitara (Ben or Shawn)
+Running Phoenix Load (Anwar)
+Volume Management (BT, Shawn)
+ 
+If for some reason, you cannot support that day, please schedule to have a backup.
+ 
+thanks!
+ 
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,14 @@
+From : Gaskill
+To : holst; Keith; grigsby; Mike
+CC : shively; Hunter S.
+BCC : 
+Subject : Operational Data
+
+Message Body :All of the data capture jobs for collecting operational data for the west, central, and east desks failed last evening.  Colin is working to identify the problem, recapture the data, and run the morning reports.  I will update you as soon as I have any additional information.  
+
+Chris
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

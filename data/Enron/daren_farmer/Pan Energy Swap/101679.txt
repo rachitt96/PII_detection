@@ -1,0 +1,22 @@
+From : Poorman  Mary
+To : Daren J Farmer/HOU/ECT@ENRON
+CC : Olsen  Michael; Cook  Clay
+BCC : 
+Subject : HPL Texoma, Meter 9801071 - 05/10/01
+
+Message Body :Daren,
+
+The intercompany/interdesk reflects an error for the above referenced day.  A transport usage ticket was put into the system for 3,000 Dth (Duke Carthage to Texoma), however, we do not have any supply on EPGT from Duke for this deal.  The package was confirmed, according to POPS, so, we are probably missing the supply deal.  Please check on the day/price (it is the 3,000 on k# ta99027 on EPGT).  I am trying to take care of some of these current month issues on the "clean reports".
+
+Mike,
+
+Would you please make sure that this contract was nominated on EPGT for 5/10/01.
+
+Thank you both for your assistance (everyone else is FYI),
+
+Mary
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

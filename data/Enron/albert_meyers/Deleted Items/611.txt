@@ -1,0 +1,28 @@
+From : Schedule Crawler
+To : Pete Davis
+CC : Bert Meyers; William Williams III; Craig Dean; dporter3@enron.com
+BCC : 
+Subject : 
+
+Message Body :
+
+ No ancillary schedules awarded.  Variances detected.
+Variances detected in Load schedule. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> H:\Netco Finals\HA0116 Finals_Load.txt
+
+---- Load Schedule ----
+$$$ Variance found in table LOAD_SCHEDULE.
+     Details: (Hour: 1 / Preferred: 2 / Final: 1.5)
+  TRANS_TYPE: FINAL
+  MKT_TYPE: HA
+  FROM_LOCATION_ID: PGE1
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

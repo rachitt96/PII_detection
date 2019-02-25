@@ -1,0 +1,27 @@
+From : Mark McCoy
+To : daren j farmer; stacey neuweiler
+CC : eddie janzen
+BCC : 
+Subject : Cuts
+
+Message Body :FYI----------Here are the latest cuts:
+
+6/16   Richardson on Oasis at El Paso
+ 97J4    was 6.0 now 5.385  (cut of 615)
+
+ Burlington on Oasis at El Paso
+ 97J4 was 15.0  now13.461  (cut of 1.539)
+
+ Exxon on Oasis at El Paso
+ 9J49 was 3.5   now  3.286  (cut of 214)
+
+6/17 201K cut on Oasis at PG&E Waha
+ WHO34  was 12.110   now 10.831   (cut of 1.279)
+
+6/18 201K cut on Oasis at PG&E W
+ WHO34  was 12.110  now 10.166   (cut of 1.944)
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

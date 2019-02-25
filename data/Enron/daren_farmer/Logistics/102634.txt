@@ -1,0 +1,71 @@
+From : Winfree  O'Neal D.
+To : Farmer  Daren J.
+CC : 
+BCC : 
+Subject : RE: TXU Fuel deals Imbalances
+
+Message Body :I'm not sure, this request is coming from Settlements... O
+
+ -----Original Message-----
+From: 	Farmer, Daren J.  
+Sent:	Thursday, June  28, 2001 10:28 AM
+To:	Winfree, O'Neal D.
+Subject:	RE: TXU Fuel deals Imbalances
+
+OW, 
+
+Was this passed through Janet Wallis?
+
+D
+
+ -----Original Message-----
+From: 	Winfree, O'Neal D.  
+Sent:	Thursday, June 28, 2001 10:18 AM
+To:	Farmer, Daren J.
+Subject:	FW: TXU Fuel deals Imbalances
+
+Daren,
+
+The deals listed below are related to TUFCO imbalances... Let me know if you have any objections to me entering the deals... O'Neal 3-9686
+
+ -----Original Message-----
+From: 	Griffin, Rebecca  
+Sent:	Thursday, June  28, 2001 9:58 AM
+To:	Winfree, O'Neal D.
+Subject:	TXU Fuel deals
+
+As my voice mail said, could you add deals for the following:
+
+Date:  1/31-1/31
+Location:  PGEV/For Tufco/4300101
+Volume:  1,357 mmbtu
+Price:  $3.94
+This should be entered as a purchase with Enron as buyer
+
+Date:  4/30-4/30
+Location:  PGEV/For Tufco/4300101
+Volume:  8,726 mmbtu
+Price:  $3.94
+This should be entered as a sale with Enron as seller
+
+Date:  5/31-5/31
+Location:  PGEV/For Tufco/4300101
+Volume:  9,912 mmbtu
+Price:  $3.94
+This should be entered as a purchase with Enron as buyer
+
+This is related to the TXU Fuel Wagner Brown contract.  Please let me know if you have any questions.
+
+Thanks,
+Rebecca
+713-571-3189
+
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

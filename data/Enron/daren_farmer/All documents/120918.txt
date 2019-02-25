@@ -1,0 +1,76 @@
+From : Robert Cotten
+To : vance l taylor
+CC : lauri a allen; daren j farmer; melissa graves; o'neal d winfree; sabrae zajac
+BCC : 
+Subject : Re: New Production-Sitara deals needed
+
+Message Body :Vance,
+
+Deal # 327963 has been killed in Sitara.  It did not happen.
+
+Bob
+
+---------------------- Forwarded by Robert Cotten/HOU/ECT on 07/12/2000 01:05 
+PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Robert Cotten                           07/11/2000 08:51 PM
+	
+
+To: Vance L Taylor/HOU/ECT@ECT
+cc: Daren J Farmer/HOU/ECT@ECT, O'Neal D Winfree/HOU/ECT@ECT, Hillary 
+Mack/Corp/Enron@Enron, Lisa Hesse/HOU/ECT@ECT, Trisha Hughes/HOU/ECT@ECT, 
+Heidi Withers/HOU/ECT@ECT, Susan Smith/HOU/ECT@ECT, Donald P 
+Reinhardt/HOU/ECT@ECT, Melissa Graves/HOU/ECT@ECT 
+Subject: Re: New Production-Sitara deals needed  
+
+Vance,
+
+Deal tickets, as noted below, have been created and entered in Sitara.
+
+Bob
+
+
+
+
+Vance L Taylor
+07/11/2000 09:18 AM
+To: Robert Cotten/HOU/ECT@ECT
+cc: Hillary Mack/Corp/Enron@Enron, Lisa Hesse/HOU/ECT@ECT, Trisha 
+Hughes/HOU/ECT@ECT, Heidi Withers/HOU/ECT@ECT, Susan Smith/HOU/ECT@ECT, 
+Donald P Reinhardt/HOU/ECT@ECT, Melissa Graves/HOU/ECT@ECT 
+Subject: New Production-Sitara deals needed
+
+Bob,
+
+The following production is now on-line and a ticket should be created and 
+entered into sitara based on the following:
+
+
+Counterparty   Deal #  Meter   Volumes  Price    Period
+Cokinos Natural Gas Co.   327963  9842   2,800mmbtu/d    96% Gas Daily    7/6 
+- 7/31
+Upstream Energy Services 327964  9844       150mmbtu/d  100% Gas Daily less 
+$0.14 7/8 - 7/31
+
+FYI, Susan will create and submit committed reserves firm tickets for the 
+remaining term of the deal beginning with the month of August.  Additionally, 
+these are Producer Svcs. deals and should be tracked in the IM Wellhead 
+portfolio... attached to the gathering contract.
+
+
+Thanks,
+
+vlt
+x3-6353
+
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

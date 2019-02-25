@@ -1,0 +1,47 @@
+From : Parker  Megan
+To : Farmer  Daren J.
+CC : 
+BCC : 
+Subject : GLO deals 2001
+
+Message Body :Darren:
+Here is my problem.  As you know, HPLC did a deal with Texas General Land Office where we would exchange gas for crude.  The problem was HPLC was selling the gas and Enron Gas Marketing was receiving the crude.  Bryce Baxter worked out a series of intercompany deals between HPLC, ENA and EGM that would book the deal correctly.  Julie Meyers was told how to create the deals and she completed January and February, except for one small part, but March forward was never completed.  The attached word document explains the procedure.  Basically, we were suppose to book an HPLC sale to the TGLO with volume and zero price.  This would book the volume to the GL and zero out the receivable since we were never going to receive cash from TGLO.  Then, we would book a sale from HPLC-Wellhead to ENA-Wellhead for the value of the gas only (no volume) and a sale from ENA-Wellhead to EGM for the value of the crude (no volume).  For these deals, we would use demand fees. EGM will pay ENA for the crude dollars.
+
+   
+
+I will give you the deals for January so you can see how the dollars move.  You will see that the price is still on the sale from HPLC to TGLO.  Julie zeroed this out, but O'Neal put it back.  I've left him a message to find out why.
+1.  Sale from HPLC-IM Wellhead to TGLO			547201
+2.  Sale from HPLC-IM HPLC to HPLC-IM Wellhead		547205  
+3.  Sale from HPLC-Wellhead to ENA-IM Wellhead Texas	679847
+4.  Sale from ENA-IM Wellhead Texas to EGM			679859 
+
+Here is a preliminary list of what needs to be done to finish out the transactions for March, April and May.  The previous email went to Kam Keiser, John Grass, Linda Roberts and Dayem Khandker.  They may be able to help us work through this.  Let me know if you have any questions.
+
+1.  Zero out the prices on the HPLC sales to Texas General Land Office, leave volume only.
+	Jan 2001	547201	
+	Feb 2001	591307
+	March 2001	640685
+	April 2001	692167
+	May 2001	755787
+2.  Enter a ticket for the HPL-Wellhead sale to ENA-Wellhead for March, April and May 2001 (the Feb deal number is 679848) for the value of the gas below.  This should be entered as a demand fee only, no volume.
+	March 2001	$774,612.50
+	April 2001	$705,870.00
+	May 2001	$664,609.00
+	
+3.  Enter a ticket for the sale from ENA-Wellhead to EGM for the value of the crude below.  There is an existing ticket for Jan and Feb that can be extended, deal 679859.
+	March 2001	$757,603.93
+	April 2001	$820,983.94
+	May 2001	$598,885.13
+
+4.  Update Jan and Feb crude values on deal 679859
+	Jan 2001	change $886,638.63 to $886,015.18
+	Feb 2001	change $839,008.31 to $842,475.06
+
+ Let me know if you want me to come down to discuss.
+
+Megan
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

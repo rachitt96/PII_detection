@@ -1,0 +1,158 @@
+From : Kay Mann
+To : john g rigby
+CC : bill williams; scott dieball
+BCC : 
+Subject : RE: Experience In commissioning GE 7FA's & Slow/Insufficient TDI
+
+Message Body :As far as I know the commissioning period we have in the current LM contracts 
+still works for the LMs.  I haven't heard any differently.  You just plug 
+those things in, right Scott?
+
+From the owner/power seller standpoint, the predictability is more important 
+than the time period (within reason, of course).  No matte what we have on 
+LDs with GE, the penalty for not moving megawatts will be more.
+
+As for standard of conduct, do we have language in the warranty section about 
+how the service techs have to work?  Maybe something similiar would be 
+work?   
+
+The discussion shows that it is a good idea to get them committed to 
+performing the TD of I at the time we sign up to buy the turbines.
+
+ckm
+
+
+
+
+John G Rigby@ENRON_DEVELOPMENT
+05/24/2001 07:54 AM
+To: Bill Williams/ENRON@enronXgate@ENRON
+cc: Scott Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Kay 
+Mann/Corp/Enron@Enron 
+
+Subject: RE: Experience In commissioning GE 7FA's & Slow/Insufficient TDI  
+
+Good point on the LM's-  I will make that point, at this time I think the 
+baseline is 7FAs- and the time should be shortened for LM's.   Unfortunately 
+I do not think that EECC has corporate history on the 7FA's commissioning 
+time- I think NEPCO does.    As to the EPC contractor wanting a similar cure 
+time, in effect the commissioning period will have to be built into his 
+Guaranteed Completion Date.   This does not mean that GE gets all this time 
+to commission, it de facto can be shorter or longer, what it does do is sets 
+the mark in the sand for one of the criteria that must be met before GE is 
+exposed to Takeover LD's because the GE equipment will not meet Specific 
+Performance Guarantees or operate reliabily thus causing the EPC Contractor 
+to be late. (slightly run on sentence-whew)
+
+As such it is not a GE slowness LD.  
+
+As to there not being enough TDI of people or their being inept thus causing 
+a delay.  A valid concern-and perhaps we can pin GE for.   I am struggling 
+with what to use as a quantitative standard against which we could assess 
+Take Over LDs.   It is almost like good/bad art, you know it when you see 
+it.  Scott and I can try making late, insufficient or inept TDI services as 
+(iii) in Section 10.3.2 (3rd reason for trigging Take Over LD's)- but without 
+some standard it will be tought to reach an agreement with GE and tougher to 
+enforce.   I welcome your creative thoughts.   I would expect GE to rail 
+against this.
+
+Scott and Kay-  Thoughts?
+
+
+
+
+	Bill Williams/ENRON@enronXgate
+	05/23/2001 06:13 PM
+		 
+		 To: John G Rigby/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+		 cc: 
+		 Subject: RE: Experience In commissioning GE 7FA's
+
+One thing for me - this contract will not just be for 7FA's.  The LMs have 
+much shorter fire and ready to go times (days to weeks at most), and to allow 
+a generic move to 45 days could put aeroderivative gas turbine projects in 
+jeopardy with regards to schedule. I must confess I do not have the 7FA 
+experience.  EE&CC should be able to back these numbers up.
+
+I suspect this may be a TDI issue as well.  GE may be having fewer qualified 
+Technical consultants to cover the onslaught of construction - contributing 
+to the request to extend to 45 days. 
+
+Note, if we go to 45 days for the Seller, the EPC contractor will want the 
+same time period to remedy.
+
+ -----Original Message-----
+From:  Rigby, John  
+Sent: Wednesday, May 23, 2001 3:29 PM
+To: Williams, Bill; larson Gene@ENRON; haas Dan@ENRON
+Subject: Experience In commissioning GE 7FA's
+
+One of the provisions in the "Standard GE- World Hunger" deals with GE's 
+exposure to Take Over Liquidated Damages.  The provisions reads as set oiut 
+below.:  (it is not final, we are struggling over (e) and (g).
+
+GE wants to change 30 days in (d) to 45 days - they say that their average 
+time to go from first roll to complete Unit commissioning is 53 days- They 
+will send some info on this to Bill W and me.
+
+Do any of you have recent experience in the first roll to completion of 
+commissioning 7FAs  either in simple cycle or combined cycle that I can use 
+to confirm or refute tha 45 days is reasonable?
+
+
+
+10.3.2 Takeover Liquidated Damages
+.  Purchaser may assess and Seller agrees to pay liquidated damages (the 
+&Takeover Liquidated Damages8) as set forth in Exhibit B-6, Section B.6.3, 
+for each day that the Facility fails to achieve Takeover by the Time for 
+Completion as a result of any or all of the following:
+(a) a the Unit is unable to be commissioned and/or operated reliably (such 
+inability being within Seller,s sole responsibility as defined herein), but 
+only after the expiration of the Commissioning Period; or
+(b) a the Unit demonstrating performance below the Specific Performance 
+Levels,
+Assessment of such Takeover Liquidated Damages is subject to the following:
+(c) Purchaser elects at its sole discretion not to place a the Unit in 
+Commercial Operation;
+(d) Purchaser allows [thirty (30) days] from first fired roll of the Units 
+Unit to complete Unit commissioning check outs, any needed replacement, 
+adjustments or corrections to make the Units Unit ready for testing (the 
+&Commissioning Period8);
+(e) [Purchaser makes reasonable efforts to provide the necessary time and 
+operating loads for Seller and Purchaser to commission and check out the 
+Units Unit.  Seller,s time and load requirement shall not be to the exclusion 
+of the needs of other Facility equipment being commissioned.  Purchaser shall 
+coordinate the most advantageous utilization of time and assets whenever 
+conflicting requirements exist and such situations shall not be deemed delay 
+by Purchaser];
+(f) Subject to (g) below, Purchaser may not assess Takeover Liquidated 
+Damages prior to the expiry of the Commissioning Period;
+(g) [In the event Seller fails to use its best efforts to minimize time to 
+make corrections, adjustments or repairs to the deficiently performing Unit 
+during the Commissioning Period, Purchaser shall have the right to void the 
+Commissioning Period and assess Takeover Liquidated Damages without regard 
+for the period afforded by the Commissioning Period];
+(h) Purchaser provides prompt oral notice of delays affecting commissioning;
+(i) Purchaser provides Seller its commissioning schedule no less than forty 
+five (45) days prior to commencement of commissioning on the first Unit and 
+provides periodic updates thereto;
+(j) In the event Purchaser is not subject to similar delay liquidated damages 
+with Owner, then Seller will not be subject to Takeover Liquidated Damages; 
+and
+(k) In the event that Purchaser is subject to similar delay liquidated 
+damages with Owner, then Seller shall pay Takeover Liquidated Damages in 
+accordance with this Section 10.3.2.
+In the event that the Purchaser is Owner, subsections (j) and (k) of this 
+Section 10.3.2 shall not be applicable.  However, to the extent that the 
+Purchaser is an entity subject to delay liquidated damages associated with 
+the Facility, subsections (j) and (k) of this Section 10.3.2 shall be 
+applicable.
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

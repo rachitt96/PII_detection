@@ -1,0 +1,36 @@
+From : Farmer
+To : kemp; Juliann
+CC : 
+BCC : 
+Subject : RE: meter 7361 - MTBE Plant/EGP Fuels  (was 8216)
+
+Message Body :Deal 717768 should be kept whole.  This is a baseload purchase.  Deal 544392 should still act as the swing buyback on days that the plant underpulls.
+
+D
+
+
+FYI.  Anytime a purchase is done at an industrial point with a fixed price, the purchase should be kept whole.  Only the buybacks with Gas Daily pricing take the swings.
+
+
+
+ -----Original Message-----
+From: 	Kemp, Juliann  
+Sent:	Thursday, May 24, 2001 9:43 AM
+To:	Farmer, Daren J.
+Subject:	meter 7361 - MTBE Plant/EGP Fuels  (was 8216)
+
+Daren -
+Howard came by and asked me to check with you regarding deal 717768 starting 
+April 6th for 2,000 - it was created by you April 5th. . He wasn't sure if it was a buy back and if you wanted me to
+link the buy back deal to 692725. The buyback deal for this is normally 544392(when it was on meter 8216). Do you want
+this deal to act as the buy back or stay whole.  Thanks - Julie  
+
+receipt 2,000 deal 717768 - buy back?
+delivery 5,500 deal 544388 - daily swing
+delivery 8,500 deal 692725 - stays whole first 
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

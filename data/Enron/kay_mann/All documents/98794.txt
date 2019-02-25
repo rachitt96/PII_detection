@@ -1,0 +1,17 @@
+From : Reagan Rorschach
+To : kay mann
+CC : 
+BCC : 
+Subject : Load Schedule
+
+Message Body : 
+ 	Clarksdale	Yazoo  City	Total
+ 	1999	2000	1999200019992000
+Summer Peak (MW)	52.6	51.3	29.332.581.983.8
+Winter Peak (MW)	26.4	38.4	15.562241.9660.4
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

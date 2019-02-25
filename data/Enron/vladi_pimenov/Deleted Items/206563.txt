@@ -1,0 +1,16 @@
+From : Enron Announcements/Corp/Enron@ENRON
+To : All Enron Houston@ENRON
+CC : 
+BCC : 
+Subject : Questionable Mail/Suspicious Packages
+
+Message Body :The potential use of biological agents such as Anthrax in a terrorist attack continues to raise concerns worldwide.  Here at Enron, the mail center and Business Controls/Corporate Security have already implemented safeguards so that all mail entering the Enron buildings will be screened in accordance with procedures for identifying suspicious packages.  We are also in touch with the U.S. Postal Service and the Centers for Disease Control to ensure we have the most complete and up-to-date guidance for handling any possible Anthrax exposures.
+
+However, should you receive an envelope or package that you do not feel comfortable opening, please contact Corporate Security at extension 3-6200 and we will screen it again.
+
+To provide Enron employees with a better understanding of  Anthrax and the potential danger it poses, we have posted a bulletin on the Corporate Security intranet site http://home.enron.com:84/security/002_bull_001.html that includes links to the CDC and USPS resources.
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

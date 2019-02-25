@@ -1,0 +1,517 @@
+From : Robert Cotten
+To : daren j farmer
+CC : 
+BCC : 
+Subject : Re: Coastal Oil & Gas Corporation
+
+Message Body :Daren,
+
+FYI.
+
+Bob
+
+---------------------- Forwarded by Robert Cotten/HOU/ECT on 07/28/2000 11:17 
+AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Melissa Graves                           07/28/2000 11:09 AM
+	
+
+To: Robert Cotten/HOU/ECT@ECT
+cc: Hillary Mack/Corp/Enron@Enron, Donald P Reinhardt/HOU/ECT@ECT, Susan 
+Smith/HOU/ECT@ECT, Vance L Taylor/HOU/ECT@ECT, Brian M Riley/HOU/ECT@ECT 
+Subject: Re: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX
+
+Bob, 
+
+HPLC will be purchasing wellhead gas from the producer listed below for the 
+production month of August.  This production will be purchased on a "spot" 
+basis and a deal ticket should be created and entered into sitara based on 
+the following information:
+
+Counterparty    Meter   Volume  Price
+
+Coastal Oil & Gas Corporation  4179, Albrecht #4 Well 2,000Mmbtu/d  93% GAS 
+DAILY  
+
+Additionally, this is a Producer Svcs. deal and should be tracked in the IM 
+Wellhead portfolio... attached to the gathering contract.
+
+Thanks, 
+Melissa
+---------------------- Forwarded by Melissa Graves/HOU/ECT on 07/28/2000 
+10:02 AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Melissa Graves                           07/10/2000 02:18 PM
+	
+
+To: Hillary Mack/Corp/Enron@Enron
+cc: Robert Cotten/HOU/ECT@ECT 
+Subject: Re: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX
+
+Hillary,  
+
+See below for your answer. 
+
+Thanks,
+Melissa
+---------------------- Forwarded by Melissa Graves/HOU/ECT on 07/10/2000 
+02:17 PM ---------------------------
+
+
+JoAnne Wagstaff@ENRON
+07/10/2000 02:14 PM
+To: Melissa Graves/HOU/ECT@ECT
+cc: Robert Cotten/HOU/ECT@ECT 
+Subject: Re: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX  
+
+Melissa,
+
+I have confirmed through emails from Bob Walker that the name of the 
+counterparty for the Albrecht #4 Well is Coastal Oil & Gas Corp.
+
+Please let me know if you have any questions.
+
+Thanks,
+JoAnne
+X68228
+
+
+   
+	
+	
+	From:  Melissa Graves @ ECT                           07/10/2000 10:14 AM
+	
+
+To: JoAnne Wagstaff/NA/Enron@Enron
+cc: Robert Cotten/HOU/ECT@ECT 
+
+Subject: Re: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX
+
+JoAnne, 
+
+Can you confirm the counterparty name on this please. 
+
+Thanks,
+Melissa
+---------------------- Forwarded by Melissa Graves/HOU/ECT on 07/10/2000 
+10:13 AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Robert Cotten                           07/10/2000 10:11 AM
+	
+
+To: Melissa Graves/HOU/ECT@ECT
+cc:  
+Subject: Re: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX
+
+Melissa,
+
+Hillary Mack called me about the following deal.  He believes the 
+counterparty should be Coastal Oil & Gas USA, L.P. rather than Coastal Oil & 
+Gas Corp.  Please advise.  Thanks.
+
+Bob
+
+---------------------- Forwarded by Robert Cotten/HOU/ECT on 07/10/2000 10:08 
+AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Robert Cotten                           07/10/2000 09:01 AM
+	
+
+To: Melissa Graves/HOU/ECT@ECT
+cc: Daren J Farmer/HOU/ECT@ECT, O'Neal D Winfree/HOU/ECT@ECT, Susan 
+Smith/HOU/ECT@ECT, Vance L Taylor/HOU/ECT@ECT, George Weissman/HOU/ECT@ECT, 
+Hillary Mack/Corp/Enron@Enron, Amelia Alland/HOU/ECT@ECT 
+Subject: Re: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX  
+
+Melissa,
+
+Deal ticket # 325550 has been created and entered in Sitara.
+
+Bob
+
+
+   
+	Enron North America Corp.
+	
+	From:  Melissa Graves                           07/07/2000 03:34 PM
+	
+
+To: Robert Cotten/HOU/ECT@ECT
+cc: Donald P Reinhardt/HOU/ECT@ECT, Susan Smith/HOU/ECT@ECT, Vance L 
+Taylor/HOU/ECT@ECT, George Weissman/HOU/ECT@ECT, Hillary 
+Mack/Corp/Enron@Enron, Amelia Alland/HOU/ECT@ECT 
+Subject: Re: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX
+
+Bob, 
+
+Per George's note below, HPLC will be purchasing wellhead gas from the 
+producer listed below for the production month of July.  This production will 
+be purchased on a "spot" basis and a deal ticket should be created and 
+entered into sitara based on the following information:
+
+Counterparty    Meter   Volume    Price
+
+Coastal Oil & Gas Corporation  4179, Albrecht #4 Well 7/7/00 - 1,500 Mmbtu/d
+        7/8/00 - 3,000 Mmbtu/d
+        7/9/00 thru 7/31/00 - 4,000 Mmbtu/d  93% IF/HSC  
+
+Additionally, this is a Producer Svcs. deal and should be tracked in the IM 
+Wellhead portfolio... attached to the gathering contract.
+
+Thanks, 
+Melissa
+
+------------------- Forwarded by Melissa Graves/HOU/ECT on 07/07/2000 03:03 
+PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  George Weissman                           07/07/2000 01:11 PM
+	
+
+To: Melissa Graves/HOU/ECT@ECT, Shawna Flynn/HOU/ECT@ECT
+cc: Sandi M Braband/HOU/ECT@ECT, Robert Walker/HOU/ECT@ECT, Vicente 
+Sarmiento/GCO/Enron@Enron, Brian M Riley/HOU/ECT@ECT, Lauri A 
+Allen/HOU/ECT@ECT 
+Subject: Re: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX
+
+Melissa,
+
+Based on the attached Contract Preparation Request for a Spot GTC for the 
+Coastal Oil & Gas Corporation Albrecht #4 well to be attached behind existing 
+meter 098-4179 on the Meyersville - West Mission Valley lateral (1130) in 
+Goliad Co., TX, please enter a deal into Sitara that will generate a spot gtc 
+for the remainder of the month of July.
+
+For your information:
+
+We expect the following  production at the point named above for the 
+remainder of the month of July, 2000:
+
+7/7/00 - 1,500 Mmbtu/d
+
+7/8/00 - 3,000 Mmbtu/d
+
+7/9/00 thru 7/31/00 - 4,000 Mmbtu/d
+
+
+ADDITIONAL INFORMATION:
+
+Coastal has acquired 3 previously drilled wells subject to HPLC contract 
+96008903 behind Meter 098-4179 from Sierra 1996 I Limited Partnership and 
+M.J.G. Inc., as Seller,s Representative for Sierra effective 3/1/2000; the 
+Legal Department has prepared and is currently circulating a Ratification and 
+Consent to Assign Document to reflect this transaction.
+
+The spot gtc requested herein will cover gas from the Albrecht #4 well ONLY.  
+The Albrecht #4 will not be covered by 96008903, nor will the wells currently 
+subject to 96008903 be subject to the spot gtc. 
+
+Shawna, please prepare the Termination Letter for 96008903 as requested.
+
+George x3-6992
+
+
+
+
+---------------------- Forwarded by George Weissman/HOU/ECT on 07/07/2000 
+01:04 PM ---------------------------
+
+
+Debbie Boudar@ENRON
+07/06/2000 03:25 PM
+To: George Weissman/HOU/ECT@ECT
+cc: Robert Walker/HOU/ECT@ECT, Vicente Sarmiento/GCO/Enron@Enron, Brian M 
+Riley/HOU/ECT@ECT 
+Subject: Re: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX  
+
+In regards to Meter 098-4179 the following information is what I have been 
+able to determine from the information available to me.
+
+To your questions:
+
+1. Cannot determine who owns this meter.  I will contact Molly Carriere on 
+Monday when she returns.
+
+2. HPL has a fifty (50) ft. easement at this location which does contain 
+language for appurtenance rights within the 50'.
+
+3. I pulled the meter file for this location which was prepared during 
+Project Rock and it does not contain a  Facility Agreement so I am assuming 
+one was not    located.
+
+Hope this helps.
+
+
+   
+	
+	
+	From:  George Weissman @ ECT                           07/06/2000 11:09 AM
+	
+
+To: Debbie Boudar/NA/Enron@ENRON
+cc: Robert Walker/HOU/ECT@ECT, Vicente Sarmiento/GCO/Enron@Enron, Brian M 
+Riley/HOU/ECT@ECT 
+
+Subject: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX
+
+Debbie,
+
+Meter 098-4179 is located at sta. plus 40+85 on Align. Dwg. HC-1130-18-H in 
+Goliad Co., TX.  In connection with the Facility Agreement request below, we 
+need to know the following:
+
+1.  Who owns the meter, HPLC or the operator?
+
+2.  Do we own an easement and an access right of way to the meter station?
+
+3.  Is there, to your knowledge, a Facility Agreement in place covering this 
+meter?  We cannot locate such an agreement in our records.
+
+Thanks.  George x3-6992
+---------------------- Forwarded by George Weissman/HOU/ECT on 07/06/2000 
+11:06 AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  George Weissman                           07/06/2000 09:37 AM
+	
+
+To: Shawna Flynn/HOU/ECT@ECT
+cc: Robert Walker/HOU/ECT@ECT, Brian M Riley/HOU/ECT@ECT, Vicente 
+Sarmiento/GCO/Enron@Enron, Melissa Graves/HOU/ECT@ECT, Lal 
+Echterhoff/HOU/ECT@ECT, James R Haden/HOU/ECT@ECT 
+Subject: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX
+
+Shawna,
+
+Attached is a Contract Preparation Request for a Facilities Agreement for the 
+Coastal Oil & Gas Corporation Albrecht #4 well to be attached behind existing 
+meter 098-4179 on the Meyersville - West Mission Valley lateral (1130) in 
+Goliad Co., TX.  
+
+Of particular note:
+
+Coastal has acquired 3 previously drilled wells subject to HPLC contract 
+96008903 behind Meter 098-4179 from Sierra 1996 I Limited Partnership and 
+M.J.G. Inc., as Seller,s Representative for Sierra effective 3/1/2000; the 
+Legal Department has prepared and is currently circulating a Ratification and 
+Consent to Assign Document to reflect this transaction.
+
+We have been unable to locate an existing Facility Agreement for the 3 
+previously drilled wells and suspect that no such Agreement exists.
+
+The Facility Agreement requested herein is intended to cover only alterations 
+to be made to existing Meter 098-4179 to install an H2S monitor and necessary 
+valving to allow HPLC to accept gas from the newly drilled Albrecht #4 well.
+
+Once the H2S monitor has been installed and the Albrecht #4 well is ready to 
+flow, we intend to paper the purchase of gas from the Albrecht #4 well only 
+via a spot confirmation pursuant to a spot gtc.  The Albrecht #4 will not be 
+covered by 96008903, nor will the wells currently subject to 96008903 be 
+subject to the spot gtc. 
+
+Coastal will reimburse HPLC $39,600 for the cost of the installation.
+
+George x3-6992
+
+
+
+
+
+
+---------------------- Forwarded by George Weissman/HOU/ECT on 07/06/2000 
+09:21 AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  George Weissman                           07/04/2000 01:28 PM
+	
+
+To: Lal Echterhoff/HOU/ECT@ECT, Pat Flavin/GCO/Enron@ENRON
+cc: Brian M Riley/HOU/ECT@ECT, Jill T Zivley/HOU/ECT@ECT, Vicente 
+Sarmiento/GCO/Enron@Enron, James R Haden/HOU/ECT@ECT, Donnie 
+McCabe/GCO/Enron@ENRON, Mark Walch/GCO/Enron@ENRON, Steve HPL 
+Schneider/HOU/ECT@ECT 
+Subject: Coastal Oil & Gas Corporation
+Albrecht #4 Well
+Meter 098-4179, Goliad Co., TX
+
+Lal,
+
+We intend to attempt to connect  about 4,000 Mmbtu/d of new production from 
+the newly drilled Coastal Oil & Gas Corporation Albrecht #4 into the 
+westernmost end of the Meyerville - West Mission Valley 6" Lateral (1130) on 
+the Mission Valley System 485 in Goliad and Victoria Counties behind a 
+existing meter 098-4179.  Coastal intends to add an incremental 1,000 Mmbut/d 
+each day for four successive days; in May, 2000, the meter flowed about 960 
+Mmbtu/d of 3.36% CO2 gas.  
+
+The content of the Albrecht #4 gas according to the Field Gas Analysis 
+prepared by Coastal Oil & Gas on 7/1/00:
+
+Nitrogen 0.1124%
+CO2  2.7224%
+Methane 87.8390%
+Ethane  6.1200% 1.628
+Propane 2.0682% 0.567
+Isobutane 0.3420% 0.111
+n-Butane 0.4153% 0.130
+Isopentane 0.1269% 0.046 
+n-Pentane 0.0904% 0.033
+Hexanes 0.1634%    0.069
+Heptanes Plus 0.0000%    0.000
+    2.584
+
+Can HPLC accept this gas?
+
+Pat,
+
+Coastal has verbally advised that the Albrecht #4 well contains more than 
+HPLC's permissible H2S content at the wellhead; the Albrecht #4 H2S content 
+is similar to that of the three wells currently producing 960 Mmbtu/d behind 
+meter 098-4179, the Miller-Albrecht Unit #1-A and the Hoff Heller Gas Unit 
+#1A & #2D.  Coastal further purports that for some time now it (and/or its 
+predecessor, MJG, Corp.) has treated these three wells for H2S in a manner 
+sufficient to reduce the H2S content delivered into HPLC to permissible 
+levels.  Coastal has further indicated that it intends to reduce the H2S 
+content of the Albrecht #4 to permissible levels before delivering same to 
+HPLC.   In your opinion, should Coastal be forced to install an H2S monitor 
+for this new gas prior to flowing same to HPLC? 
+
+George x3-6992 
+
+ 
+
+---------------------- Forwarded by George Weissman/HOU/ECT on 07/04/2000 
+12:48 PM ---------------------------
+
+
+Christy Sweeney
+06/29/2000 04:56 PM
+To: Lisa Hesse/HOU/ECT@ECT
+cc: Brian M Riley/HOU/ECT@ECT, George Weissman/HOU/ECT@ECT, Melissa 
+Graves/HOU/ECT@ECT, JoAnne Wagstaff/NA/Enron@Enron, Heidi Withers/HOU/ECT@ECT 
+Subject: Transport Request for Coastal Albrecht #4, Goliad County, TX
+
+Lisa,
+
+Attached is our Physical Well Connect form, including a Transportation Quote 
+Sheet, for the Coastal Albrecht  #4 well in Goliad County, TX.  Please 
+provide us with a Transport Quote.  I have attached below a quote you gave us 
+in April 2000.  The volume is now 5,000/day.
+
+
+
+I am headed that way with a map that shows the well's location in relation to 
+us, Tejas, Koch, and Tetco.  Please note 2% fuel.
+
+Thank you!!!
+
+Christy
+39050
+
+---------------------- Forwarded by Christy Sweeney/HOU/ECT on 06/29/2000 
+02:46 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Lisa Hesse                           04/07/2000 10:48 AM
+	
+
+To: Brian M Riley/HOU/ECT@ECT
+cc: Lauri A Allen/HOU/ECT@ECT, Mary M Smith/HOU/ECT@ECT, Heidi 
+Withers/HOU/ECT@ECT, Melissa Graves/HOU/ECT@ECT, George Weissman/HOU/ECT@ECT, 
+Susan Smith/HOU/ECT@ECT, Donald P Reinhardt/HOU/ECT@ECT, Vance L 
+Taylor/HOU/ECT@ECT, Lisa Hesse/HOU/ECT@ECT, Lisa Hesse/HOU/ECT@ECT 
+Subject: MJG, Inc. meter 4179 and Cokinos Meter 9676
+
+ Brian,
+
+Here are the transport rates for the below meters:
+
+MJG Meter 4179 3.39% co2 1 year Quote April 00
+Rel: 1180 avg. 1200-1988  .014
+loc.     .05
+P/l Density     .02
+Quality      .049
+Market Adjustment   .05
+     ____
+     ..183
+less discount and market fee  .02
+     ____
+     .16
+
+
+
+Please call if you have any questions or comments.  lisa 3 5901
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

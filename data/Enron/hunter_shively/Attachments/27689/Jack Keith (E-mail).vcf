@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Keith;Jack
+FN:Jack Keith (E-mail)
+ORG:Software Architets, Inc;Sales
+TITLE:Senior Sales Representative
+TEL;WORK;VOICE:(713) 787-0887
+TEL;CELL;VOICE:(281) 923-6944
+TEL;WORK;FAX:(713) 787-0889
+ADR;WORK:;;10333 Richmond Ave., Suite 350;Houston;TX;77042;United States
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:10333 Richmond Ave., Suite 350=0D=0AHouston, TX 77042=0D=0AUnited States
+EMAIL;PREF;INTERNET:jkeith@sark.com
+REV:20000621T184714Z
+END:VCARD

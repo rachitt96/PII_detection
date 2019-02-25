@@ -1,0 +1,16 @@
+From : Dave Nommensen
+To : george smith; edward terry; daren j farmer; randall l gay; robert superty; richard
+CC : 
+BCC : 
+Subject : Unify down - Unix team working on it
+
+Message Body :The Unix server that Unify Production runs on (Proton) went down this 
+morning.  The Unix team is working on it.  I will let you know as soon as 
+Unify is available.
+
+d.n.
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

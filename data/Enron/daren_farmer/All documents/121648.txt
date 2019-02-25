@@ -1,0 +1,60 @@
+From : Julie Meyers
+To : daren j farmer
+CC : robert cotten; vance l taylor
+BCC : 
+Subject : Re: October Wellhead
+
+Message Body :The Heatherlock deal had a Single Transaction Agreement attached to it.  When 
+the contract ended the deal ended.
+
+The other two I believe we just need a email from Vance or Donald setting up 
+a spot ticket.
+
+Vance could you look into that?   Do I have the wrong contract attached?  Or 
+is there a new contract.  for Camden & North Central, are those just going to 
+be spot tickets?
+
+Julie
+
+
+
+
+
+Daren J Farmer
+09/28/2000 07:41 AM
+To: Robert Cotten/HOU/ECT@ECT, Julie Meyers/HOU/ECT@ECT
+cc:  
+Subject: October Wellhead
+
+I have rolled or input the following deals for October.
+
+Crosstex 138553  2
+Duke  418429  139
+Hesco  394798  500
+Swift  418431  322
+Tri-Union 418432  700
+Vintage  403367  300
+Whiteoak 418434  96
+Whiting  418436  100
+
+So, I am showing that the only deals we have outstanding for Oct are:
+
+Camden/9858  3000
+Heatherlock/6879 544  (previous deal#133010)
+North Central/5228 3000
+
+Julie - Please check these deals for the correct contract/terms.  Also, 
+please look into Heatherlock.  Vance is noming gas for this deal.  However, 
+the deal ticket does not have an evergreen flag. When I tried to roll another 
+month, I got a message that another contract was needed.
+
+Thanks.
+
+D
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,23 @@
+From : Hunter S Shively
+To : dave samuels
+CC : 
+BCC : 
+Subject : Re: EOL Trade Summary
+
+Message Body :Dave
+
+ 
+
+can you redo with day + 1 products only?  Also can you display the data 
+without placing multiple data in a given row?  I have attached an example.  
+The first row in this spreadsheet is how I would like to see the data.  This 
+way I can sort the data in any fashion.
+
+Thanks
+Hunter
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

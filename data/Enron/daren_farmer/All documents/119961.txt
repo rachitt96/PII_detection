@@ -1,0 +1,24 @@
+From : Tom Acton
+To : daren j farmer
+CC : 
+BCC : 
+Subject : HPLC TO WELLHEAD
+
+Message Body :Daren here is the list of deals that need to move to the wellhead portfolio 
+from the HPLC and are in Vances spread sheet.
+some of these may have already been moved.
+
+EEX  Corporation         # 229609                  meter  5999
+EEX Corporation          #  229586                 meter  6500
+EEX E&PCompany     # 166817                 meter  9721
+Encina  GasPipeline   # 133291                 meter  5631
+Encina  Gas Pipeline  # 133344                 meter  6181
+Hurd Enterprises      # 133342                      meter  5427
+Samson  LoneStar       # 126270                 meter  6722
+Shoreline                         # 136225                meter   9743
+Welhausen Operating #  134987               meter   9717  
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

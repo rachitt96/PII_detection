@@ -1,0 +1,139 @@
+From : David Forster
+To : andrew r conner; allan ford; adam gross; andrew h lewis; andrea ring; bryan
+CC : product control - houston; product control - london; dave samuels; andy zipper
+BCC : 
+Subject : EnronOnline internal launch for Phase 2
+
+Message Body :On Wednesday, Sept. 13, we will be using the new version of EnronOnline 
+(website and Stack Manager) for all North American internal users.
+
+Please log into the temporary website: http://Prod.EnronOnline.com (no www.) 
+This is a LIVE website and all trades are REAL.
+
+Content of this Email
+1. Introduction
+2. Version 2.0 Launch Date
+3. New Website Features
+4. New Stack Manager Features
+5. Your Participation
+6. Contacts
+
+1. Introduction
+
+We are planning to launch version 2.0 of EnronOnline to customers within the 
+next few days.  In preparation for this launch, the new web site will be 
+released to internal users in North America on Wednesday, September 13th.  
+European internal users will be launched shortly after North America.  
+External customers will follow a few days later. 
+
+One of the purposes of the internal launch is to simulate the system load 
+which will be caused by the full customer launch.  Accordingly, we appreciate 
+your cooperation in helping us to simulate this load by logging into 
+http://prod.enrononline.com (no www.)  This is a live web site and all trades 
+are real.
+
+New features (as per recent presentations and training sessions) include:
+
+£ Price limit orders
+£ Enhanced customization
+£ Floating windows
+£ Market news and quotes
+£ Weather maps and tables
+£ Industry-specific publications
+£ Market-specific homepages
+
+2. Version 2.0 Launch Date
+EnronOnline Version 2.0 will be launched to the public a few days after our 
+internal launch. We  will be using the new version internally from Wednesday, 
+Sept. 13. This will provide an opportunity for you to become familiar with 
+using the new application in the production environment before our customers 
+start to use it.
+
+3. New Website Feature Details
+
+Price limit orders: Customers have the ability to set up orders that 
+automatically execute as soon as the price and volume requested become 
+available. The limit orders remain open in the system until they are 
+executed, cancelled by the user, or when they expire. All pending orders will 
+expire no later than 12 hours after being placed.
+
+Pending Price Limit Orders will appear in a new window below the Quotes 
+screen in the website.
+
+Product tabs: EnronOnline users can use enhanced filtering capabilities to 
+create separate page tabs for the products that interest them.  Users can 
+instantly access each page tab with a click of their mouse. Sort Ordering can 
+be changed by clicking on a column heading, with multiple sorts possible by 
+holding down the shift key while clicking.
+
+Floating windows: Users have the ability to create multiple windows with 
+different products by right-clicking on the products in the main quotes 
+screen.
+
+Market news: Website users can now access the latest headlines, sports and 
+industry news from Reuters. Furthermore, the information categories can be 
+customized according to personal interests. To customize a particular 
+category, users need to click the Edit button in the category heading.
+
+All information categories can be collapsed to save space. To expand or 
+collapse a category, users need to click the arrow to the left of the 
+category heading.
+
+Stock quotes: EnronOnline now offers stock quotes (20 min. delay) from major 
+exchanges around the world.
+
+Weather insights: Customers can now access weather maps and temperature data 
+for specific cities and regions.  Weather forecasts, up to six days ahead, 
+and temperature differentials from periodic averages are now available.
+
+Industry publications: Website users can read a wide range of 
+industry-specific publications including Argus European Natural Gas, Argus 
+European Electricity, the news from NGI,s Daily Gas Price Index, Bandwidth 
+Desk, Coal Daily and more.
+
+4. New Stack Manager Features
+
+The Stack Manager has been updated to facilitate Price Limit Orders. You will 
+notice that there is a new button at the top of the Stack Manager, which will 
+open a window showing a summary of the best Price Limit Order bids and offers 
+against your managed products. You can click the "+" sign to the left of a 
+summary to show a list of all the Price Limit Orders which have been placed 
+against that product.
+
+Under normal circumstances, the price shown on the website will be the same 
+as the price on your Stack Manager. However, the system will not allow you to 
+show a price which is better than an existing Price Limit Order. Instead, the 
+system will show a price on the website equivalent to the prevailing Price 
+Limit Order while it is being filled. Once the appropriate Price Limit Orders 
+are filled, then the website will again show your Stack Manager prices.
+
+It is important that you complete the &Maximum Volume8 field in the Product 
+Properties window and that you select "Allow Price Limit Orders". Also, make 
+sure that the price tick window in the Stack Manager,s &Product Properties8 
+field is appropriate for the product. If you do not do this, your customers 
+will not be able to use Price Limit Orders for your products.
+
+
+5. Your Participation
+Please log in to http://prod.enrononline.com (no www.) on Wednesday. To 
+ensure EnronOnline Version 2.0 is a success, it is important that you have a 
+full understanding of the new features and help promote the system to your 
+customers.
+
+6. Contacts
+If you have any further questions that are not answered above please feel 
+free to contact us at:
+
+The Americas:
++1 (713) 853-4357 (HELP)
+
+Asia and Australia
++61 2 9229 2300
+
+All other Regions
++44 (0)20 7783 7783
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

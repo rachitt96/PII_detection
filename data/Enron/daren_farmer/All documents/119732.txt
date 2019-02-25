@@ -1,0 +1,22 @@
+From : Thu Nguyen
+To : stacey neuweiler
+CC : daren j farmer; tina valadez; kristen j hanson
+BCC : 
+Subject : Oasis Jan 00
+
+Message Body :Stacy,
+
+ Oasis only show a delivery of 330,000 at point 1427.  We have two deals 
+pathed for this volume: DEAL 158220 Lower Colorado - 300,000 (Mtr1472), and 
+DEAL 157279 30,000 (Mtr 1472).  My issue is that the original Lower Colorado 
+deal was for 310,000.  The additional 10000 is pathed on Mtr 1516. Do I cut 
+deal 157279 by 10000 to make up to Lower Colorado? If so, could you please 
+path it at point 1427 so that I will tie back to Oasis.  Please let me know 
+as soon as you decide what to do.  Thanks
+
+Thu
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

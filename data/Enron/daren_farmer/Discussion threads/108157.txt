@@ -1,0 +1,37 @@
+From : Mark McCoy
+To : daren j farmer; edward terry; sabrae zajac; liz bellamy
+CC : 
+BCC : 
+Subject : April --- Flexible Katy Gas
+
+Message Body :FYI---
+
+Here is what I show so far for April baseload/term Katy flexible purchase gas:
+ 
+Oasis meter #6780:
+
+Aquila  10.000
+Duke  20.000 
+Richardson   1.312
+Conoco 15.000
+
+Total  46.312  Flexible
+
+
+Lonestar meter #67:
+
+Duke  47.850 (50.000 - 2.150 inflexible)
+Mitchell 20.000
+Crosstex  (6.200)  (Baseload sale)
+
+Total  61.650  Flexible
+
+Thanks,
+Mark
+x33396
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,16 @@
+From : Winfree  O'Neal D.
+To : Farmer  Daren J.
+CC : 
+BCC : 
+Subject : FT-Waha Curveshift
+
+Message Body :Daren,
+
+Brain fart on my part... You were long 90 contracts index during bid-week, so your index true-up should be 90 contracts by $.04 = $36,000... You are now buying less expensive index gas (index gas now worth $3.73 vs prior $3.77), which gives you the benefit... Add to that the weekend true-up of $.17, which gives you another $10,000...
+
+Take away your physical new deals of $20K and you are left with the $24K p&l... O'Neal
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

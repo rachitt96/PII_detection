@@ -1,0 +1,29 @@
+From : Marilyn Colbert
+To : curtis smith; jeremy wong; bob bowen; debbie r brackett; kathryn cordes; mary
+CC : 
+BCC : 
+Subject : Final CP Name Change/Merger List 7/00
+
+Message Body :This is the final list of counterparty name change and mergers for 7/00. 
+
+The changes will be made in the Global Counterparty system as follows:
+
+Name Changes - The current Legal name and ERMS Shortname will be overlayed on 
+Monday, 7/24, in the afternoon.
+We want to update the system before bid week begins on Tuesday. If anyone has 
+a problem with the ERMS shortnames being changed on Monday, please notify us 
+immediately. 
+
+Mergers/ Business changes - The old record will be inactivated on 8/1/00. 
+
+
+
+
+
+Marilyn Colbert    3 6517
+Cheryl Johnson   3 3103
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

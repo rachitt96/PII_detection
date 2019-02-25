@@ -1,0 +1,43 @@
+From : support@stormsignal.com support@stormsignal.com@ENRON
+To : hshivel@ect.enron.com
+CC : 
+BCC : 
+Subject : Desktop Weather announcement
+
+Message Body :
+
+May 25, 2001
+
+
+
+Dear Viewer:
+
+Our records show that you had subscribed to the desktop weather product, Storm Signal, from Click2Houston.com.  Unfortunately, the company that developed and hosted the service is no longer able to support it.  Like you, we're disappointed.
+
+Here are instructions on how to uninstall the product from your computer:
+
+	1.	Click on the Start button.
+	2.	Select Settings, then Control Panel
+	3.	When the Control Panel window appears, double-click on the Add/Remove Programs icon.
+	4.	When the Add/Remove Programs window appears, select the Storm Signal item in the list of installed programs and click the Add/Remove button.
+	5.	Please Note: Your TV station may have its own branding name for this weather product. It may be named something other than Storm Signal.
+	6.	Follow the uninstall wizard to remove Instant Warning and all associated files.
+However, Click2Houston.com offers severe weather alerts to your email box. All you have to do is sign up right here:
+
+	http://www.click2houston.com/weather/severeweatheralerts/
+
+In the meantime, may we suggest that you bookmark the Click2Houston.com weather page. On this page you will find current condition, forecasts, weather maps, satellite images and radar displays:
+
+	http://www.click2houston.com/weather/
+
+Thank you,
+
+
+
+KPRC-Television
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

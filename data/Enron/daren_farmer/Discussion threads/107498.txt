@@ -1,0 +1,24 @@
+From : Melissa Jones
+To : Charlie Stone; Gary Green; Daren J. Farmer
+CC : 
+BCC : 
+Subject : Enron / HPL Actuals for January 5-7, 2001
+
+Message Body :January 5, 2001
+
+     Teco Tap       60.000 / Enron
+
+January 6, 2001
+
+     No Flow
+
+January 7, 2001
+
+     Teco Tap       60.000 / Enron
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

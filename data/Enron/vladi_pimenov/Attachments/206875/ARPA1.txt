@@ -1,0 +1,27 @@
+Received: from ln4p1013pos.ldn.swissbank.com (ln4p1013pos.ldn.swissbank.com [172.16.232.64])
+	by ln16p1175.ldn.swissbank.com (8.8.6 (PHNE_14041)/8.8.6/WDR gamma evision: 1.4 $) with ESMTP id VAA28246
+	for </S=McDonald/G=Mary/I=/Q=/@ln16p1175.ldn.swissbank.com>; Tue, 29 Jan 2002 21:48:11 GMT
+From: ljavier@fragomen.com
+Received: from virscan4.swissbank.com (virscan4.swissbank.com [192.168.0.7])
+	by ln4p1013pos.ldn.swissbank.com (8.8.8/8.8.8) with ESMTP id VAA22436
+	for <mary.mcdonald@ubsw.com>; Tue, 29 Jan 2002 21:48:10 GMT
+Received: from gate.ldn.swissbank.com (virscan4 [192.168.0.7])
+	by virscan4.swissbank.com (8.8.8/8.8.8) with ESMTP id VAA18266
+	for <mary.mcdonald@ubsw.com>; Tue, 29 Jan 2002 21:45:39 GMT
+Received: (from smap@localhost)
+	by gate.ldn.swissbank.com (8.8.8/8.8.8) id VAA01584
+	for <mary.mcdonald@ubsw.com>; Tue, 29 Jan 2002 21:48:08 GMT
+Received: from <ljavier@fragomen.com> (mail.fragomen.com [209.219.245.2]) by gate via smap (V2.0)
+	id xma001021; Tue, 29 Jan 2002 21:47:43 GMT
+Subject: Vladislav PIMENOV ( UBS Warburg USA) - H-1B
+To: Mary.McDonald@ubsw.com
+Cc: kraman@fragomen.com
+X-Mailer: Lotus Notes Release 5.0.8  June 18, 2001
+Message-ID: <OF9DC66380.EAEA962A-ON85256B50.00775721@fragomen.com>
+Date: Tue, 29 Jan 2002 16:44:46 -0500
+X-MIMETrack: Serialize by Router on SMTPHUB/FDB-PA/FRAGOMEN(Release 5.0.8 |June 18, 2001) at
+ 01/29/2002 01:47:48 PM
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+
+

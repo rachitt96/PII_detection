@@ -1,0 +1,135 @@
+From : Scott Dieball
+To : sheila tweed; kay mann
+CC : 
+BCC : 
+Subject : Re: Assignment in World Hunger Document
+
+Message Body :----- Forwarded by Scott Dieball/ENRON_DEVELOPMENT on 03/09/2001 09:01 AM 
+-----
+
+	Scott Dieball
+	02/06/2001 04:33 PM
+		
+		 To: Roseann Engeldorf/Corp/Enron@ENRON, Kay Mann/Corp/Enron@Enron, Sheila 
+Tweed/HOU/ECT@ECT@ENRON
+		 cc: Lisa Bills/Enron@EnronXGate@ENRON
+		 Subject: Re: Assignment in World Hunger Document
+
+Thanks Rose for update re assignment language.
+
+Kay/Sheila - Is the language below the same language presently in the form 
+contract?  If the language is the same, then I gather from Rose that she is 
+OK with it but thinks you may not be happy with it.  If instead the language 
+is different, then we should run the form contract language past Rose for 
+comments.  If the latter applies, please send the language to Rose (and copy 
+me) as I am not sure if I have the latest version.
+
+Scott
+
+
+
+
+
+	Roseann Engeldorf@ENRON
+	02/06/2001 03:55 PM
+		 
+		 To: Scott Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt
+		 cc: Sheila Tweed/HOU/ECT@ECT, Lisa Bills/Enron@EnronXGate, Kay 
+Mann/Corp/Enron@Enron
+		 Subject: Assignment in World Hunger Document
+
+Our "world hunger" assignment discussions at year end were preempted by our 
+"TurboPark" and "Electrobolt" assignment discussions in connection with 
+moving the LMs and other GE contracts into the various off-balance sheet 
+vehicles at year end.
+
+I have attached a copy of the assignment provisions we agreed to with GE for 
+those vehicles; they are fairly restrictive and I do not think the power 
+lawyers or originators would be particularly happy with them.   They gave us 
+the flexibility we needed for the financing, but I don't know that they are 
+something Enron Corp. wants to live with in our template document.
+
+Rose
+
+22.2 Assignment by Purchaser or Agent.  
+Neither Party shall assign any or all of their duties or rights under this 
+Contract without prior written consent from the other Party; such consent not 
+to be unreasonably withheld.  If the Purchaser wishes to obtain the Seller,s 
+consent to the assignment of Purchaser,s duties or rights under this 
+Contract, it shall request such consent in a writing which includes or 
+incorporates:
+
+(a) the legal name and address and the form and place of incorporation or 
+organization of the proposed assignee;
+
+(b) the current published annual report of the proposed assignee, or if no 
+such report is published three years of audited financial statements and a 
+description of the proposed assignee,s business; and
+
+(c) a descriptive list of power generation projects completed by the assignee 
+during the preceding year.
+
+Seller shall respond to any request for consent within thirty (30) days 
+following its receipt of such request.   
+Notwithstanding the foregoing:
+(w) any lender participating in or providing financing or financing 
+structures, including, without limitation, structures related to leasing 
+arrangements and project financing in respect of any Unit, may transfer or 
+assign its rights associated with such Unit upon liquidation or foreclosure 
+of such Unit in satisfaction of Purchaser,s obligations under such financing 
+structure;
+(x) either Party may without further consent by the other Party delegate or 
+assign its duties or rights to any Affiliate or subsidiary; 
+(y) Purchaser may without further consent of the Seller delegate or assign 
+its duties or rights to any Affiliate of Enron Corp.; or
+(z) if Purchaser holds or controls other material assets associated with the 
+Facility into which any Unit will be installed (the &Transferred Facility8) 
+and if Purchaser transfers of all or substantially all of its rights in and 
+to such assets, Purchaser may without further consent delegate or assign its 
+duties or rights associated with such Unit to the transferee of such other 
+assets (the &Transferee8), provided that one of the following conditions has 
+and continues to be fulfilled:
+
+(i) prior to payment of the Purchase Amount, that Transferee (A) has provided 
+financial guarantees reasonably satisfactory to the Seller and valid until 
+such time as the Purchase Amount shall be paid in full, or (B) has 
+demonstrated that it has credit rated by Standard & Poor,s at BBB- or better, 
+and has agreed that if it fails to maintain such rating until the Purchase 
+Amount shall have been paid in full that it will provide financial guarantees 
+as described in subsection (A) above.
+(ii) that Transferee shall provide representations reasonably satisfactory to 
+Seller that a credit facility covering the Transferred Facility has been 
+agreed and is operative.
+Purchaser or Agent shall have the right to assign or pledge, from time to 
+time, all or any portion of their respective right, title and interest in, to 
+and under the Agreement as collateral for financing of this Facility without 
+Seller,s consent.
+
+When duly assigned in accordance with this Section (including, following any 
+collateral assignment, upon foreclosure by any collateral assignee), (i) this 
+Agreement or the rights and/or obligations so assigned shall be binding upon 
+and shall inure to the benefit of the assignee (and all rights and/or 
+obligations so assigned, including, without limitation, any and all warranty 
+rights, shall be assigned to the assignee as if such assignee were an 
+original party hereto), (ii) the assignor shall be irrevocably relieved of 
+and forever discharged from all liability under this Agreement so long as the 
+assignee executes an assumption of such liabilities, and (iii) the Seller 
+shall look only to such assignee for the performance of the obligations so 
+assigned.  Any assignment by Purchaser other than as permitted herein shall 
+be void and without force or effect.
+The parties hereto further agree and acknowledge that the foregoing 
+provisions relating to this assignment will only control the assignment of 
+Purchaser,s rights under this Agreement prior to the date upon which the 
+Equipment achieves Takeover.  Following such date, Purchaser shall be 
+permitted, without Seller,s consent, to: (i) assign its rights under this 
+Agreement, (ii) convey any ownership interest that it may have in the 
+Facility and/or (iii) convey any equity interest that it may have in the 
+entity which owns the Facility.
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

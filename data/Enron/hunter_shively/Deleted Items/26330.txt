@@ -1,0 +1,51 @@
+From : Storey  Geoff
+To : Shively  Hunter S.
+CC : 
+BCC : 
+Subject : RE: Request Submitted: Access Request for geoff.storey@enron.com
+
+Message Body :    Its a bridge to Sun/Oracle, so i can run ERMS portcalc, curveview, ect from my PC
+        
+ 
+ -----Original Message-----
+From: Shively, Hunter S. 
+Sent: Friday, June 01, 2001 1:08 PM
+To: Storey, Geoff
+Subject: FW: Request Submitted: Access Request for geoff.storey@enron.com
+
+
+
+Geoff, what is exceed? 
+
+-----Original Message----- 
+From: ARSystem <ARSystem@mailman.enron.com>@ENRON 
+Sent: Fri 6/1/2001 9:48 AM 
+To: Shively, Hunter S. 
+Cc: 
+Subject: Request Submitted: Access Request for geoff.storey@enron.com
+
+
+
+You have received this email because the requester specified you as their Manager. Please click <http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000038172&Page=Approval> to review and act upon this request.
+
+
+
+
+Request ID          : 000000000038172
+
+Request Create Date : 6/1/01 9:47:25 AM
+
+Requested For       : geoff.storey@enron.com
+
+Resource Name       : Exceed
+
+Resource Type       : Applications
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,15 @@
+From : Hunter S Shively
+To : rahil jafry
+CC : 
+BCC : 
+Subject : Re: Here goes it....
+
+Message Body :I think that if a product does not trade for a day, we do not post the 
+product the index or product description in the index page.  I think the 
+index calculation hours should be 7:30 a.m. to 12:00 a.m.   How fast can the 
+index page be calculated and posted?
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,28 @@
+From : Ami Chokshi
+To : edward d gottlob
+CC : brenda f herod; steve venturatos; janet h wallis; daren j farmer
+BCC : 
+Subject : Entex Volumes and Price for 1999-2000 Contract Year
+
+Message Body :The following represents daily volume and price information for Entex's first 
+contract year. The citygate volumes were retreived out of Business Objects 
+and represent Entex's meter 2000 volumes. The Midcon volumes are based on 
+daily nominated (not allocated) volumes. The customer price represents a 
+weighted average of Entex total billed volume (industrial and residential) 
+against the dollar amount billed to them. I've put together charts that graph 
+the following:
+ 1. Entex's total volume (Citygate and Midcon) v. Daily price
+ 2. Midcon volumes v. Daily price
+ 3. Daily price v. Customer price
+ 4.  First of the month Index v. Gas Daily Price
+ 5. Percent change in daily price v. Percent change in daily volume
+
+
+
+Thanks,
+Ami
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,36 @@
+From : Outlook Migration Team
+To : alan brumbaugh; c p chiang; daren j farmer; deaun trayer; dwayne luzum; eric
+CC : 
+BCC : 
+Subject : PLEASE PROCESS IMMEDIATELY TO AVOID LOSS OF INFORMATION
+
+Message Body :READ VERY CAREFULLY
+
+Your Migration Date is: TODAY!!
+Please make sure you are connected to the network before you launch this 
+application.  
+CLICK THE BUTTON ONLY ONCE!
+
+IF A POP-UP BOX APPEARS, PROMPTING YOU TO "ABORT, CANCEL OR TRUST SIGNER"  
+PLEASE SELECT TRUST SIGNER.  THIS BOX MAY APPEAR MULTIPLE TIMES.  PLEASE 
+SELECT TRUST SIGNER FOR EVERY INSTANCE.
+
+Please Note:  You will not notice any change to your existing Personal 
+Address Book, Journal entries,  Private Folder Structure or calendar after 
+running this application. Any information you Add to your Personal Address 
+Book, Journal entries or calendar after you process this tool will need to be 
+manually imported into Outlook after you are migrated.
+  Failure to run this application will result in your data not being imported 
+to Outlook.
+
+Thank you for your cooperation,
+
+Outlook 2000 Migration Team
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

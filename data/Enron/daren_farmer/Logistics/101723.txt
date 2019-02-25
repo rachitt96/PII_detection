@@ -1,0 +1,16 @@
+From : Olsen  Michael
+To : Daren J Farmer/HOU/ECT@ENRON
+CC : 
+BCC : 
+Subject : deal 83389
+
+Message Body :FYI
+
+I added meter 987195 to the above deal for August 1999 to clean up a strangers gas issue for Clem.  No deal volume was put in, I just needed the point to show up in Unify for Volume Managment to assign a track ID.
+
+MIke
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

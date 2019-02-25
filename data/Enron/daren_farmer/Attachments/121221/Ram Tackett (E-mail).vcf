@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Tackett;Ram
+FN:Ram Tackett (E-mail)
+ORG:Abacus Technologies
+TITLE:Owner
+TEL;WORK;VOICE:(281) 651-7106
+TEL;HOME;VOICE:(281) 651-6332
+TEL;CELL;VOICE:(281) 460-5182
+TEL;WORK;FAX:(281) 528-8636
+ADR;WORK:;;;;;;United States of America
+LABEL;WORK:United States of America
+ADR;HOME:;;17611 Loring Lane,;Spring;TX;77388-5746;United States of America
+LABEL;HOME;ENCODING=QUOTED-PRINTABLE:17611 Loring Lane,=0D=0ASpring, TX 77388-5746=0D=0AUnited States of America
+ADR;POSTAL:;;;;;;United States of America
+LABEL;POSTAL:United States of America
+EMAIL;PREF;INTERNET:rtackett@abacustech.net
+REV:20000717T152547Z
+END:VCARD

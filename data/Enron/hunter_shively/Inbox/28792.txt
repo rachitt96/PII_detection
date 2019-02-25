@@ -1,0 +1,41 @@
+From : Webb  Jay
+To : Shively  Hunter S.
+CC : 
+BCC : 
+Subject : RE: David Woodstrom
+
+Message Body :Hunter,
+
+I don't have headcount.  I can push (with your help) to get one added.  If you have headcount to transfer, that would work too.  Let me know.
+
+Thanks!
+ --jay
+
+ -----Original Message-----
+From: 	Shively, Hunter S.  
+Sent:	Monday, February 04, 2002 11:14 AM
+To:	Webb, Jay
+Subject:	FW: David Woodstrom
+
+
+Jay,
+
+Does your group have space?
+
+ -----Original Message-----
+From: 	Gaskill, Chris  
+Sent:	Friday, February 01, 2002 1:59 PM
+To:	Shively, Hunter S.
+Cc:	Lavorato, John
+Subject:	David Woodstrom
+
+Hunter,
+
+As I mentioned this morning, since Zach McCarroll turned down the offer we would like to explore the possibility of keeping David Woodstrom on the IT team to fill the open position.  The Fundamentals IT team has been cut to a minimum support staff, and the addition of David would facilitate more development of fundamentals content.  David has been focusing on the operational capacity reporting (morning ops reports) by creating better ways to access the operational data (real time query tool vs. standard reports).  David also has been responsible for maintenance and development of the commodity fundamentals website since he joined the group in early 2000.  He built and maintains the current message board system used by gas trading and as well as the critical notice alerts for pipelines.  He has also worked closely with the West desk and Portland on various real time load and outage reports.  David Dronet and I both feel that the addition of David Woodstrom will allow the fundamentals team to continue producing innovative products instead of providing only support for current operations.  Let me know if you have any questions.
+
+Chris 
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

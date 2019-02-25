@@ -1,0 +1,114 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f15\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}
+{\f19\froman\fcharset238\fprq2 Times New Roman CE;}{\f20\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f22\froman\fcharset161\fprq2 Times New Roman Greek;}{\f23\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f24\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f109\fswiss\fcharset238\fprq2 Tahoma CE;}{\f110\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f112\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f113\fswiss\fcharset162\fprq2 Tahoma Tur;}
+{\f114\fswiss\fcharset186\fprq2 Tahoma Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\adjustright \snext0 Normal;}{
+\s1\qc\sa240\keepn\nowidctlpar\adjustright \b\caps \sbasedon0 \snext19 heading 1;}{\s2\qc\sa240\keepn\nowidctlpar\adjustright \b\ul \sbasedon0 \snext19 heading 2;}{\s3\qc\sa240\keepn\nowidctlpar\adjustright \ul \sbasedon0 \snext19 heading 3;}{
+\s4\sa240\keepn\nowidctlpar\adjustright \b\ul \sbasedon0 \snext19 heading 4;}{\s5\sa240\nowidctlpar\adjustright \b\i \sbasedon0 \snext19 heading 5;}{\s6\sa240\nowidctlpar\adjustright \ul \sbasedon0 \snext19 heading 6;}{
+\s7\li720\sa240\nowidctlpar\adjustright \b\ul \sbasedon0 \snext19 heading 7;}{\s8\li720\sa240\nowidctlpar\adjustright \b\i \sbasedon0 \snext19 heading 8;}{\s9\li720\sa240\nowidctlpar\adjustright \ul \sbasedon0 \snext19 heading 9;}{\*\cs10 \additive 
+Default Paragraph Font;}{\s15\nowidctlpar\tqc\tx4320\tqr\tx8640\adjustright \sbasedon0 \snext15 header;}{\s16\nowidctlpar\tqc\tx4320\tqr\tx8640\adjustright \sbasedon0 \snext16 footer;}{\*\cs17 \additive \fs20 \sbasedon10 page number;}{
+\s18\fi720\li720\nowidctlpar\adjustright \sbasedon0 \snext18 Body Text 2;}{\s19\sa120\nowidctlpar\adjustright \sbasedon0 \snext19 Body Text;}{\s20\qc\nowidctlpar\adjustright \scaps\fs46\charscalex150 \sbasedon0 \snext20 Title;}{\*\cs21 \additive 
+\fs20\super \sbasedon10 footnote reference;}{\s22\fi210\sa120\nowidctlpar\adjustright \b \sbasedon19 \snext22 Body Text First Indent;}{\s23\li2880\nowidctlpar\phpg\posxc\posyb\absh-1980\absw7920\dxfrtext180\dfrmtxtx180\dfrmtxty0\adjustright 
+\sbasedon0 \snext23 envelope address;}{\s24\nowidctlpar\adjustright \sbasedon0 \snext0 RecipientName;}{\s25\qc\nowidctlpar\adjustright \sbasedon0 \snext25 LetterDate;}{\s26\nowidctlpar\adjustright \fs20 \sbasedon0 \snext26 envelope return;}{
+\s27\nowidctlpar\adjustright \sbasedon0 \snext27 footnote text;}{\s28\fi-720\li1440\ri720\nowidctlpar\tqr\tldot\tx9360\adjustright \sbasedon0 \snext0 \sautoupd toc 2;}{\s29\fi-720\li720\ri720\nowidctlpar\tqr\tldot\tx9360\adjustright 
+\sbasedon0 \snext0 \sautoupd toc 1;}{\s30\fi-720\li2160\ri720\nowidctlpar\tqr\tldot\tx9360\adjustright \sbasedon0 \snext0 \sautoupd toc 3;}{\s31\fi-720\li2880\ri720\nowidctlpar\tqr\tldot\tx9360\adjustright \sbasedon0 \snext0 \sautoupd toc 4;}{
+\s32\fi-720\li3600\ri720\nowidctlpar\tqr\tldot\tx9360\adjustright \sbasedon0 \snext0 \sautoupd toc 5;}{\s33\fi-720\li4320\ri720\nowidctlpar\adjustright \sbasedon0 \snext0 \sautoupd toc 6;}{\s34\fi-720\li5040\ri720\nowidctlpar\adjustright 
+\sbasedon0 \snext0 \sautoupd toc 7;}{\s35\fi-720\li5760\ri720\nowidctlpar\adjustright \sbasedon0 \snext0 \sautoupd toc 8;}{\s36\fi-720\li6480\ri720\nowidctlpar\adjustright \sbasedon0 \snext0 \sautoupd toc 9;}{\*\cs37 \additive \fs20\ul\cf2 \sbasedon10 
+Hyperlink;}{\s38\nowidctlpar\adjustright \fs16 \sbasedon0 \snext38 DocID;}{\s39\nowidctlpar\adjustright \cbpat9 \f15 \sbasedon0 \snext39 Document Map;}{\s40\li720\sa120\nowidctlpar\adjustright \fs20 \sbasedon0 \snext40 List Continue 2;}{
+\s41\qj\nowidctlpar\adjustright \sbasedon19 \snext41 Body Text SS,btss;}{\s42\sa120\nowidctlpar\adjustright \sbasedon19 \snext42 table text;}}{\info{\title April ____, 2001}{\author Diana Thomas}{\operator Carolyn Campbell}
+{\creatim\yr2001\mo4\dy25\hr11\min16}{\revtim\yr2001\mo5\dy1\hr10\min45}{\printim\yr2001\mo5\dy1\hr10\min44}{\version9}{\edmins22}{\nofpages3}{\nofwords413}{\nofchars2173}{\*\company King & Spalding}{\nofcharsws0}{\vern123}}\margl1440\margr1440\margt2160 
+\widowctrl\ftnbj\aenddoc\aftnnar\formshade\viewkind1\viewscale90 \fet0{\*\template C:\\Program Files\\Microsoft Office\\Templates\\Houston Letterhead.dot}\sectd \binfsxn261\binsxn261\linex0\footery864\endnhere\titlepg\sectdefaultcl {\header \pard\plain 
+\s15\widctlpar\tqc\tx4320\tqr\tx8640\adjustright {
+\par }}{\footer \pard\plain \s16\widctlpar\tqc\tx4320\tqr\tx8640\adjustright {
+\par }}{\headerf \pard\plain \s15\widctlpar\tqc\tx4320\tqr\tx8640\adjustright {
+\par }}{\footerf \pard\plain \s16\widctlpar\tqc\tx4320\tqr\tx8640\adjustright {
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \widctlpar\tx360\tqr\tx9180\adjustright {\fs12\charscalex138 {\*\bkmkstart UFStartPoint}
+\par }\pard\plain \s25\qc\widctlpar\adjustright {{\*\bkmkstart FirstPageDate}{\*\bkmkend FirstPageDate}
+\par May }{\strike ____}{\b\uldb 2}{, 2001
+\par }\pard \s25\widctlpar\adjustright {
+\par 
+\par }{\b\i\ul Via Facsimile
+\par }{
+\par }\pard\plain \widctlpar\adjustright {Escrow Agent, Escrow and Specialized Agency Services
+\par Attention: Estelle Lawrence 
+\par Citibank, N.A.
+\par 111 Wall Street, 14th Floor
+\par New York, New York 10043
+\par (212) 657-2076
+\par (212) 657-2762 fax
+\par 
+\par 
+\par \tab Re:\tab Citibank Escrow Account #795184
+\par \tab \tab Enron/Pegasus Escrow dated 4/2001
+\par 
+\par 
+\par Ladies and Gentlemen:
+\par 
+\par }\pard \qj\widctlpar\adjustright {\tab This letter is written in reference to that certain Escrow Agreement dated April 25, 2001 (the \ldblquote }{\ul Escrow Agreement}{\rdblquote ) by and among Enron North America Corp. (\ldblquote }{\ul ENA}{\rdblquote 
+), Pegasus Power Partners, LLC (\ldblquote }{\ul PPL}{\rdblquote ), Citibank, N.A. (the \ldblquote }{\ul Escrow Agent}{\rquote 
+), Citibank, N.A., as intermediary, and U.S. Bank Trust National Association, as collateral agent.  All capitalized terms used herein without definition shall
+ have the meanings given to such terms in the Escrow Agreement.  Pursuant to the Escrow Agreement, the undersigned hereby provide joint instructions authorizing the Escrow Agent to disburse the Escrow Property as follows:  
+\par }{\b 
+\par }{
+\par }\pard \qj\fi-720\li1440\widctlpar\adjustright {1.\tab To ENA, on the date hereof, or as soon thereafter as practical,  an amount equal to $16,990,800;
+\par 
+\par 2.\tab T}{\cf1 o PPL, on the date hereof, or as soon thereafter as practical, an amount equal to interest earned or accrued, if any, on the investment of funds in the Escrow Account from the date such funds were deposited through the date hereof;}{
+\par 
+\par 3.\tab T}{\cf1 o GE Packaged Power, Inc. (\ldblquote }{\ul\cf1 GE}{\cf1 \rdblquote ), on the date hereof, an amount equal to $50,234,000; }{\strike\cf1  [provided that the Escrow Agent shall withhold an amount equal to $2,820,800 (the \ldblquote 
+Retainage Amount\rdblquote ), until the Escrow Agent receives written approval from PPL indicating that GE has delivered a letter of credit to the reasonable satisfactio
+n of PPL in the amount of the Retainage Amount, whereupon the Escrow Agent shall release the Retainage Amount to GE;]}{\cf1 
+\par \page }{4.\tab To ENA}{\cf1 , upon payment to GE of all of the foregoing amounts, the remaining balance, if any (including interest earned or accrued thereo
+n, if any, except any interest owed but not paid to PPL pursuant to item 2 hereof), of the Escrow Account.}{
+\par 
+\par }\pard \qj\widctlpar\adjustright {
+\par \tab For purposes of this instruction letter, all disbursements as indicated above shall be wired to the following accounts:
+\par }\pard \widctlpar\adjustright {
+\par 
+\par \tab If to ENA:
+\par 
+\par \tab \tab Enron North America Corp.
+\par \tab \tab Citibank, N.A.
+\par \tab \tab Account # 4078-1075
+\par \tab \tab ABA # 021 000 089
+\par 
+\par 
+\par \tab If to PPL:
+\par 
+\par \tab \tab Pegasus Power Partners LLC
+\par \tab \tab U.S. Bank Trust N.A.
+\par \tab \tab Account # 180121167365
+\par \tab \tab ABA # 091 000 022
+\par \tab \tab BNF:  Corporate Trust Services L.A.
+\par \tab \tab TSU:  47300413
+\par \tab \tab OBI:  Pegasus Powers A/C#94425260
+\par \tab \tab Attn:  Grace Yang 213-533-8713
+\par \tab 
+\par 
+\par \tab If to GE:
+\par 
+\par \tab \tab GE Packaged Power, Inc.
+\par \tab \tab Bankers Trust Company
+\par \tab \tab Account # 00-388615
+\par \tab \tab ABA # 021 001 033
+\par \tab \tab Swift:  BKTRUS33
+\par 
+\par 
+\par \page \tab Upon distribution of the all of the Escrow Property, please terminate the Escrow Agreement and close the referenced escrow account.  Thank you.
+\par 
+\par \tab \tab \tab \tab \tab \tab Regards,
+\par 
+\par 
+\par }\pard\plain \s5\sa240\widctlpar\outlinelevel4\adjustright \b\i {
+\par }{\strike Richard Vicens \tab \tab \tab \tab Jacob S. Thomas}{ 
+\par }{\uldb Dean Vanech}{\tab \tab \tab \tab \tab }{\uldb William D. Duran}{
+\par }\pard\plain \widctlpar\adjustright {\strike Secretary \tab \tab \tab \tab \tab Vice President}{ 
+\par }{\b\uldb President}{\tab \tab \tab \tab \tab }{\b\uldb Managing Director}{
+\par Pegasus Power Partners LLC\tab \tab \tab Enron North America Corp.
+\par 89 Headquarters Plaza\tab \tab \tab \tab 121 Southwest Salmon Street\tab 
+\par North Tower, 14}{\super th}{ Floor\tab \tab \tab Portland, Oregon  97204
+\par }\pard\plain \s40\widctlpar\adjustright \fs20 {\fs24 Morristown, New Jersey  07960\tab \tab Phone:  (503)  464-3803
+\par }\pard\plain \widctlpar\adjustright {Phone:   (973) 993-1854\tab \tab \tab Fax:  (503) 464-3740
+\par Fax: (973) 326-1821{\*\bkmkend UFStartPoint}
+\par }}

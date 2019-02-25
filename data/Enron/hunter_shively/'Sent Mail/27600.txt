@@ -1,0 +1,39 @@
+From : Hunter S Shively
+To : airam arteaga
+CC : 
+BCC : 
+Subject : HP 9100C Digital Sender
+
+Message Body :---------------------- Forwarded by Hunter S Shively/HOU/ECT on 07/22/2000 
+08:15 PM ---------------------------
+   
+                        	
+	Enron Technology
+	
+	From:  Stephen Harrington @ ENRON                           07/20/2000 03:17 
+PM
+	
+
+To: Hunter S Shively/HOU/ECT@ECT
+cc: John P Tollefsen/HOU/ECT@ECT, Don Adam/Corp/Enron@ENRON 
+Subject: HP 9100C Digital Sender
+
+Hunter:
+
+The equipment is installed behind Rain's desk and the network port has been 
+made active.  The Server Team has to activate the sender, but they're running 
+some printer issues this afternoon, and may not be able to get to it today.  
+I am leaving for vacation today so the Remedy ticket # is: 170276.  You can 
+call x34888 and reference the ticket number for tracking while I'm gone.  The 
+Team Lead for Trader Support on your floor is Don Adam, and he may be able to 
+help facilitate a resolution for you if nothing happens by tomorrow afternoon.
+
+Regards,
+
+Steve
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

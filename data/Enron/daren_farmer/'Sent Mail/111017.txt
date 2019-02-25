@@ -1,0 +1,20 @@
+From : Daren J Farmer
+To : ami chokshi; david baumbach
+CC : 
+BCC : 
+Subject : New Entex deal
+
+Message Body :Tom Engel (Sitara) has moved the big Entex ticket (#117413) for July 2000 
+forward to deal #292249.  This should help some with amount of time it takes 
+to update and bridge back this deal.  He is adjusting the swap tickets also.  
+You should probably double check these to make sure everything looks ok.  
+
+The programmers are also trying to find ways to further decrease the time 
+involved in updating the deal.
+
+D
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

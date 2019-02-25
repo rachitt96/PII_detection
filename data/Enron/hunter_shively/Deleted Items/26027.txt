@@ -1,0 +1,39 @@
+From : Hayden  Frank
+To : Shively  Hunter S.
+CC : 
+BCC : 
+Subject : RE: New Factors will be put into Production tonight
+
+Message Body :We don't have one, this was a suggestion raised by Scott Neal.  I'll try to gin it up. 
+Frank
+
+ -----Original Message-----
+From: 	Shively, Hunter S.  
+Sent:	Wednesday, May 09, 2001 10:56 AM
+To:	Hayden, Frank
+Subject:	RE: New Factors will be put into Production tonight
+
+can we get a calendar for factor changes?
+
+ -----Original Message-----
+From: 	Hayden, Frank  
+Sent:	Wednesday, May 09, 2001 9:37 AM
+To:	Arnold, John; Shively, Hunter S.; Neal, Scott; Allen, Phillip; Martin, Thomas A.; Schwieger, Jim; Grigsby, Mike; Lavorato, John; Kitchen, Louise
+Cc:	Port, David; Gorny, Vladimir; Khanna, Bharat
+Subject:	New Factors will be put into Production tonight
+Importance:	High
+
+Please note that new factors will be put into production this evening.  Value-at-risk will most likely increase by the percentage outlined below.  Shorts are driving price risk, while long basis drives the forward physical risk.   
+
+
+ << OLE Object: Picture (Metafile) >> 
+
+Let me know if you need access to component VAR analysis, so that you can effectively manage VAR.  
+
+
+Frank
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

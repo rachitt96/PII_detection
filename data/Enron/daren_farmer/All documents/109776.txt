@@ -1,0 +1,28 @@
+From : Mary Poorman
+To : danny conner; liz bellamy; daren j farmer
+CC : julie meyers
+BCC : 
+Subject : Deals under wrong Counterparty from weekend
+
+Message Body :I need some assistance getting these deals corrected in the system for the 
+weekend, so that I can get my errors clear.  I have tried to change the 
+counterparty, but I am not able.  Jackie is out again today, so, I will be 
+behind the proverbial 8-ball and would greatly appreciate your help clearing 
+these things up.
+
+Deal ticket 468688 P-MGI is in system as HPLC purch.  The correct entity is 
+ENA IM Texas, ENA made the orig. Sale
+Deal ticket 468110 D2D to deliver to Central desk at Humble is on ENA, These 
+tickets have always been HPLC and not ENA.
+
+Please let me know if there is anything that I can do to speed the process.  
+I need to have all of my errors clean today.
+
+Thank you,
+
+Mary
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

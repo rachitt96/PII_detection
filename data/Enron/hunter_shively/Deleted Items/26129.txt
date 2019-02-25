@@ -1,0 +1,39 @@
+From : Johnson  Adam
+To : Allen  Phillip K.; Arnold  John
+CC : 
+BCC : 
+Subject : EOL Average Deal Count as of 5-16-01
+
+Message Body :
+Notes for this Week's Report:
+
+* UK Power's average deals per day finished April with 13 EOL deals and is now showing 14 daily transactions in May, down from March's 59 EOL deals.  Non-EOL's average transactions have increased dramatically, however, ending April with 180 deals per day and currently tracking at 244 deals in early May.  While transactions are down, EOL and Non-EOL volume is up during this same period. 
+
+* UK Gas's Average EOL and Non-EOL deals per day have decreased since their peak of 140 EOL and 96 Non-EOL transactions in March. They ended April with an average of 118 EOL deals per day and are currently tracking at 76 transactions in May. Non-EOL is reporting at 82 deals per day in May.
+
+* US West Power's average transactions per day has increased to 184 EOL deals in May, up from 80 deals per day in January, a 130% increase. Non-EOL daily transactions has increase from 206 to 231 deals during the same period..
+
+* Southwest Power's EOL transactions per day has continued to increase in 2001. On average, they ended January with 26 EOL trades and now show 70 daily transactions in May, a 169% increase. Non-EOL transactions have slightly increased during this same period, up from 68 in January to 84 in May.
+
+* WTI Physical's total monthly transactions already show 85 EOL deals through the first 12 trading days in May.  This mid-month total is up from April's total of 60 EOL deals.
+
+* US Weather's total monthly transactions has shown a jump in May with 35 deals via EOL, up from 23  in April and 15 in March. Non-EOL deal totals are down to 19 deals in May from 52 in March.	
+
+---------------
+The following files contain a graphical view of the average deal count and volumes per month by Commodity for EOL and OTC transactions since the launch of EnronOnline. This information is for comparative analysis only.  Do not update links when opening these files.  
+
+
+AVERAGE DEAL COUNTS FOR COMMODITIES (excluding Global Products, which displays monthly totals)
+
+     
+
+If you have any questions regarding this breakout, please contact one of the following:
+
+Torrey Moorer x3-6218
+Matt Motsinger x3-5221
+Adam Johnson x5-4877
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

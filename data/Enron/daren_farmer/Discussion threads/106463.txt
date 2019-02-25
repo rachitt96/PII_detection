@@ -1,0 +1,26 @@
+From : Thomas Engel
+To : daren j farmer
+CC : 
+BCC : 
+Subject : NEW STORAGE FLAG
+
+Message Body :At your earliest convenience, please add the new Storage flag to all your 
+Storage deals.
+You can find them in the portfolio shown below.  This is a new required field 
+that will be used in Global
+to feed to UNIFY.   Physical Facility Storage and Synthetic Storage (Parking) 
+are treated differently for accounting purposes.   
+
+
+
+
+
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

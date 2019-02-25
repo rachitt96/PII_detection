@@ -1,0 +1,19 @@
+From : Parker  Megan
+To : Farmer  Daren J.
+CC : 
+BCC : 
+Subject : Cleburne UA4 11/00
+
+Message Body :Darren:
+I am working with Jim Pond to clean up the UA4 that has been booked to Cleburne since the beginning of the deal.  We are starting with November 2000.  Gas accounting has booked 21,309 MMBtu as UA4 for November, which is related to deal 502861 on the Texas desk.  It looks like we took some of the gas we purchased from Williams (deal 384237) on the Cleburne desk and moved it to ENA's transport contract with deal 502861.  The print screen below shows the deal from Zone transport to ENA-Texas.  I think we need a deal from Cleburne to Zone Transport to complete to deal path and clean up the UA4.  Can you review the deals for November and let me know what you think?  Jim says there is UA4 every month of this deal and this may be the reason.  I will have to check each month.
+
+Thanks,
+Megan
+ 
+
+<Embedded Picture (Device Independent Bitmap)>
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

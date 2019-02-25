@@ -1,0 +1,35 @@
+From : O'Neal D Winfree
+To : thu nguyen; aimee lannou; daren j farmer; clem cernosek; julie meyers
+CC : 
+BCC : 
+Subject : Mid-Tex deals
+
+Message Body :Hey gang,
+
+I have created the new deals reflecting the Mid-Texas meters for the 
+following deals beginning in January 2000:
+
+ETOCO:   from HPL meter 393  to Mid-Texas meter 9738 
+old sitara deal   = 133435
+new sitara deal = 163874
+
+Richardson:  from HPL meter 7283 to Mid-Texas meter 9807
+old sitara deal   = 141691
+new sitara deal = 164003
+
+Mueller:  from HPL meter 7260 to Mid-Texas meter 9769
+old sitara deal   =  156247 Feb. 2000 through June 2000
+old sitara deal   =  143885 Jan. 2000 only
+old sitara deal   =  143887 Jan. 2000 only
+new sitara deal  = 164172 
+
+
+Please take a look at the deals and let me know if I have doubled volumes, or 
+if there is anything else I need to do to make things work better...
+
+O'Neal 3-9686
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,25 @@
+From : UBSW Energy Global Infrastructure
+To : DL-GA-all_UBSW Energy
+CC : 
+BCC : 
+Subject : Information, Please Read:  UBSW Energy Migration
+
+Message Body :
+Attention UBS Warburg Energy Users:
+
+Please be aware that IT will begin migrations to UBSW Energy this evening.  Please log off of your machines tonight.
+
+When you arrive in the morning, you will login with your Enron ID and password.  You will be required to change your password immediately.
+
+You will also have an email in your Inbox tomorrow morning explaining your "next steps".
+
+If you have any questions, please call 3-1411.
+
+Thanks,
+
+UBSW Energy Global Infrastructure
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

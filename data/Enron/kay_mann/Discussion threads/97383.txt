@@ -1,0 +1,14 @@
+From : David Portz
+To : mike curry
+CC : stuart zisman; kay mann
+BCC : 
+Subject : TECO EEI Master
+
+Message Body :Per our discussion, attached is the current form of Enron Corp. Guarantee 
+used to support trading under the EEI wholesale power bilateral master.
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,42 @@
+From : Johnson  Adam
+To : Allen  Phillip; Arnold  John
+CC : 
+BCC : 
+Subject : EOL Average Deal Count as of 5-09-01
+
+Message Body :
+Notes for this Week's Report:
+
+* UK Gas's Average EOL and Non-EOL deals per day have decreased since their peak of 96 EOL and 140 Non-EOL transactions in March. They ended April with an average of 81 EOL deals per day and are currently tracking at 63 transactions. Non-EOL is reporting at 61 deals per day in May. 
+
+* UK Power's average deals per day finished April with 13 EOL deals per day and is now showing 13 daily transactions in May as well, down from March's 59 EOL deals. Non-EOL's average transactions have increased, however, ending April with 180 deals per day and currently tracking 231 deals in early May.
+
+* NA Power finished April with a new high of 559 EOL deals per day and are already tracking at 540 daily trades in May, considerably higher than the 340 average EOL transactions in January.  Non-EOL average deal count has also shown a slight increase during the same period.
+
+* Southwest Power's EOL transactions per day has continued to increase in 2001. On average, they ended January with 26 EOL trades and now show 72 daily transactions in early May. Non-EOL transactions have slightly increased during this same period, up from 68 in January to 77 in May.
+
+* WTI Financial's total transactions per month has decreased since it's record high 5,021 deals in February, down to 3,106 deals in April and only 1,193 trades in early May activity. Non-EOL trading has remained steady through April, but shows a decrease so far in May with only 539 transactions. WTI Physical's EOL total monthly transactions has remained steady at around 50 trades a month in 2001.
+
+* LPG deals per month via EOL ended March and April with under 200 total monthly trades, down from a January high of 454 transactions. They currently show a total of 71 EOL deals through the first 7 trading days in May, while Non-EOL totals are also tracking lower than previous activity.
+
+* Non-EOL Broadband trading is showing growth in May, now averaging 8 transactions per day, up from 3 in January. While Non-EOL deals per day continue to reflect a steady increase, EOL trading has recorded only 1 transaction in early May.
+
+
+---------------
+The following files contain a graphical view of the average deal count and volumes per month by Commodity for EOL and OTC transactions since the launch of EnronOnline. This information is for comparative analysis only.  Do not update links when opening these files.  
+
+
+AVERAGE DEAL COUNTS FOR COMMODITIES (excluding Global Products, which displays monthly totals)
+
+     
+
+If you have any questions regarding this breakout, please contact one of the following:
+
+Torrey Moorer x3-6218
+Matt Motsinger x3-5221
+Adam Johnson x5-4877
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

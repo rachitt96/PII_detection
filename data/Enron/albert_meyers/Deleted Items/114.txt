@@ -1,0 +1,27 @@
+From : Meyers
+To : yottra@apci.com
+CC : malowney; John; woodland; Andrea
+BCC : 
+Subject : Power Delivery for Sunday and Monday 12/09/01 and 12/10/01
+
+Message Body :Roger:
+
+From the information that I was able to gather regarding power delivery for Sunday and Monday, December 9th and 10th, it appears as though we were able to schedule and deliver 6mw around the clock for Sunday and 6mw off-peak and 4mw on-peak for Monday.  The E-tags I referenced are as follows:
+
+Tag 39501:  4mw around the clock Sunday and Monday
+
+Tag 39499:  2mw around the clock Sunday
+
+Tag 39500:  2mw Off-Peak Monday
+
+If you have any question please contact myself, John, or Andrea Woodland
+
+Regards,
+
+Bert Meyers
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

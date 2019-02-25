@@ -1,0 +1,31 @@
+From : Johnson  Cheryl
+To : Adams  Laurel; Balfour-Flanagan  Cyndie
+CC : Camarillo  Juan
+BCC : 
+Subject : Name Overlay 04/02/02
+
+Message Body :The following name overlays were made in GCP today.  For details, please click on the link below, then click FETCH to view.  
+
+FROM				TO
+Aquila Capital and Trade Ltd.	Aquila Merchant Services - International, Limited
+Aquila, Inc.			Aquila Merchant Services, Inc.
+
+<http://nahou-dmagn01p/ena/livelink.exe?func=ll.login&username=GCPGuest&password=&nextURL=%2fena%2flivelink.exe?func=ll%26objId=11965334objAction=browse&sort=name>
+
+Shortname changes have been coordinated with ERMS IT and are complete on both sides. 
+
+Records will be inactivated on Monday, April 1, 2002. 
+
+
+Please contact me if there are any questions or concerns.
+
+
+Cheryl Johnson
+Enron Net Works
+Global Data Management
+713.853.3103
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

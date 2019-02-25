@@ -1,0 +1,42 @@
+From : Paul E Parrish
+To : john g rigby; scott dieball
+CC : sheila tweed; kay mann; david marshall; james l bouillion
+BCC : 
+Subject : INSURANCE EXHIBIT FORTURBINE PURCHASE AGREEMENT
+
+Message Body :John:
+The changes I suggested on the watercraft wording are still being reviewed 
+for completeness. I think what I gave you will work for most situations where 
+the watercraft is incidental to the work or is far removed from our being 
+involved [contractor to sub to sub contractor] but it does not address every 
+situation that we could be involved in. We may need to expand our wording 
+accordingly.
+
+Likewise, your question on giving to the turbine venders the waiver of 
+subrogation and additional insured is an even bigger concern. You are asking 
+us to obligate ourselves in providing waiver and additional insured status to 
+GE which we cannot do.   As you know, we went many years with providing 
+turbine venders protection under the insurance because the market was soft 
+and underwriters agreed to it. Now they balk at giving it because of the 
+losses they have incurred and we cannot predict what they will agree to. It 
+does not matter if the machines are proto-type or not, there is a good chance 
+right now that they will not agree to insuring the vender. Everyone says it 
+only takes money and in many cases we could probably include venders on the 
+insurance but I cannot recommend committing to it in a long term contract ) 
+we have to arrange the insurance at the time we need it in order to determine 
+if it is available. 
+
+If you need to have some language in the agreement, I would recommend that we 
+not give the waive and additional insured to GE or any vender. When we need 
+the insurance and begin placing it, we can then determine if the underwriter 
+will cover the vender and ask for a price reduction from GE to move their 
+risk to the underwriter.
+
+I am sorry I cannot make this easier but that is the nature of the insurance 
+beast.
+Paul
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

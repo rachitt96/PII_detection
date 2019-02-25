@@ -1,0 +1,27 @@
+From : Stephanie Gomes
+To : daren j farmer
+CC : 
+BCC : 
+Subject : Aspect Resources- meter # 78033, #78032 - 3/00 production
+
+Message Body :Daren,
+I'm not sure if you are the person that can make this change for me.  If you 
+are not, could you please let me know who I need to speak to.
+For meter # 78033 and # 78032 for 3/00 production forward, this deal is set 
+up under the wrong Sitara #, therefore the volumes are not pulling in Sitara.
+  The sitara # that it is currently attached to is # 149421 which this deal 
+was only for 1/00 production.  The new Sitara number that we should be using 
+is
+Sitara # 156387 ( for meter # 78033 ) and Sitara # 156383 ( for meter # 78032 
+).  I have attached an example  to help see what I am talking about.
+( this was for 2/00 production )
+Could you please let me know when the change has been made or if there is 
+something that I need to do.
+
+Thanks, Stephanie ( 3-6004 )
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

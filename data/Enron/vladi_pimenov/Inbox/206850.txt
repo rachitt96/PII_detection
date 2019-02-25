@@ -1,0 +1,26 @@
+From : Dronet  David
+To : Roberts  Mike A.; Bennett  Stephen W.
+CC : 
+BCC : 
+Subject : updated development websites
+
+Message Body :
+The following development websites supported by Gas Fundamentals will be changing to the url's listed below.
+Notably, the CORP has been replaced with NETCO.  Please ensure any applications/links are corrected
+to reflect the new change.  No current ETA on when this change will be applied to our production sites.
+
+http://enaresearch.dev.netco.enron.com
+http://fundamentals.dev.netco.enron.com
+http://sitetrack-fundamentals.dev.netco.enron.com
+http://plasma-fundamentals.dev.netco.enron.com
+http://commoditywebs.dev.netco.enron.com
+http://itfundy.dev.netco.enron.com
+
+
+Dave Dronet
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

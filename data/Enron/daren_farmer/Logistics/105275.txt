@@ -1,0 +1,21 @@
+From : David Stadnick
+To : aimee lannou; alisha guerrero; amy felling; andy unverzagt; anita k patton
+CC : 
+BCC : 
+Subject : Change in SCADA Server to NAHOU-SCADA2
+
+Message Body :The name of the SCADA server has been changed from ECTHOU_SCADA1 to 
+NAHOU-SCADA2.
+
+If you have a personal Excel spreadsheet that obtains data from the SCADA 
+server using NetDDE, you will have to edit the spreadsheet.  Change the old 
+name to the new name.
+
+If you have any questions or need assistance, please call 34200.
+
+-Dave Stadnick
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

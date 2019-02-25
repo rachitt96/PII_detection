@@ -1,0 +1,41 @@
+From : Melissa Jones mjones7@txu.com@ENRON
+To : Eileen Ponton; Charlie Stone; gary
+CC : 
+BCC : 
+Subject : Re: NOMS / ACTUALS FOR 4/27/01 THRU 4/29/01
+
+Message Body :
+
+We agree
+
+
+
+
+
+"Eileen Ponton" <kponton@duke-energy.com> on 05/01/2001 08:37:13 AM
+
+To:   David Avila/LSP/ENSERCH/US@TU, Charlie Stone/Texas Utilities@TU, Melissa
+      Jones/Texas Utilities@TU, HPL.SCHEDULING@ENRON.COM, LIZ.BELLAMY@ENRON.COM
+cc:
+Subject:  NOMS / ACTUALS FOR 4/27/01 THRU 4/29/01
+
+
+
+DATE      NOM       MCF       MMBTU
+
+4/27/01        20,000         20,041          20,583
+
+4/28/01        0         1         1
+
+4/29/01        0         0         0
+
+BTU = 1.027
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

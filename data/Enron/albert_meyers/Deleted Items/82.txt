@@ -1,0 +1,39 @@
+From : Rawson
+To : DL-Portland Real Time Shift
+CC : gang; Lisa; cocke jr.; Stanley
+BCC : 
+Subject : Morrow Power and Frontier Energy
+
+Message Body :https://taim.transmission.bpa.gov/cwi/ancsched
+
+RT and Services groups,
+
+Listed above is the Customer Web Interface (CWI) for reporting schedules with BPA. Anytime we run Morrow (if it ever becomes reliable) BPA wants estimated generation schedules reported using the CWI. 
+
+The procedure goes as follows:
+
+Go to the Web site listed above.
+
+Login: lrawson1
+Password: Joshua11
+
+Once in look to the upper right hand corner and click on the Ancillary Services Tab.
+
+In the center of the Ancillary Services page unclick the ONLY SHOW ACCOUNTS WITH DATA tab.
+
+Then click on the -5 thru 0 thru +5 Select Day buttons.
+
+If it's a real time schedule select 0.
+
+When the accounts pull up you'll want Account # 416401 for Morrow estimated Generation and #415501 for Frontier.
+
+Across the top of the page the hours are listed as 1/13 for HE 1 and HE 13 simply enter the volume you expect the unit to generate and tab to the next box. The data should all be green. Press the Submit Edit button. The data should now be Yellow. To refresh the screen press the 0 in the Select Day Buttons the data should now be White which indicates BPA now has it in there Rods accounts.
+
+Let me know if there are questions.
+
+Les
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

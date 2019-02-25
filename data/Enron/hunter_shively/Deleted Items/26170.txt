@@ -1,0 +1,39 @@
+From : Performance Evaluation Process (PEP) perfmgmt@enron.com@ENRON
+To : Shively  Hunter S.
+CC : 
+BCC : 
+Subject : Mid-Year 2001 Performance Feedback
+
+Message Body :SHIVELY, HUNTER,
+ 
+The PEP system closes on Friday, May 25, 2001 
+ 
+Our records indicate that you have been requested to provide feedback on one or more Enron employees.  The deadline for completing feedback is Friday,  May 25th.   
+ 
+Below is a list of feedback requests with a status of "OPEN".  Please complete or decline these requests as soon as possible by logging into PEP at http://pep.enron.com and selecting Complete Feedback from the Main Menu. 
+ 
+If you have any questions, please contact the PEP Help Desk at:
+Houston:  713-853-4777, Option 4 or email: perfmgmt@enron.com
+London:  44 207 783 4040, Option 4 or email: pep.enquiries@enron.com
+ 
+Thank you for your participation in this important process. 
+ 
+Employee Name:
+AGARWALLA, DIPAK
+CARDENAS, CATALINA
+CARRABINE, CARY
+FRIHART, BRYANT
+GANDHI, SACHIN
+HUBLE, AMANDA
+KINSEY, LISA
+LOVE, PHILLIP
+LUCE, LAURA
+MAHMASSANI, SOUAD
+SUPERTY, ROBERT
+WILLIAMS, JASON
+YAWAPONGSIRI, VIRAWAN
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

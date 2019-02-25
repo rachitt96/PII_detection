@@ -1,0 +1,27 @@
+From : Aimee Lannou
+To : daren j farmer
+CC : 
+BCC : 
+Subject : Equistar 3/01
+
+Message Body :Daren - here are the numbers for Equistar for March.  There are two 
+discrepancies:  this is what we show in Sitara and what Equistar has sent for 
+March.  Would you like for me to change the deal?  Let me know.
+
+ deal 394489 Sitara  Equistar
+
+
+ meter 1373 5.000  10.000
+
+ meter 1384 0  5.000
+
+ meter 1552 5.000  5.000
+
+
+
+  
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

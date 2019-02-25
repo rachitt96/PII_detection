@@ -1,0 +1,30 @@
+From : Mary Poorman
+To : pat clynes
+CC : robert cotten; vance l taylor; daren j farmer; cynthia hakemack; kristen j hanson
+BCC : 
+Subject : Proposed Solution
+
+Message Body :Pat,
+
+I have been working with Volume Management, Settlements, Vance, and Bob to 
+clean up some prior period and prior-to-current month issues.  This process 
+should result in a correction to booked profit/loss for Vance and the desk.  
+This has brought to my attention that we have been paying some parties 
+manually for volumes when deals are not correctly entered.  I would propose 
+that Logistics be included in the communication of when checks are manually 
+cut.  It would be especially beneficial if we tracked manual checks by 
+counterparty, meter, and/or deal ticket id or price.  I feel that this will 
+allow us to spot and resolve potential issues more effectively.
+
+Please let me know what your thoughts are on this matter.  
+
+Thank you for your time,
+
+Mary
+
+ext 35251
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

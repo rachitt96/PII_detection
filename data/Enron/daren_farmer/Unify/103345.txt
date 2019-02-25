@@ -1,0 +1,20 @@
+From : Pinion  Richard
+To : Lamadrid  Victor; Kinsey  Lisa
+CC : Schrab  Mark L.; Garcia  Clarissa
+BCC : 
+Subject : Volume Feedback from Unify to Sitara
+
+Message Body :FYI:  The following is the Unify to Sitara Bridge back schedule from the Sitara Team.  Unify can still send the files to Sitara but Sitara will not process during the "No bridge back" times listed.  This list is in response to several inquiries to me regarding slow bridge-back times to Sitara.    Hours are listed in 24hr  format central time.
+
+
+1. Monday - Friday	14:00  - 19:49 hrs	Single Thread
+2. Monday - Friday	19:50 - 24:00hrs		Multi Thread
+3. Monday - Friday	00:01 - 13:59 hrs	No bridge back
+
+4 . Sat - Sunday		12:50 - 24:00hrs	 	MultiThread
+5.  Sat - Sunday	00:01 - 12:49 hrs	No bridge back 
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

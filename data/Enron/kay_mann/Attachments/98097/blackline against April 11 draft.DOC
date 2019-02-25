@@ -1,0 +1,765 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f4\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times;}
+{\f5\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helvetica;}{\f6\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Courier;}{\f7\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Geneva;}
+{\f8\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Tms Rmn;}{\f9\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helv;}{\f10\froman\fcharset0\fprq2{\*\panose 00000000000000000000}MS Serif;}
+{\f11\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MS Sans Serif;}{\f12\froman\fcharset0\fprq2{\*\panose 00000000000000000000}New York;}{\f13\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}System;}
+{\f14\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f15\froman\fcharset0\fprq2{\*\panose 02040507060505020304}EngravrsRoman BT{\*\falt Bookman Old Style};}{\f16\froman\fcharset0\fprq2{\*\panose 02020404030301010803}Garamond;}
+{\f17\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Marlett;}{\f18\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f19\fscript\fcharset0\fprq2{\*\panose 030f0702030302020204}Comic Sans MS;}
+{\f20\fswiss\fcharset0\fprq2{\*\panose 020b0806030902050204}Impact;}{\f21\fswiss\fcharset0\fprq2{\*\panose 020b0706040902060204}Haettenschweiler;}{\f22\fswiss\fcharset0\fprq2{\*\panose 020b0506020202030204}Arial Narrow;}
+{\f23\froman\fcharset0\fprq2{\*\panose 02050604050505020204}Bookman Old Style;}{\f24\fnil\fcharset2\fprq2{\*\panose 01010601010101010101}Monotype Sorts;}{\f25\fdecor\fcharset0\fprq2{\*\panose 040409040d0702020402}Allegro BT;}
+{\f26\froman\fcharset0\fprq2{\*\panose 02090504030505020304}AmerType Md BT;}{\f27\fswiss\fcharset0\fprq2{\*\panose 020b0602020202020204}AvantGarde Md BT;}{\f28\fswiss\fcharset0\fprq2{\*\panose 020b0402020202020204}AvantGarde Bk BT;}
+{\f29\froman\fcharset0\fprq2{\*\panose 02030904050306020704}Benguiat Bk BT;}{\f30\fdecor\fcharset0\fprq2{\*\panose 04030205020b02020502}BernhardFashion BT;}{\f31\froman\fcharset0\fprq2{\*\panose 0207060307050a020302}BernhardMod BT;}
+{\f32\fswiss\fcharset0\fprq2{\*\panose 020b0807020203060204}BankGothic Md BT;}{\f33\fdecor\fcharset0\fprq2{\*\panose 04040807060d02020704}Bremen Bd BT;}{\f34\fdecor\fcharset0\fprq2{\*\panose 04060705040702020204}Charlesworth;}
+{\f35\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}CommonBullets;}{\f36\fswiss\fcharset0\fprq2{\*\panose 020e0705020203020404}CopprplGoth Bd BT;}{\f37\froman\fcharset0\fprq2{\*\panose 0204050203030b020204}Dauphin;}
+{\f38\fswiss\fcharset0\fprq2{\*\panose 020b0802020204020204}Futura Md BT;}{\f39\fdecor\fcharset0\fprq2{\*\panose 040409050d0b02020403}FuturaBlack BT;}{\f40\fswiss\fcharset0\fprq2{\*\panose 020b0402020204020303}Futura Lt BT;}
+{\f41\fswiss\fcharset0\fprq2{\*\panose 020b0903020204020204}Futura XBlk BT;}{\f42\fdecor\fcharset0\fprq2{\*\panose 04020604050203030203}GoudyHandtooled BT;}{\f43\froman\fcharset0\fprq2{\*\panose 02020502050305020303}GoudyOlSt BT;}
+{\f44\fswiss\fcharset0\fprq2{\*\panose 020b0602020204020204}Humanst521 BT;}{\f45\fswiss\fcharset0\fprq2{\*\panose 020d0402020204020904}Kabel Bk BT;}{\f46\fswiss\fcharset0\fprq2{\*\panose 020d0902020204020204}Kabel Ult BT;}
+{\f47\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Lithograph;}{\f48\fdecor\fcharset0\fprq2{\*\panose 040b0500000000000000}LithographLight;}{\f49\fscript\fcharset0\fprq2{\*\panose 03080702020302020206}OzHandicraft BT;}
+{\f50\froman\fcharset0\fprq2{\*\panose 02070a02080905020204}PosterBodoni BT;}{\f51\froman\fcharset0\fprq2{\*\panose 02060503030505020204}Serifa BT;}{\f52\froman\fcharset0\fprq2{\*\panose 02060303030505020204}Serifa Th BT;}
+{\f53\fscript\fcharset0\fprq2{\*\panose 03030702030607090b03}English111 Vivace BT;}{\f54\froman\fcharset0\fprq2{\*\panose 02080503040505020303}Souvenir Lt BT;}{\f55\fscript\fcharset0\fprq2{\*\panose 03090702030407020403}Staccato222 BT;}
+{\f56\fswiss\fcharset0\fprq2{\*\panose 020b0708030702060204}Swiss911 XCm BT;}{\f57\fscript\fcharset0\fprq2{\*\panose 03020702030807050705}TypoUpright BT;}{\f58\froman\fcharset0\fprq2{\*\panose 02040503050506040803}ZapfEllipt BT;}
+{\f59\fswiss\fcharset0\fprq2{\*\panose 020b0505020202020204}Zurich Ex BT;}{\f60\fswiss\fcharset0\fprq2{\*\panose 020b0807040502030204}Zurich BlkEx BT;}{\f61\fscript\fcharset0\fprq2{\*\panose 030304020408070d0d05}Alexei Copperplate;}
+{\f62\fscript\fcharset0\fprq2{\*\panose 03020702040507090a04}Amazone BT;}{\f63\fscript\fcharset0\fprq2{\*\panose 03040602040406080504}BernhardTango BT;}{\f64\fscript\fcharset0\fprq2{\*\panose 03020802040502060804}Cataneo BT;}
+{\f65\fscript\fcharset0\fprq2{\*\panose 03020702040502060804}Cataneo Lt BT;}{\f66\fscript\fcharset0\fprq2{\*\panose 03020802040502070804}Cataneo Swash BT;}{\f67\fscript\fcharset0\fprq2{\*\panose 03030803040807090c04}CommercialScript BT;}
+{\f68\fscript\fcharset0\fprq2{\*\panose 03030602040507090c03}Embassy BT;}{\f69\fscript\fcharset0\fprq2{\*\panose 030306020304040d0d03}English157 BT;}{\f70\fscript\fcharset0\fprq2{\*\panose 030304020505040d0d05}EnglischeSchT;}
+{\f71\fscript\fcharset0\fprq2{\*\panose 030306020506040d0d05}EnglischeSchTDemBol;}{\f72\fscript\fcharset0\fprq2{\*\panose 030306020505070f0a05}FlemishScript BT;}{\f73\fscript\fcharset0\fprq2{\*\panose 03020702040507040404}Gando BT;}
+{\f74\fscript\fcharset0\fprq2{\*\panose 030305020406070d0d05}KunstlerschreibschDBol;}{\f75\fscript\fcharset0\fprq2{\*\panose 030304020408070d0d05}KunstlerschreibschDMed;}{\f76\fscript\fcharset0\fprq2{\*\panose 03020402040405090205}Liberty BT;}
+{\f77\fscript\fcharset0\fprq2{\*\panose 030302020405070d0405}Lucia BT;}{\f78\fscript\fcharset0\fprq2{\*\panose 03020602040606070306}Ribbon131 Bd BT;}{\f79\fscript\fcharset0\fprq2{\*\panose 03030502040506070602}Ribbon131 BT;}
+{\f80\fscript\fcharset0\fprq2{\*\panose 03030602030607080b05}English111 Adagio BT;}{\f81\fscript\fcharset0\fprq2{\*\panose 030306020406070f0b05}English111 Presto BT;}{\f82\fscript\fcharset0\fprq2{\*\panose 03030702040707090b04}Snell Bd BT;}
+{\f83\fscript\fcharset0\fprq2{\*\panose 03030802040907090b04}Snell Blk BT;}{\f84\fscript\fcharset0\fprq2{\*\panose 03030602030607090b05}Snell BT;}{\f85\fscript\fcharset0\fprq2{\*\panose 03010101010101010101}VivaldiD;}
+{\f86\fscript\fcharset0\fprq2{\*\panose 03020902040503020804}ZapfChan Bd BT;}{\f87\fscript\fcharset0\fprq2{\*\panose 03020802040503020804}ZapfChan Dm BT;}{\f88\fscript\fcharset0\fprq2{\*\panose 03020702040403020804}ZapfChan Md BT;}
+{\f89\fscript\fcharset0\fprq2{\*\panose 03020702040403080804}ZapfChan MdIt BT;}{\f90\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP Arabic Sihafa;}{\f91\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP ArabicScript Sihafa;}
+{\f92\froman\fcharset2\fprq2{\*\panose 05020604050505020304}WP CyrillicA;}{\f93\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}WP CyrillicB;}{\f94\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP Greek Century;}
+{\f95\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP Greek Helve;}{\f96\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}WP Hebrew David;}{\f97\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP IconicSymbolsA;}
+{\f98\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP IconicSymbolsB;}{\f99\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP Japanese;}{\f100\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathA;}
+{\f101\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathB;}{\f102\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathExtendedA;}{\f103\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathExtendedB;}
+{\f104\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP MultinationalA Helve;}{\f105\froman\fcharset2\fprq2{\*\panose 02020604050505020304}WP MultinationalA Roman;}{\f106\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP MultinationalB Helve;}
+{\f107\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP MultinationalB Roman;}{\f108\fswiss\fcharset2\fprq2{\*\panose 050b0604020202030204}WP Phonetic;}{\f109\fnil\fcharset0\fprq2{\*\panose 00000400000000000000}WP TypographicSymbols;}
+{\f110\fswiss\fcharset0\fprq2{\*\panose 020b0a04020102020204}Arial Black;}{\f111\fswiss\fcharset128\fprq2{\*\panose 020b0604020202020204}Arial Unicode MS;}{\f112\froman\fcharset0\fprq2{\*\panose 02040604050505020304}Century;}
+{\f113\fmodern\fcharset128\fprq1{\*\panose 02020609040205080304}MS Mincho;}{\f114\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}MS Outlook;}{\f115\fswiss\fcharset0\fprq2{\*\panose 020b0603020202020204}Trebuchet MS;}
+{\f116\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana;}{\f117\froman\fcharset2\fprq2{\*\panose 05050102010205020202}MT Extra;}{\f118\froman\fcharset2\fprq2{\*\panose 05030102010509060703}Webdings;}
+{\f119\fswiss\fcharset0\fprq2{\*\panose 020b0500000000000000}INT2OF5X1;}{\f120\froman\fcharset0\fprq2{\*\panose 02020500000000000000}CODE3OF9X1;}{\f121\froman\fcharset0\fprq2{\*\panose 02020500000000000000}CODABAR1;}
+{\f122\fnil\fcharset0\fprq2{\*\panose 00000400000000000000}Avenir Light;}{\f123\fnil\fcharset0\fprq2{\*\panose 00000900000000000000}Avenir Heavy;}{\f124\fnil\fcharset0\fprq2{\*\panose 00000900000000000000}Avenir Black;}
+{\f125\fnil\fcharset0\fprq2{\*\panose 00000900000000000000}Avenir BlackOblique;}{\f126\fswiss\fcharset0\fprq2{\*\panose 020b0500000000000000}Stone Sans Semibold;}{\f127\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}LinePrinter;}
+{\f128\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}CG Omega (W1);}{\f129\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Clarendon Cd (W1);}{\f130\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Marigold (W1);}
+{\f131\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Albertus (W1);}{\f132\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Albertus Xb (W1);}{\f133\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Antique Olv (W1);}
+{\f134\froman\fcharset0\fprq2{\*\panose 00000000000000000000}CG Times (W1);}{\f135\fscript\fcharset0\fprq2{\*\panose 00000000000000000000}Coronet (W1);}{\f136\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Letter Gothic (W1);}
+{\f137\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Univers (W1);}{\f138\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Univers Cd (W1);}{\f139\froman\fcharset128\fprq1{\*\panose 02020609040205080304}?? ??{\*\falt MS Mincho};}
+{\f140\fmodern\fcharset128\fprq1{\*\panose 020b0609070205080204}?? ????;}{\f141\froman\fcharset128\fprq0{\*\panose 00000000000000000000}?{\*\falt MS Mincho};}{\f142\froman\fcharset0\fprq0{\*\panose 00000000000000000000}Times New Roman Bold;}
+{\f143\froman\fcharset128\fprq1{\*\panose 02020609040205080304}?? ??{\*\falt MS Mincho};}{\f144\fmodern\fcharset128\fprq1{\*\panose 020b0609070205080204}?? ????;}{\f145\froman\fcharset128\fprq0{\*\panose 00000000000000000000}?{\*\falt MS Mincho};}
+{\f146\froman\fcharset238\fprq1{\*\panose 00000000000000000000}?? ?? CE{\*\falt MS Mincho};}{\f147\froman\fcharset204\fprq1{\*\panose 00000000000000000000}?? ?? Cyr{\*\falt MS Mincho};}
+{\f148\froman\fcharset161\fprq1{\*\panose 00000000000000000000}?? ?? Greek{\*\falt MS Mincho};}{\f149\froman\fcharset162\fprq1{\*\panose 00000000000000000000}?? ?? Tur{\*\falt MS Mincho};}
+{\f150\froman\fcharset186\fprq1{\*\panose 00000000000000000000}?? ?? Baltic{\*\falt MS Mincho};}{\f151\fmodern\fcharset238\fprq1{\*\panose 00000000000000000000}?? ???? CE;}{\f152\fmodern\fcharset204\fprq1{\*\panose 00000000000000000000}?? ???? Cyr;}
+{\f153\fmodern\fcharset161\fprq1{\*\panose 00000000000000000000}?? ???? Greek;}{\f154\fmodern\fcharset162\fprq1{\*\panose 00000000000000000000}?? ???? Tur;}{\f155\fmodern\fcharset186\fprq1{\*\panose 00000000000000000000}?? ???? Baltic;}
+{\f156\froman\fcharset238\fprq2 Times New Roman CE;}{\f157\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f159\froman\fcharset161\fprq2 Times New Roman Greek;}{\f160\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f161\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f162\fswiss\fcharset238\fprq2 Arial CE;}{\f163\fswiss\fcharset204\fprq2 Arial Cyr;}{\f165\fswiss\fcharset161\fprq2 Arial Greek;}{\f166\fswiss\fcharset162\fprq2 Arial Tur;}
+{\f167\fswiss\fcharset186\fprq2 Arial Baltic;}{\f168\fmodern\fcharset238\fprq1 Courier New CE;}{\f169\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f171\fmodern\fcharset161\fprq1 Courier New Greek;}{\f172\fmodern\fcharset162\fprq1 Courier New Tur;}
+{\f173\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f250\froman\fcharset162\fprq2 EngravrsRoman BT Tur{\*\falt Bookman Old Style};}{\f252\froman\fcharset238\fprq2 Garamond CE;}{\f253\froman\fcharset204\fprq2 Garamond Cyr;}
+{\f255\froman\fcharset161\fprq2 Garamond Greek;}{\f256\froman\fcharset162\fprq2 Garamond Tur;}{\f257\froman\fcharset186\fprq2 Garamond Baltic;}{\f264\fswiss\fcharset238\fprq2 Tahoma CE;}{\f265\fswiss\fcharset204\fprq2 Tahoma Cyr;}
+{\f267\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f268\fswiss\fcharset162\fprq2 Tahoma Tur;}{\f269\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f270\fscript\fcharset238\fprq2 Comic Sans MS CE;}{\f271\fscript\fcharset204\fprq2 Comic Sans MS Cyr;}
+{\f273\fscript\fcharset161\fprq2 Comic Sans MS Greek;}{\f274\fscript\fcharset162\fprq2 Comic Sans MS Tur;}{\f275\fscript\fcharset186\fprq2 Comic Sans MS Baltic;}{\f276\fswiss\fcharset238\fprq2 Impact CE;}{\f277\fswiss\fcharset204\fprq2 Impact Cyr;}
+{\f279\fswiss\fcharset161\fprq2 Impact Greek;}{\f280\fswiss\fcharset162\fprq2 Impact Tur;}{\f281\fswiss\fcharset186\fprq2 Impact Baltic;}{\f288\fswiss\fcharset238\fprq2 Arial Narrow CE;}{\f289\fswiss\fcharset204\fprq2 Arial Narrow Cyr;}
+{\f291\fswiss\fcharset161\fprq2 Arial Narrow Greek;}{\f292\fswiss\fcharset162\fprq2 Arial Narrow Tur;}{\f293\fswiss\fcharset186\fprq2 Arial Narrow Baltic;}{\f294\froman\fcharset238\fprq2 Bookman Old Style CE;}
+{\f295\froman\fcharset204\fprq2 Bookman Old Style Cyr;}{\f297\froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f298\froman\fcharset162\fprq2 Bookman Old Style Tur;}{\f299\froman\fcharset186\fprq2 Bookman Old Style Baltic;}
+{\f310\fdecor\fcharset162\fprq2 Allegro BT Tur;}{\f316\froman\fcharset162\fprq2 AmerType Md BT Tur;}{\f322\fswiss\fcharset162\fprq2 AvantGarde Md BT Tur;}{\f328\fswiss\fcharset162\fprq2 AvantGarde Bk BT Tur;}
+{\f334\froman\fcharset162\fprq2 Benguiat Bk BT Tur;}{\f340\fdecor\fcharset162\fprq2 BernhardFashion BT Tur;}{\f346\froman\fcharset162\fprq2 BernhardMod BT Tur;}{\f352\fswiss\fcharset162\fprq2 BankGothic Md BT Tur;}
+{\f358\fdecor\fcharset162\fprq2 Bremen Bd BT Tur;}{\f376\fswiss\fcharset162\fprq2 CopprplGoth Bd BT Tur;}{\f388\fswiss\fcharset162\fprq2 Futura Md BT Tur;}{\f394\fdecor\fcharset162\fprq2 FuturaBlack BT Tur;}
+{\f400\fswiss\fcharset162\fprq2 Futura Lt BT Tur;}{\f406\fswiss\fcharset162\fprq2 Futura XBlk BT Tur;}{\f412\fdecor\fcharset162\fprq2 GoudyHandtooled BT Tur;}{\f418\froman\fcharset162\fprq2 GoudyOlSt BT Tur;}
+{\f424\fswiss\fcharset162\fprq2 Humanst521 BT Tur;}{\f430\fswiss\fcharset162\fprq2 Kabel Bk BT Tur;}{\f436\fswiss\fcharset162\fprq2 Kabel Ult BT Tur;}{\f454\fscript\fcharset162\fprq2 OzHandicraft BT Tur;}
+{\f460\froman\fcharset162\fprq2 PosterBodoni BT Tur;}{\f466\froman\fcharset162\fprq2 Serifa BT Tur;}{\f472\froman\fcharset162\fprq2 Serifa Th BT Tur;}{\f478\fscript\fcharset162\fprq2 English111 Vivace BT Tur;}
+{\f484\froman\fcharset162\fprq2 Souvenir Lt BT Tur;}{\f490\fscript\fcharset162\fprq2 Staccato222 BT Tur;}{\f496\fswiss\fcharset162\fprq2 Swiss911 XCm BT Tur;}{\f502\fscript\fcharset162\fprq2 TypoUpright BT Tur;}
+{\f508\froman\fcharset162\fprq2 ZapfEllipt BT Tur;}{\f514\fswiss\fcharset162\fprq2 Zurich Ex BT Tur;}{\f520\fswiss\fcharset162\fprq2 Zurich BlkEx BT Tur;}{\f532\fscript\fcharset162\fprq2 Amazone BT Tur;}
+{\f538\fscript\fcharset162\fprq2 BernhardTango BT Tur;}{\f544\fscript\fcharset162\fprq2 Cataneo BT Tur;}{\f550\fscript\fcharset162\fprq2 Cataneo Lt BT Tur;}{\f562\fscript\fcharset162\fprq2 CommercialScript BT Tur;}
+{\f568\fscript\fcharset162\fprq2 Embassy BT Tur;}{\f574\fscript\fcharset162\fprq2 English157 BT Tur;}{\f580\fscript\fcharset162\fprq2 EnglischeSchT Tur;}{\f586\fscript\fcharset162\fprq2 EnglischeSchTDemBol Tur;}
+{\f592\fscript\fcharset162\fprq2 FlemishScript BT Tur;}{\f598\fscript\fcharset162\fprq2 Gando BT Tur;}{\f604\fscript\fcharset162\fprq2 KunstlerschreibschDBol Tur;}{\f610\fscript\fcharset162\fprq2 KunstlerschreibschDMed Tur;}
+{\f616\fscript\fcharset162\fprq2 Liberty BT Tur;}{\f622\fscript\fcharset162\fprq2 Lucia BT Tur;}{\f628\fscript\fcharset162\fprq2 Ribbon131 Bd BT Tur;}{\f634\fscript\fcharset162\fprq2 Ribbon131 BT Tur;}
+{\f640\fscript\fcharset162\fprq2 English111 Adagio BT Tur;}{\f646\fscript\fcharset162\fprq2 English111 Presto BT Tur;}{\f652\fscript\fcharset162\fprq2 Snell Bd BT Tur;}{\f658\fscript\fcharset162\fprq2 Snell Blk BT Tur;}
+{\f664\fscript\fcharset162\fprq2 Snell BT Tur;}{\f670\fscript\fcharset162\fprq2 VivaldiD Tur;}{\f676\fscript\fcharset162\fprq2 ZapfChan Bd BT Tur;}{\f682\fscript\fcharset162\fprq2 ZapfChan Dm BT Tur;}{\f688\fscript\fcharset162\fprq2 ZapfChan Md BT Tur;}
+{\f694\fscript\fcharset162\fprq2 ZapfChan MdIt BT Tur;}{\f816\fswiss\fcharset238\fprq2 Arial Black CE;}{\f817\fswiss\fcharset204\fprq2 Arial Black Cyr;}{\f819\fswiss\fcharset161\fprq2 Arial Black Greek;}{\f820\fswiss\fcharset162\fprq2 Arial Black Tur;}
+{\f821\fswiss\fcharset186\fprq2 Arial Black Baltic;}{\f824\fswiss\fcharset0\fprq2 Arial Unicode MS;}{\f822\fswiss\fcharset238\fprq2 Arial Unicode MS CE;}{\f823\fswiss\fcharset204\fprq2 Arial Unicode MS Cyr;}
+{\f825\fswiss\fcharset161\fprq2 Arial Unicode MS Greek;}{\f826\fswiss\fcharset162\fprq2 Arial Unicode MS Tur;}{\f827\fswiss\fcharset186\fprq2 Arial Unicode MS Baltic;}{\f828\froman\fcharset238\fprq2 Century CE;}
+{\f829\froman\fcharset204\fprq2 Century Cyr;}{\f831\froman\fcharset161\fprq2 Century Greek;}{\f832\froman\fcharset162\fprq2 Century Tur;}{\f833\froman\fcharset186\fprq2 Century Baltic;}{\f836\fmodern\fcharset0\fprq1 MS Mincho;}
+{\f834\fmodern\fcharset238\fprq1 MS Mincho CE;}{\f835\fmodern\fcharset204\fprq1 MS Mincho Cyr;}{\f837\fmodern\fcharset161\fprq1 MS Mincho Greek;}{\f838\fmodern\fcharset162\fprq1 MS Mincho Tur;}{\f839\fmodern\fcharset186\fprq1 MS Mincho Baltic;}
+{\f846\fswiss\fcharset238\fprq2 Trebuchet MS CE;}{\f850\fswiss\fcharset162\fprq2 Trebuchet MS Tur;}{\f852\fswiss\fcharset238\fprq2 Verdana CE;}{\f853\fswiss\fcharset204\fprq2 Verdana Cyr;}{\f855\fswiss\fcharset161\fprq2 Verdana Greek;}
+{\f856\fswiss\fcharset162\fprq2 Verdana Tur;}{\f857\fswiss\fcharset186\fprq2 Verdana Baltic;}{\f992\froman\fcharset0\fprq1 ?? ??{\*\falt MS Mincho};}{\f990\froman\fcharset238\fprq1 ?? ?? CE{\*\falt MS Mincho};}
+{\f991\froman\fcharset204\fprq1 ?? ?? Cyr{\*\falt MS Mincho};}{\f993\froman\fcharset161\fprq1 ?? ?? Greek{\*\falt MS Mincho};}{\f994\froman\fcharset162\fprq1 ?? ?? Tur{\*\falt MS Mincho};}{\f995\froman\fcharset186\fprq1 ?? ?? Baltic{\*\falt MS Mincho};}
+{\f998\fmodern\fcharset0\fprq1 ?? ????;}{\f996\fmodern\fcharset238\fprq1 ?? ???? CE;}{\f997\fmodern\fcharset204\fprq1 ?? ???? Cyr;}{\f999\fmodern\fcharset161\fprq1 ?? ???? Greek;}{\f1000\fmodern\fcharset162\fprq1 ?? ???? Tur;}
+{\f1001\fmodern\fcharset186\fprq1 ?? ???? Baltic;}{\f1009\froman\fcharset204\fprq0 Times New Roman Bold Cyr;}{\f1013\froman\fcharset186\fprq0 Times New Roman Bold Baltic;}{\f1016\froman\fcharset0\fprq1 ?? ??{\*\falt MS Mincho};}
+{\f1022\fmodern\fcharset0\fprq1 ?? ????;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;
+\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\adjustright \fs20 \snext0 Normal;}{
+\s1\sb240\sa60\keepn\nowidctlpar\adjustright \b\f1\fs28\kerning28 \sbasedon0 \snext0 heading 1;}{\*\cs10 \additive Default Paragraph Font;}{\*\cs15 \additive \fs20 \sbasedon10 footnote reference;}{\s16\nowidctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20 
+\sbasedon0 \snext16 header;}{\*\cs17 \additive \fs20 \sbasedon10 page number;}{\s18\nowidctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20 \sbasedon0 \snext18 footer;}{\*\cs19 \additive \fs22 1;}{\s20\nowidctlpar\adjustright \fs16 \sbasedon0 \snext20 DocID;}
+{\*\cs21 \additive \fs20\uldb\cf2 DeltaView Insertion;}{\s22\nowidctlpar\adjustright \cbpat9 \f18\fs20 \sbasedon0 \snext22 Document Map;}{\*\cs23 \additive \fs14 \sbasedon10 zzmpTrailerItem;}{\s24\nowidctlpar\adjustright \fs20 \sbasedon0 \snext26 
+Letter Date;}{\s25\qj\fi4320\nowidctlpar\tx721\tx1442\tx2163\tx2884\tx3606\tx4327\tx5048\tx5769\tx6490\tx7212\tx7933\adjustright \fs20 \sbasedon0 \snext25 Signatureconnie;}{\s26\qj\fi1440\sa240\nowidctlpar\adjustright \sbasedon0 \snext26 Body Text;}{
+\s27\nowidctlpar\adjustright \fs20 \sbasedon0 \snext27 Address;}{\s28\qc\nowidctlpar\tqc\tx1886\adjustright \fs16 \sbasedon0 \snext28 Letterhead;}{\s29\fi-720\li2160\sa240\nowidctlpar\adjustright \fs20 \sbasedon0 \snext29 RELINE;}{
+\s30\fi1440\sa240\nowidctlpar\adjustright \sbasedon26 \snext30 Num Continue;}{\s31\fi1440\sa240\nowidctlpar\adjustright \sbasedon26 \snext31 Standard Cont 1;}{\s32\fi1440\sa240\nowidctlpar\adjustright \fs20 \sbasedon31 \snext32 Standard Cont 2;}{
+\s33\fi1440\sa240\nowidctlpar\adjustright \fs20 \sbasedon32 \snext33 Standard Cont 3;}{\s34\fi1440\sa240\nowidctlpar\adjustright \fs20 \sbasedon33 \snext34 Standard Cont 4;}{\s35\fi1440\sa240\nowidctlpar\adjustright \sbasedon34 \snext35 Standard Cont 5;}{
+\s36\fi1440\sa240\nowidctlpar\adjustright \sbasedon35 \snext36 Standard Cont 6;}{\s37\fi1440\sa240\nowidctlpar\adjustright \sbasedon36 \snext37 Standard Cont 7;}{\s38\fi1440\sa240\nowidctlpar\adjustright \fs20 \sbasedon37 \snext38 Standard Cont 8;}{
+\s39\fi1440\sa240\nowidctlpar\adjustright \fs20 \sbasedon38 \snext39 Standard Cont 9;}{\s40\fi1440\sa240\nowidctlpar\tx2160\adjustright \sbasedon0 \snext26 Standard_L1;}{\s41\fi1440\sa240\nowidctlpar\tx2160\adjustright \sbasedon40 \snext26 Standard_L2;}{
+\s42\fi1440\li720\sa240\nowidctlpar\tx2160\tx2736\adjustright \sbasedon41 \snext26 Standard_L3;}{\s43\qj\fi1440\li1440\sa240\nowidctlpar\tx2160\tx2736\tx3600\adjustright \sbasedon42 \snext26 Standard_L4;}{\s44\qj\fi2880\sa240\nowidctlpar
+\tx2160\tx2736\tx3600\adjustright \sbasedon43 \snext26 Standard_L5;}{\s45\qj\fi3744\sa240\nowidctlpar\tx2160\tx2736\tx3600\tx4320\adjustright \sbasedon44 \snext26 Standard_L6;}{\s46\qj\fi4320\sa240\nowidctlpar
+\tx2160\tx2736\tx3600\tx4320\tx5040\adjustright \sbasedon45 \snext26 Standard_L7;}{\s47\qj\fi5040\sa240\nowidctlpar\tx2160\tx2736\tx3600\tx4320\tx5040\tx5760\adjustright \fs20 \sbasedon46 \snext26 Standard_L8;}{\s48\qj\fi5904\sa240\nowidctlpar
+\tx2160\tx2736\tx3600\tx4320\tx5040\tx5760\tx6480\adjustright \fs20 \sbasedon47 \snext26 Standard_L9;}{\s49\li1440\nowidctlpar\adjustright \sbasedon0 \snext49 Addressed To;}{\s50\qc\nowidctlpar\adjustright \fs20 \sbasedon0 \snext50 centered;}{
+\s51\li4230\nowidctlpar\adjustright \sbasedon0 \snext51 pleading signature;}{\s52\nowidctlpar\adjustright \sbasedon0 \snext52 Signature;}}{\info{\title April 6, 1999}{\author Carolyn Campbell}{\operator PHJW}{\creatim\yr2001\mo4\dy13\hr23}
+{\revtim\yr2001\mo4\dy13\hr23}{\printim\yr2001\mo4\dy13\hr19\min54}{\version2}{\edmins0}{\nofpages31}{\nofwords12059}{\nofchars-32766}{\*\company PHJW}{\nofcharsws0}{\vern117}}{\*\userprops {\propname Original File}\proptype30{\staticval 
+::ODMA\'5cPCDOCS\'5cHOUSTON\'5c44350\'5c2}{\propname Converted State}\proptype30{\staticval True}{\propname Converted Date}\proptype30{\staticval 23-Sep-1999}}\margl1440\margr1440 \widowctrl\ftnbj\aenddoc\aftnnar\hyphcaps0\viewkind4\viewscale100 \fet0
+\sectd \sbknone\pgnrestart\linex0\titlepg\sectdefaultcl {\header \pard\plain \s16\nowidctlpar\tqc\tx4320\tqr\tx8640\pvpara\phmrg\posxr\posy0\adjustright \fs20 {\cs17 
+\par }\pard\plain \nowidctlpar\tx0\tqc\tx4320\tx7200\tqr\tx7740\tqr\tx9648\adjustright \fs20 {
+\par }}{\footer \pard\plain \qc\sl-240\slmult0\nowidctlpar\adjustright \fs20 {\field{\*\fldinst {\cs17 page }}{\fldrslt {\cs17\lang1024 31}}}{
+\par }\pard \sl-200\slmult0\nowidctlpar\adjustright {\cs23\fs14 NY/333343.2}{ 
+\par }}{\headerf \pard\plain \s16\qr\nowidctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20 {\b\fs24 DRAFT
+\par FOR DISCUSSION PURPOSES ONLY
+\par }\pard \s16\qr\sa480\nowidctlpar\tqc\tx4320\tqr\tx8640\adjustright {\b\fs24 APRIL 13, 2001
+\par }}{\footerf \pard\plain \s18\sl-200\slmult0\nowidctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20 {\cs23\fs14 NY/333343.2}{ 
+\par Marked against April 11}{\super th}{ draft
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\trowd \trrh-792\trleft-360\trkeep \clvertalt\cltxlrtb \cellx10800\pard\plain \s24\qj\li-1872\widctlpar\intbl\adjustright 
+\fs20 {\fs24 April    , 2001}{\b\fs24 \cell }\pard\plain \widctlpar\intbl\adjustright \fs20 {\fs24 \row }\trowd \trrh-640\trleft-360\trkeep \clvertalt\cltxlrtb \cellx6998\clvertalt\cltxlrtb \cellx10800\pard\plain \s28\qj\li72\widctlpar\intbl\adjustright 
+\fs16 {\fs24 
+\par }\pard \s28\qj\widctlpar\intbl\adjustright {\b\fs24 \cell }\pard \s28\qj\li1091\ri43\widctlpar\intbl\adjustright {\b\fs24 \cell }\pard\plain \widctlpar\intbl\adjustright \fs20 {\scaps\f22\fs24 \row }\pard\plain \s27\widctlpar\adjustright \fs20 {\fs24 
+NorthWestern Generation I, }{\strike\fs24 [^]}{\fs24  }{\b\fs24 LLC}{\fs24 \line }{\b\fs24 c/o NorthWestern Corporation}{\fs24 \line }{\b\fs24 125 South Dakota Avenue}{\fs24 \line }{\b\fs24 Sioux Falls, South Dakota  57104}{\fs24 \line 
+\par }\pard\plain \s29\qj\fi-720\li2160\sa240\nowidctlpar\adjustright \fs20 {\fs24 Re:\tab Purchase of Membership Interests in }{\strike\fs24 [^]}{\fs24  }{\b\fs24 Merchant Energy Ventures,}{\fs24  LLC}{\strike\fs24 [^]}{\fs24 
+, a Delaware limited liability company that is wholly-owned by Enron North America Corp. and will be the purchaser of two General Electric 7EA combustion turbine generator sets under and pursuant to an agreement with General Electric Company
+\par }\pard\plain \qj\nowidctlpar\adjustright \fs20 {\fs24 Ladies and Gentlemen:
+\par 
+\par }\pard\plain \s26\qj\fi1440\sa240\nowidctlpar\adjustright {This letter (this \ldblquote }{\ul Agreement}{\rdblquote ), when executed by the parties, Enron North America Corp. (\ldblquote }{\ul ENA}{\rdblquote 
+), a wholly-owned and indirect subsidiary of Enron Corp., and NorthWestern Generation I, LLC (\ldblquote }{\ul NorSub}{\rdblquote ), a wholly-owned and indirect subsidiary of NorthWestern Corporation (\ldblquote }{\ul NorthWestern}{\rdblquote 
+) (ENA and NorSub being referred to herein, collectively, as the \ldblquote }{\ul Parties}{\rdblquote  and, individually, as a \ldblquote }{\ul Party}{\rdblquote 
+), shall set forth the agreement between the Parties relating to the transaction (as more particularly described herein, the \ldblquote }{\ul Transaction}{\rdblquote ) pursuant to which NorSub will acquire membership interests (\ldblquote }{\ul 
+Membership Interests}{\rdblquote ) in }{\strike [^]}{ }{\b Merchant Energy Ventures,}{ LLC }{\strike [^]}{(the \ldblquote }{\ul LLC}{\rdblquote 
+), representing 80% of the equity of the LLC, under circumstances in which (i) ENA owns Membership Interests in the LLC representing 20% of the equity of  t
+he LLC, and (ii) the LLC is the purchaser of two General Electric 7EA combustion turbine generator sets (individually, a \ldblquote }{\ul Turbine}{\rdblquote  and, collectively, the \ldblquote }{\ul Turbines}{\rdblquote  or the \ldblquote }{\ul 
+GE Equipment}{\rdblquote ), under and pursuant to an agreement, made and entered into as of the 31st day of May 2000 (the \ldblquote }{\ul Original Turbine Contract}{\rdblquote ) by and between }{\strike [^]}{ }{\b E-Next Generation LLC}{
+, as purchaser (the }{\strike [^]}{\b \ldblquote }{\b\ul Original}{\ul  Purchaser}{\rdblquote ), }{\strike [^]}{ }{\b Enron North America Corp.}{, as agent (the \ldblquote }{\ul Agent}{\rdblquote 
+), and General Electric Company (together with its successors and assigns, \ldblquote }{\ul GE}{\rdblquote 
+), as seller, as assigned by the Original Purchaser and the Agent to the LLC and assumed by the LLC (the Original Turbine Contract, as so assigned and assumed, being referred to herein as the \ldblquote }{\ul Turbine Contract}{\rdblquote ).
+\par As of the date of this Agreement, (i) the LLC is wholly-owned by ENA, (ii) one of the Turbines has been delivered under the Original Turbine Contract and has been placed in storage at a storage facility owned by 
+GE and located at ____________ (such Turbine being referred to herein as the \ldblquote }{\ul First Turbine}{\rdblquote ), and (ii) the other Turbine is scheduled to be delivered under the Original Turbine Contract }{\strike [^]}{ }{\b in February}{
+, 2002 (such Turbine being referred to herein as the \ldblquote }{\ul Second Turbine}{\rdblquote ).
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {1.\tab }{\b Defined Terms}{.  As used in this Agreement, and unless expressly indicated, or unless the context clearly requires otherwise:
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab The terms \ldblquote }{\ul Agent}{\rdblquote , \ldblquote }{\ul Agreement}{\rdblquote , \ldblquote }{\ul ENA}{\rdblquote , \ldblquote }{\ul First Turbine}{\rdblquote , \ldblquote }{
+\ul GE}{\rdblquote , \ldblquote }{\ul GE Equipment}{\rdblquote , \ldblquote }{\ul LLC}{\rdblquote , \ldblquote }{\ul Membership Interests}{\rdblquote , \ldblquote }{\ul NorSub}{\rdblquote , \ldblquote }{\ul NorthWestern}{\rdblquote , \ldblquote }{\ul 
+Original Purchaser}{\rdblquote , \ldblquote }{\ul Original Turbine Contract}{\rdblquote , \ldblquote }{\ul Parties}{\rdblquote , \ldblquote }{\ul Party}{\rdblquote , \ldblquote }{\ul Second Turbine}{\rdblquote , \ldblquote }{\ul Transaction}{\rdblquote , 
+\ldblquote }{\ul Turbine}{\rdblquote , \ldblquote }{\ul Turbine Contract}{\rdblquote  and \ldblquote }{\ul Turbines}{\rdblquote  have the meanings assigned to those terms in the introductory paragraphs of this Agreement.
+\par (b)\tab The terms \ldblquote }{\ul Change Orders}{\rdblquote ,}{\b  \ldblquote }{\b\ul Delivery Liquidated Damages}{\b \rdblquote ,}{ \ldblquote }{\ul Guaranteed Unit Shipment Dates}{\rdblquote , \ldblquote }{\ul Event of Purchaser Default}{\rdblquote , 
+\ldblquote }{\ul Event of Seller Default}{\rdblquote , \ldblquote }{\ul Facility}{\rdblquote , \ldblquote }{\ul Purchase Amount}{\rdblquote , \ldblquote }{\ul Retention Letter of Credit}{\rdblquote , \ldblquote }{\ul Scope of Work}{\rdblquote , 
+\ldblquote }{\ul Seller Indemnitee}{\rdblquote , \ldblquote }{\ul Specification}{\rdblquote  and \ldblquote }{\ul Take Over}{\rdblquote  have the meanings assigned to those terms in the Original Turbine Contract.
+\par (c)\tab }{\b The terms \ldblquote }{\b\ul Call Right}{\b \rdblquote  and \ldblquote }{\b\ul Put Right}{\b \rdblquote  have the meanings assigned to those terms in the LLC Agreement (as hereinafter defined).
+\par (d)}{\tab The following terms shall have the following meanings (such meanings to be equally applicable to both the singular and plural forms of the terms defined):
+\par }\pard\plain \s26\qj\fi1440\sa240\nowidctlpar\adjustright {\ldblquote }{\ul AAA}{\rdblquote  means the American Arbitration Association.
+\par \ldblquote }{\ul Action}{\rdblquote  means an action, suit, proceeding, governmental investigation, governmental notice of violation, governmental inquiry or arbitration proceeding.
+\par \ldblquote }{\ul Additional Purchase Price Deposit}{\rdblquote  has the meaning assigned to that term in Section 5(d) of this Agreement.
+\par \ldblquote }{\ul Affiliate}{\rdblquote  means, with respect to any Perso
+n, any Person directly or indirectly controlling, controlled by, or under common control with, such Person, with the concept of control in such context meaning the possession, directly or indirectly, of the power to direct or cause the direction of the ma
+nagement and policies of such Person, whether through the ownership of voting securities or other equity interests, by contract, or otherwise.
+\par }{\b \ldblquote }{\b\ul Business Day}{\b \rdblquote  means any day of the year other than a Saturday, Sunday or other day on which commercial banks in the State of New York are authorized or required by law or executive order to close.}{
+\par \ldblquote }{\ul Claim}{\rdblquote  has the meaning assigned to that term in Section 20(c) of this Agreement.
+\par \ldblquote }{\ul Closing}{\rdblquote  has the meaning assigned to that term in Section 2 of this Agreement.
+\par \ldblquote }{\ul Closing Date}{\rdblquote  means the date on which the Closing actually occurs.
+\par \ldblquote }{\ul Closing Notice}{\rdblquote  has the meaning assigned to that term in Section 3 of this Agreement.
+\par \ldblquote }{\ul Confidential Information}{\rdblquote  has the meaning assigned to that term in Section 11(a) of this Agreement.
+\par \ldblquote }{\ul Covered Liabilities}{\rdblquote 
+ means any and all debts, losses, liabilities, duties, claims, damages, obligations, payments (including, without limitation, those arising out of any demand, assessment, settlement, judgment, or compromise relating to any actual or thr
+eatened Action), taxes, costs, and expenses (including, without limitation, any attorneys\rquote 
+ fees and any and all expenses whatsoever incurred in investigating, preparing or defending any Action), matured or unmatured, absolute or contingent, accrued or unac
+crued, liquidated or unliquidated, known or unknown, including, without limitation, any of the foregoing arising under, out of or in connection with any Action, any order or consent decree of any governmental authority, any award of any arbitrator, or any
+ law, rule, regulation, order, contract, commitment, or undertaking.
+\par \ldblquote }{\ul Dispute}{\rdblquote  has the meaning assigned to that term in Section 22(a) of this Agreement.
+\par \ldblquote }{\ul ENA Indemnified Parties}{\rdblquote  has the meaning assigned to that term in Section 20(a) of this Agreement.
+\par \ldblquote }{\ul ENA Promissory Note}{\rdblquote  has the meaning assigned to that term in Section 2(a) of this Agreement.
+\par \ldblquote }{\ul Escrow Account}{\rdblquote  has the meaning assigned to that term in Section 4(a) of this Agreement.
+\par \ldblquote }{\ul Escrow Agent}{\rdblquote  has the meaning assigned to that term in Section 4(a) of this Agreement.
+\par \ldblquote }{\ul Escrow Agreement}{\rdblquote  has the meaning assigned to that term in Section 4(a) of this Agreement.
+\par \ldblquote }{\ul Estimated Cost}{\rdblquote  has the meaning assigned to that term in Section 6(h) of this Agreement.
+\par \ldblquote }{\ul Excess Cost}{\rdblquote  has the meaning assigned to that term in Section 6(h) of this Agreement.
+\par \ldblquote }{\ul Foreign Acts}{\rdblquote  has the meaning assigned to that term in Section 12(c) of this Agreement.
+\par }{\b \ldblquote }{\b\ul GE Accelerated Payment}{\b \rdblquote  has the meaning assigned to that term in Section 8(b) of this Agreement.}{
+\par \ldblquote }{\ul Indemnified Party}{\rdblquote  has the meaning assigned to that term in Section 20(c) of this Agreement.
+\par \ldblquote }{\ul Indemnitor}{\rdblquote  has the meaning assigned to that term in Section 20(c) of this Agreement.
+\par \ldblquote }{\ul Initial Purchase Price Deposit}{\rdblquote  has the meaning assigned to that term in Section 5(b) of this Agreement.
+\par \ldblquote }{\ul LLC Agreement}{\rdblquote  has the meaning assigned to that term in Section 2(c) of this Agreement.
+\par }{\b \ldblquote }{\b\ul NorSub Cash Contribution}{\b \rdblquote  has the meaning assigned to that term in Section 2(b) of this Agreement.}{
+\par \ldblquote }{\ul NorSub Indemnified Parties}{\rdblquote  has the meaning assigned to that term in Section 20(b) of this Agreement.
+\par }{\strike [^]}{
+\par \ldblquote }{\ul NorSub Membership Interests}{\rdblquote  has the meaning assigned to that term in Section 2(b) of this Agreement
+\par \ldblquote }{\ul NorSub Purchase Price Loan}{\rdblquote  has the meaning assigned to that term in Section 2(d) of this Agreement.
+\par \ldblquote }{\ul NorthWestern Agreement Guaranty}{\rdblquote  has the meaning assigned to }{\strike [^]}{ }{\b that}{ term in Section 5(a) of this Agreement.
+\par \ldblquote }{\ul Permitted Purpose}{\rdblquote  has the meaning assigned to that term in Section 11(a) of this Agreement.
+\par \ldblquote }{\ul Person}{\rdblquote  means an individual, association, unincorporated organization, a corporation, limited liability company, partnership, joint venture, or a government or an agency or a political subdivision thereof.
+\par \ldblquote }{\ul Purchase Price}{\rdblquote  means an amount equal to Forty-Eight Million and No/100 Dollars ($48,000,000.00), which amount includes the
+ Purchase Price Deposits; provided, however, that if the Closing does not occur prior to July 15, 2001, the Purchase Price shall be increased by an amount equal to interest, at the rate of Seven and One-Half Percent (7.5%) per annum (calculated on the bas
+i
+s of the actual number of days elapsed in a year consisting of Three Hundred Sixty Five (365) days), on Forty Million and No/100 Dollars ($40,000,000.00), for each day in the period from and including July 16, 2001 to but excluding the day on which the Cl
+osing occurs; and }{\ul provided}{ }{\ul further}{, }{\ul however}{
+, that if NorSub makes any payments of Estimated Cost and Excess Cost to ENA prior to the Closing, the Purchase Price shall be increased by an amount equal to the aggregate amount of all such payments  so made by NorSub.
+\par \ldblquote }{\ul Purchase Price Deposit(s)}{\rdblquote  has the meaning assigned to that term in Section 5(c) of this Agreement.
+\par }{\b \ldblquote }{\b\ul Remaining Purchase Amount Installment}{\b \rdblquote  and \ldblquote }{\b\ul Remaining Purchase Amount Installments}{\b \rdblquote  have the meanings assigned to those terms in Section 8(a) of this Agreement.
+\par \ldblquote }{\b\ul Remaining Purchase Amount Refund Amount}{\b \rdblquote  has the meaning assigned to that term in Section 5(b) of this Agreement.}{
+\par \ldblquote }{\ul Representatives}{\rdblquote  has the meaning assigned to that term in Section 11(a)(v) of this Agreement.
+\par \ldblquote }{\ul Response Period}{\rdblquote  has the meaning assigned to that term in Section 22(a)(ii) of this Agreement.
+\par \ldblquote }{\ul Securities Act}{\rdblquote  has the meaning assigned to that term in Section 12(c) of this Agreement.
+\par \ldblquote }{\ul Specified Closing Date}{\rdblquote  has the meaning assigned to that term in Section 3 of this Agreement.
+\par \ldblquote }{\ul State Acts}{\rdblquote  has the meaning assigned to that term in Section 12(c) of this Agreement.
+\par \ldblquote }{\ul Term}{\rdblquote  has the meaning assigned to that term in Section 9 of this Agreement.
+\par \ldblquote }{\ul Turbine Contract Assignment and Assumption Agreement}{\rdblquote  has the meaning assigned to that term in Section 2(a) of this Agreement.
+\par \ldblquote }{\ul Unpaid Purchase Price}{\rdblquote  means an amount equal to the difference between (i) the Purchase Price (net of any payments of Estimated }{\b Cost}{ and Excess Cost made by NorSub to ENA), and (ii) the Purchase Price Deposits 
+paid by NorSub to ENA pursuant to Sections 5(b) and 5(c) of this Agreement. 
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {2.\tab }{\b Closing of the Transaction}{.  Subject to the terms and conditions of this Agreement, the following events shall occur on the date of the closing of the Transaction (the 
+\ldblquote }{\ul Closing}{\rdblquote ), each being a condition precedent to the others and each being deemed to occur simultaneously with the others:
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab In consideration of the execution and delivery by the LLC to ENA of a }{\strike [^]}{ promissory note of the LLC, in the form of }{\ul Exhibit A}{ attached he
+reto and in a principal amount equal to the Purchase Price on and as of the Closing Date (the \ldblquote }{\ul ENA Promissory Note}{\rdblquote 
+), ENA shall:  (i) cause the Original Purchaser and the Agent to assign all of their respective rights, titles and interests in, to and under
+ the Original Turbine Contract to the LLC and the LLC to assume all of their respective rights, titles, interests, obligations and liabilities in, to and under the Original Turbine Contract, in each case, pursuant to an Assignment and Assumption Agreement
+ in the form of }{\ul Exhibit B}{ attached hereto (the \ldblquote }{\ul Turbine Contract Assignment and Assumption Agreement}{\rdblquote 
+) (duly signed by the parties thereto); (ii) cause GE to acknowledge and agree to such assignment and assumption by executing that certain acknowledgment an
+d agreement of GE that is attached to the Turbine Contract Assignment and Assumption Agreement; (iii) cause GE to issue to the LLC certificates naming the LLC as additional named insured (in lieu of the Original Purchaser) with respect to all insurance ca
+rried and required to be carried by GE pursuant to Article XIX of the Original Turbine Contract; and [(iv) cause GE to transfer to the LLC the Retention Letter of Credit issued to the Original Purchaser with respect to the First Turbine.]
+\par (b)\tab NorSub shall acquire, and ENA shall cause the LLC to issue to NorSub, membership interests in the LLC representing 80% of the equity of the LLC (the \ldblquote }{\ul NorSub Membership Interests}{\rdblquote 
+), in consideration of a cash contribution by NorSub to the capital of the LLC in the amount of Eight Hundred and No/100 Dollars ($800.00) (the \ldblquote }{\ul NorSub Cash Contribution}{\rdblquote ).
+\par (c)\tab ENA, NorSub and the LLC shall execute and deliver the First Amended and Restated Limited Liability Company Agreement of the LLC}{\b ,}{ in the form of }{\ul Exhibit C}{ attached hereto (the \ldblquote }{\ul LLC Agreement}{\rdblquote ).
+\par (d)\tab In consideration of the execution and delivery by the LLC to NorSub of a promissory note of the LLC, in }{\strike [^]}{ the form of }{\ul Exhibit D}{
+ attached hereto, NorSub shall lend to the LLC an amount of money equal to the Purchase Price (the \ldblquote }{\ul NorSub Purchase Price Loan}{\rdblquote ).
+\par (e)\tab Immediately upon the receipt by the LLC of the proceeds of the NorSub Purchase Price Loan, ENA and NorSub shall cause the LLC to apply such proceeds to the repayment in full of the amount outstanding under the ENA Promissory Note.
+\par (f)\tab NorSub shall cause NorthWestern to execute and deliver to and for the benefit of GE a Guaranty in the form of }{\ul Exhibit E}{
+ attached hereto, under and pursuant to which NorthWestern guarantees the payment and performance by the LLC of all of the obligations of the LLC under the Turbine Contract.
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {3.\tab }{\b Establishment of Closing Date}{
+.  The Closing of the Transaction shall take place on such day occurring on or prior to August 15, 2001 as is specified by NorSub to ENA by written notice (the \ldblquote }{\ul Closing Notice}{\rdblquote ); }{\ul provided}{, }{\ul however}{
+, that the Closing Notice (i) may not be given prior to the 30th day next succeeding the date of this Agreement, and (ii) may not be given less than 30 days prior to the date specified therein as the day the Closing of the Transaction shall occur (the 
+\ldblquote }{\ul Specified Closing Date}{\rdblquote 
+).  Subject to the provisions of Section 10 of this Agreement, (i) failure of the Closing to take place on the Specified Closing Date will not result in termination of this Agreement, and (ii) if on the Specified Cl
+osing Date any condition specified in Section 7 hereof shall not be satisfied or waived, and provided that on and as of the Specified Closing Date, the Escrow Account is funded in the amount required by Section }{\strike [^]}{ }{\b 4(c)}{
+ of this Agreement, either Party shal
+l have the right, by written notice to the other Party delivered on the Specified Closing Date, to postpone the Specified Closing Date one time to a date specified by the Party giving notice of the postponement that is not more than fifteen (15) days foll
+owing the Specified Closing Date and in no event later than September 1, 2001; provided, however, that if NorSub postpones the Specified Closing Date pursuant to the provisions of this Section 3, }{\strike [^]}{ }{\b NorSub}{
+ shall deposit in the Escrow Account an amount equal to interest, at the rate of Seven and One-Half Percent (7.5%) per annum }{\b (calculated on the basis of the actual number of days elapsed in a year consisting of Three Hundred Sixty Five (365) days)}{
+, on Forty Million and No/100 Dollars ($40,000,000), for each day in the period from and including the Specified Closing Date to but excluding the day on which the Closing occurs }{\b 
+(such amount being the amount by which the Purchase Price will increase by reason of such postponement)}{.
+\par }\pard \s40\qj\fi1440\sa240\keep\keepn\widctlpar\tx2160\adjustright {4.\tab }{\b Escrow Arrangements and Funding}{.
+\par }\pard\plain \s41\qj\fi1440\sa240\keep\keepn\widctlpar\tx2160\adjustright {(a)\tab Simultaneously with the execution and delivery of this Agreement, the Parties are entering into an escrow agreement with Citibank, N.A., as escrow agent (the \ldblquote }{
+\ul Escrow Agent}{\rdblquote ) }{\strike [^]}{ in the form of }{\ul Exhibit F}{ attached hereto (the \ldblquote }{\ul Escrow Agreement}{\rdblquote ), under and pursuant to which an escrow account (the \ldblquote }{\ul Escrow Account}{\rdblquote 
+) is being established for the purpose of facilitating the Closing.  Notwithstanding anything to the contrary in the Escrow Agreement, NorSub will pay }{\b directly to the Escrow Agent}{ all acceptan
+ce, setup, administration and other fees associated with the Escrow Account and the Escrow Agreement.
+\par }\pard \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(b)\tab On the date which is twenty (20) days prior to the Specified Closing Date (or, if such day is not a }{\strike [^]}{ }{\b Business Day}{, on the next day which is a }{\strike [^]}{ }{\b B
+usiness Day)}{, NorSub shall deposit in the Escrow Account an amount equal to the sum of (i) the Unpaid Purchase Price, plus (ii) the NorSub Cash Contribution.
+\par (c)\tab The moneys in the Escrow Account shall be applied as follows:  (i) upon occurrence of the Clos
+ing, (A) to the funding by NorSub to the LLC of a portion of the NorSub Purchase Price Loan in an amount equal to the Unpaid Purchase Price (and, in turn, to the repayment by the LLC to ENA of a portion of the amount outstanding under the ENA Promissory N
+ote in an amount equal to the Unpaid Purchase Price}{\b )}{, (B) to the funding by NorSub
+ to the LLC of the NorSub Cash Contribution, and (C) to the payment to NorSub of any balance (consisting of interest earnings), if any, remaining in the Escrow Account after application in accordance with the preceding sub-clauses (A) and (B); (ii) if, fo
+r
+ any reason, the Closing does not occur and this Agreement is terminated in accordance with Section 10 hereof, to the payment of the entire balance in the Escrow Account (including interest earnings, if any) to NorSub; and (iii) if the Escrow Account is f
+unded prior to July 15, 2001 and the Closing has not occurred on }{\strike [^]}{ }{\b and}{
+ as of July 16, 2001, to the payment of the Additional Purchase Price Deposit to ENA.  Each Party agrees to give to the Escrow Agent such instructions as are required by the Escrow Agre
+ement to cause the moneys in the Escrow Account to be applied as described in this Section 4(c) and in Section 10 hereof.
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {5.\tab }{\b Guaranty and Purchase Price Deposits}{.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab Simultaneously with the execution and delivery of this Agreement, NorSub shall cause NorthWestern to execute and deliver to and for the benefit of ENA a Guaranty in the form of }{\ul 
+Exhibit G}{ attached hereto}{\strike [^]}{ (the \ldblquote }{\ul NorthWestern Agreement Guaranty}{\rdblquote )}{\b ,}{ under and pursuant to which NorthWestern guarantees the payment and performance by NorSub of the o
+bligations of NorSub under this Agreement and the LLC Agreement.
+\par (b)\tab Upon the execution and delivery of this Agreement, NorSub shall pay to ENA, as a deposit in respect of the Purchase Price (the \ldblquote }{\ul Initial Purchase Price Deposit}{\rdblquote ), Three Million and No/00 D
+ollars ($3,000,000.00) by wire transfer of immediately available funds to an account specified by ENA in writing for such purpose.
+\par (c)\tab If, on and as of July 16, 2001, the Closing has not occurred, then, on July 16, 2001, NorSub shall pay to ENA, as an additional deposit in respect of the Purchase Price (the \ldblquote }{\ul Additional Purchase Price Deposit}{\rdblquote 
+), Five Million and No/00 Dollars ($5,000,000.00) by wire transfer to an account specified by ENA in writing for such purpose.  The Initial Purchase Price Deposit and the Additional Purchase Price Deposit are referred to herein, individually, as a 
+\ldblquote }{\ul Purchase Price Deposit}{\rdblquote  and, collectively, as the \ldblquote }{\ul Purchase Price Deposits}{.\rdblquote 
+\par (d)\tab Each Purchase Price Deposit shall be non-refundable by ENA, except as otherwise provided in Section 10 hereof.
+\par (e)\tab Upon occurrence of the Closing, an aggregate amount equal to the sum of (i) the Initial Purchase Price Deposit, (ii) the Additional Purchase Price Deposit, (iii) the Estimated Cost of each Change Order paid by NorSub to ENA pursuant to
+ Section 6(h) of this Agreement, and (iv) the Excess Cost of each Change Order paid by NorSub to ENA pursuant to Section 6(h) of this Agreement shall be deemed to be }{\strike [^]}{ refunded by ENA to NorSub and }{\strike [^]}{
+ advanced by NorSub to the LLC as the portion of the 
+NorSub Purchase Price Loan which remains unadvanced by NorSub to the LLC after application of the moneys in the Escrow Account to the funding of the NorSub Purchase Price Loan in accordance with Section 4(c) of this Agreement (and, in turn, applied to the
+ 
+repayment by the LLC to ENA of the principal amount of the ENA Promissory Note which remains outstanding after use by the LLC (following receipt thereof from NorSub as a portion of the NorSub Purchase Price Loan) of the moneys in the Escrow Account to rep
+ay a portion of the ENA Promissory Note in accordance with Sections 2(e) and 4(c) of this Agreement. 
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {6.\tab }{\b Pre-Closing Covenants and Agreements}{.  The Parties covenant and agree that, at all times prior to the Closing:
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab 
+ENA shall be responsible for the performance of, and shall cause the Original Purchaser and/or the Agent to perform, all of the obligations of the Original Purchaser and/or the Agent under the Original Turbine Contract (including, without limitation, the 
+p
+ayment of all installments of Purchase Amount and all other amounts, in each case, that become due and payable by the Original Purchaser and/or the Agent under and in accordance with the Original Turbine Contract).  ENA shall be entitled to receive and to
+ retain (and/or to apply as it determines in its sole discretion) all amounts paid by GE under the Original Turbine Contract prior to the Closing.
+\par (b)\tab ENA shall furnish promptly to NorSub (or its agent or representative) such information concerning the Turb
+ines, the Original Turbine Contract and the transactions thereunder as NorSub may reasonably request from time to time, including, without limitation, copies of all material notices and communications given and received (whether prior to or after the date
+ 
+of this Agreement) by the Original Purchaser and/or the Agent under and in respect of the Original Turbine Contract (further including, without limitation, notices and communications with respect to or affecting the Purchase Amount and matters covered by 
+S
+ections 3.4, 3.8, 3.10, 3.14 and Article V of the Original Turbine Contract).  Without limitation of the foregoing, and without any necessity for request by NorSub, ENA shall provide to NorSub notice, promptly after the Original Purchaser and/or the Agent
+ 
+obtains knowledge thereof, or receives notice or payment thereof, as applicable, of (i) the accrual or payment of liquidated damages under the Original Turbine Contract, or (ii) the assertion of any claim or entitlement by GE or any Seller Indemnitee for 
+payment or indemnification pursuant to the Original Turbine Contract (other than for payment of Purchase Amount and taxes in respect of the sale or delivery of the Turbines).
+\par (c)\tab ENA shall not, and shall not permit the Original Purchaser and/or the Agent to
+, take any action or exercise any option under or in respect of the Original Turbine Contract if such action or exercise affects the Scope of Work or the Specification, in each case, without the prior approval of NorSub.
+\par (d)\tab ENA shall afford to NorSub (or 
+its agent or representative) such access to, and such rights of inspection of, the First Turbine as NorSub may reasonably request for purposes of engineering, design and/or construction of the Facility in which the First Turbine is intended by NorSub to b
+e used and for purposes of determining }{\strike [^]}{ }{\b the condition of}{ the First Turbine }{\strike [^]}{.
+\par (e)\tab ENA shall use commercially reasonable efforts to cause the conditions specified in Sections 7(a)(i) and 7(a)(ii) of this Agreement to be satisfied on and as of the Closin
+g Date; and NorSub shall use commercially reasonable efforts to cause the conditions specified in Sections 7(b)(i) and 7(b)(ii) of this Agreement to be satisfied on and as of the Closing Date.
+\par (f)\tab Neither Party shall enter into any agreement containing any provisions which would be violated or breached by the performance by such Party of its obligations under this Agreement.
+\par (g)\tab NorSub shall use commercially reasonable efforts to obtain any financing required in order to fund the Escrow Account and pay the 
+Additional Purchase Price Deposit at the times and in the amounts required by Sections 4(b) and 5(c), respectively, of this Agreement.
+\par (h)\tab Upon NorSub\rquote s submission to ENA of a Change Order with respect to the Second Turbine (as though NorSub were the Purch
+aser or the Agent under the Original Turbine Contract), ENA shall cause the Original Purchaser and/or the Agent to consult with GE, pursuant to the provisions }{\strike [^]}{ }{\b of}{
+ Section 11.2 of the Original Turbine Contact, concerning the estimated cost of such Change Order and the impact of such Change Order on the Guaranteed Unit Shipment Date of the Second Turbine and the Purchase Amount of the Second Turbine; and, }{\b 
+promptly}{ after such consultation, ENA shall report to NorSub the results of such consultation.  Provid
+ed that (i) such Change Order is reasonable to GE and does not delay the Guaranteed Unit Shipment Date, (ii) NorSub requests that ENA proceed with the implementation of such Change Order (on the basis of the results of the consultation with GE concerning 
+such Change Order, including the cost thereof as estimated by GE), and (iii) NorSub pays ENA the cost of such Change Order as estimated by GE (the \ldblquote }{\ul Estimated Cost}{\rdblquote ) before GE proceeds with such Change Order, }{\strike [^]}{
+ ENA shall cause the Original Purchaser and/or
+ the Agent to implement such Change Order in accordance with the terms of the Original Turbine Contract.  With respect to each Change Order that ENA causes the Original Purchaser and/or the Agent to implement pursuant to this Section 6(h), NorSub agrees t
+o
+ pay to ENA (or, if such payment is due on or after the Closing Date, to cause the LLC to pay to ENA), promptly after receipt from ENA of an invoice therefor (accompanied by evidence from GE thereof), of the amount, if any, by which the actual cost of suc
+h Change Order (}{\ul i.e}{
+., the amount by which the Purchase Amount of the Second Turbine increases in accordance with the Original Turbine Contract by reason of such Change Order) exceeds the Estimated Cost of such Change Order (such amount being referred to herein as an 
+\ldblquote }{\ul Excess Cost}{\rdblquote ).  Each payment of Estimated Cost and Excess Cost made by NorSub (or, if applicable, the LLC) to ENA pursuant to this Section 6(h) shall be non-refundable by ENA (under any circumstances or for any reason).
+\par (i)\tab }{\strike [^]}{ Upon NorSub\rquote s sub
+mission of a written request to ENA that identifies the basis for a discussion or consultation with GE (as such discussion or consultation is more particularly described in this Section 6(i)), ENA shall, if it considers, in its sole discretion, that the b
+a
+sis for such consultation or discussion with GE is reasonable, cause the Original Purchaser and/or the Agent to use commercially reasonable efforts to afford NorSub (or its agent or representative) such opportunity or opportunities to discuss with GE (or 
+to consult with GE concerning) matters }{\strike [^]}{\b (including, without limitation, Change Orders) pertaining solely to the design, engineering, consultation, delivery, installation, operation, use, maintenance, servicing and/or repair of the}{
+ Turbines }{\strike [^]}{; }{\ul provided}{, }{\ul however}{, that }{\strike [^]}{ }{\b ENA and/or}{ the Agent must be present at, and }{\b (to the extent desired by ENA and/or the Agent)}{ participate in, each such discussion (or consultation).}{\strike 
+[^]}{
+\par (j)\tab If (prior to the funding of the Escrow Account in accordance with Section 4(c) of this Agreement) the ratings assigned by Moody\rquote s Investors Service, Inc. and Standard & Poor\rquote s }{\strike [^]}{ }{\b Ratings}{
+ Service to any of the long-term, unsecured and unenhanced debt obligations of NorthWestern are reduced to below BAA3 and BBB-, respectively, then, wit
+hin fifteen (15) days after receipt by NorSub of notice of such reductions, NorSub shall cause to be delivered to ENA an irrevocable letter of credit (or }{\b a guaranty or}{
+ other form of credit enhancement acceptable to ENA) to support the payment obligations of NorSub under this Agreement and the LLC Agreement }{\b (to the same extent as such payment obligations are supported by the NorthWestern Agreement Guaranty)}{
+ that is issued by a bank or other financial institution (or other Person acceptable to ENA) having long-term, unsecured and unenhanced debt obligations that are rated at least BAA3 and BBB- by Moody\rquote s Investors Service, Inc. and Standard & Poor
+\rquote s }{\strike [^]}{ }{\b Ratings}{ Service, respectively.
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {7.\tab }{\b Closing Conditions}{.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab NorSub\rquote s obligation to take the actions required 
+to be taken by NorSub at Closing in order to consummate the Transaction (as described in Section 2 hereof) is subject to the satisfaction, on and as of the Closing Date, of each of the following conditions (any of which may be waived by NorSub, in whole o
+r in part):
+\par }\pard\plain \s42\qj\fi1440\li720\sa240\widctlpar\tx2160\tx2736\adjustright {(i)\tab Each of ENA\rquote 
+s representations and warranties in this Agreement shall be true and correct on and as of the Closing Date as if made on and as of the Closing Date and each of the covenants and obligations that ENA is required to satisfy, perfor
+m or comply with pursuant to this Agreement on or prior to the Closing Date shall have been satisfied, performed or complied with in all material respects; and NorSub shall have received a certificate of ENA, signed by an appropriate officer of ENA and da
+ted the Closing Date, to such effect; and
+\par (ii)\tab Each document required to be executed and/or delivered by ENA (or which ENA is required to cause to be executed and/or delivered) pursuant to Section 2 hereof shall have been executed and/or delivered.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(b)\tab ENA\rquote 
+s obligation to take the actions required to be taken by ENA at Closing in order to consummate the Transaction (as described in Section 2 hereof) is subject to the satisfaction, on and as of the Closing Date, of each of the following conditions (any of wh
+ich may be waived by ENA, in whole or in part):
+\par }\pard\plain \s42\qj\fi1440\li720\sa240\widctlpar\tx2160\tx2736\adjustright {(i)\tab Each of NorSub\rquote 
+s representations and warranties in this Agreement shall be true and correct on and as of the Closing Date as if made on and as of the Closing Date, NorSub shall have funded the Escrow Accou
+nt in the amount required by Section 4(c) of this Agreement and each of the other covenants and obligations that NorSub is required to satisfy, perform or comply with pursuant to this Agreement on or prior to the Closing Date shall have been satisfied, pe
+rformed or complied with in all material respects; and ENA shall have received a certificate of NorSub, signed by an appropriate officer of Nor Sub and dated the Closing Date, to such effect; and
+\par (ii)\tab Each document required to be executed and/or delivered by NorSub (or which Nor Sub is required to cause to be executed and/or delivered) pursuant to Section 2 and Section }{\strike [^]}{ }{\b 8(f)}{
+ hereof shall have been executed and/or delivered.
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {8.\tab }{\b Post-Closing Covenants and Agreements}{.  The Parties covenant and agree that, upon and after the Closing:
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab ENA agrees to be responsible for, and to pay to GE when due, and to hold the LLC and NorSub harmless from and against, (i) any and all installments }{\strike [^]}{
+ of the Purchase Amount of the Turbines which become due and payable on and after the Closing Date under and in accordance with the Turbine Contract (as in effect on the Closing Date)}{\strike [^]}{ }{\b 
+as such installments are set forth on Schedule I attached hereto (such installments being referred to herein, collectively, as the \ldblquote }{\b\ul Remaining Purchase Amount Installments}{\b \rdblquote  and, individually, as a \ldblquote }{\b\ul 
+Remaining Purchase Amount Installment}{\b \rdblquote ), and (ii) any}{ other amounts of Purchase Amount }{\b of the Turbines and any damages or indemnification payments}{ which become due and payable }{\strike [^]}{ }{\b to GE or any Seller Indemnitee}{
+ under and in accordance with the Turbine Contract }{\strike [^]}{ on and after the Closing Date }{\b in each case,}{ as a result of an act or omission of the Original Purchaser }{\b (or any of its predecessors as \ldblquote }{\b\ul Purchaser}{\b 
+\rdblquote  under the Original Turbine Contract as in effect prior to the Original Purchaser becoming a party thereto)}{ and/or the Agent occurring prior to the Closing Date}{\b ; }{\b\ul provided}{\b , }{\b\ul however}{\b , that ENA\rquote 
+s responsibility for, and obligation to pay to GE when due, and to hold the LLC and NorSub harmless
+ from and against the Remaining Purchase Amount Installments shall terminate as provided in Section 8(b) of this Agreement.  ENA shall provide NorSub with notice of each Remaining Unpaid Purchase Amount Installment which is paid by ENA (including the date
+ and the amount thereof) promptly after the payment thereof by ENA.}{
+\par }{\strike [^]}{\b (b)}{\tab }{\b ENA agrees that if the Call Right or the Put Right is exercised prior to the payment by ENA to GE of all of the Remaining Unpaid Purchase Amount Installments, ENA will pay to the LLC
+, on the date of exercise of the Call Right or the Put Right, an amount (the \ldblquote }{\b\ul Remaining Purchase Amount Refund Amount}{\b \rdblquote 
+) equal to the difference between (I) the sum of all of the Remaining Unpaid Purchase Amount Installments that ENA has not paid to GE on a
+nd as of the date of exercise of the Call Right or the Put Right, and (ii) interest, at the rate of Seven and One-Half Percent (7.5%) per annum (calculated on the basis of the actual number of days elapsed in a year consisting of Three Hundred Sixty Five 
+(
+365) days), on each such Remaining Unpaid Purchase Amount Installment, for each day in the period from and including the date of exercise of the Call Right or the Put Right to but excluding the date such Remaining Unpaid Purchase Amount Installment is pay
+a
+ble to GE (as such date is set forth on Schedule I attached hereto); provided, however, that, with the prior written consent of NorSub (to be given or withheld by NorSub in its sole discretion), in lieu of paying the Remaining Purchase Amount Refund Amoun
+t to the LLC on the date of exercise of the Call Right or the Put Right, ENA may pay to GE (the \ldblquote }{\b\ul GE Accelerated Payment}{\b \rdblquote 
+) on such date all of the Remaining Purchase Amount Installments that ENA has not paid to GE prior to such date (or such portion or disco
+unted amount of such Remaining Purchase Amount Installments as GE agrees in writing with the LLC to accept in full satisfaction of the LLC\rquote 
+s obligation to make payment of such Remaining Purchase Amount Installments to GE under the Turbine Contract).  Upon 
+the receipt by the LLC from ENA of the Remaining Purchase Amount Refund Amount (or, if applicable, upon the receipt by GE from ENA of the GE Accelerated Payment) pursuant to this Section 5(b), ENA\rquote 
+s responsibility for, and obligation to pay to GE when due, and to hold the LLC and NorSub harmless from and against, the Remaining Purchase Amount Installments shall terminate.
+\par (c)}{\tab NorSub agrees to be responsible for, and to hold the LLC and ENA harmless from and against, payment of (i) any and all amounts which 
+become due and payable to GE or any Seller Indemnitee under and in accordance with the Turbine Contract after the Closing Date, other than any amounts for which ENA is responsible pursuant to }{\strike [^]}{ }{\b Section}{
+ 8(a) hereof, and (ii) any and all sales, transfer, use, ad valorem and other taxes which might arise in connection with the sale, transfer, assignment or ownership of the Turbines.  }{\strike [^]}{
+ NorSub agrees to cause the LLC to pay to ENA any amounts of }{\strike [^]}{ }{\b Delay Liquidated Damages with respect to the First Turbine that are paid by GE to}{ the LLC under and pursuant to the Turbine Contract on and after the Closing Date but }{
+\strike [^]}{ that are so paid by reason of events that occurred, or circumstances that prevailed, }{\b with respect to the First Turbine}{ prior to the Closing Date.
+\par (d)\tab ENA may provide NorSub such development and technical assistance regarding the GE Equipment as NorSub reasonably requests; }{\ul provided}{, }{\ul however}{
+, that (i) NorSub shall have no recourse to ENA to the extent that ENA declines to provide such assistance in
+ its sole and absolute discretion, (ii) should ENA choose to provide such assistance, it shall do so without any warranty whatsoever and NorSub shall have no recourse to ENA with respect to such assistance, and (iii) NorSub shall pay to ENA (promptly afte
+r receipt from ENA of an invoice therefor) any internal or third party costs incurred or to be incurred by ENA with respect to any such assistance.
+\par (e)\tab At all times prior to the exercise of either the Call Right }{\strike [^]}{ or the Put Right}{\strike [^]}{, NorSub shall obtain 
+and maintain for the benefit of the LLC commercial general liability insurance, including contractual liability coverage, broad form property damage coverage, personal injury coverage, and products and completed operations coverage, written on an occurren
+c
+e basis and issued by an insurer with a Best rating of A-XIII or better, with limits of liability not less than $25,000,000 per occurrence, and a deductible no greater than $25,000 per occurrence.  Such insurance shall name each of ENA and NorSub as an ad
+d
+itional insured and be endorsed to provide for a waiver of all rights of subrogation against ENA and NorSub.  Such insurance shall be primary in respect of any other insurance maintained by ENA and NorSub.  NorSub shall be responsible for all premiums, an
+d
+ any coinsurance penalties, exclusions, sublimits, deductibles, or retentions, with respect to such insurance.  In addition, at all times from and after the Closing of the Transaction, NorSub shall obtain and maintain for the benefit of the LLC such insur
+ance as may be required to be maintained by the \ldblquote }{\ul Purchaser}{\rdblquote 
+ pursuant to the Turbine Contract.  NorSub shall procure from the insurer and deliver to ENA at the Closing certificates of insurance in form and substance reasonably satisfactory to ENA confirming 
+that said insurance is in full force and effect and that the same shall not be cancelled or materially changed without thirty (30) days\rquote  prior written notice to each of ENA and NorSub.
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {9.\tab }{\b Term}{.  All representations and warranties of the Parties and all obl
+igations and liabilities of the Parties in respect of such representations and warranties and all obligations of the Parties under Section 20 of this Agreement (whether in respect of such representations or warranties or otherwise) shall survive the Closi
+ng of the Transaction until the later of (a) December 31, 2002, or (b) the 60th day following the date on which the Second Turbine achieves Take Over (such later date being referred to herein as the \ldblquote }{\ul Term}{\rdblquote 
+), except that, if written notice of a claim arising
+ prior to the end of the Term is given to the other Party by the Party making the claim on or before thirty (30) days after the end of the Term, then the relevant representation or warranty or the relevant obligations and liabilities shall survive as to s
+u
+ch claim until such claim has been finally resolved.  Except as otherwise specifically provided herein, all covenants, agreements and indemnities of the Parties under this Agreement shall survive the Closing of the Transaction until expiration of the appl
+icable statute of limitations.
+\par 10.\tab }{\b Termination}{.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab 
+ENA shall have the right to terminate this Agreement, at any time prior to the Closing, by written notice to NorSub, if (i) ENA has determined, in good faith, and on the basis of discussions and negotiations with GE, that ENA will be unable to }{\strike 
+[^]}{ cause to be executed and delivered}{\strike [^]}{ any document which ENA is required to }{\strike [^]}{ cause to be executed and delivered}{\strike [^]}{ pursuant to }{\strike [^]}{ }{\b clause}{
+ (ii), (iii) or (iv) of Section 2(a) of this Agreement, (ii) ENA has notified NorSub in writing of such determination by ENA (and has identified in such written notice the document which ENA will be unable to }{\strike [^]}{
+ cause to be executed and delivered and has described in such written notice the basis for such determination), and (iii) within }{\strike [^]}{ }{\b three (3) Business Days}{
+ after receipt of such written notice from ENA, NorSub has not waived the requirement that ENA }{\strike [^]}{ cause to be executed}{\strike [^]}{ the document which ENA has determined ENA will be unable to }{\strike [^]}{ cause to be executed and deliv
+ered.  If NorSub waives the requirement that ENA }{\strike [^]}{ cause to be executed and delivered}{\strike [^]}{
+ the document described in clause (iii) of Section 2(a) of this Agreement, then, in lieu thereof, ENA shall deliver copies of all certificates of insurance which GE delivered to }{\b the}{
+ Original Purchaser and the Agent pursuant to the Original Turbine Contract.  If NorSub waives the requirement that ENA }{\strike [^]}{ cause to be executed and delivered}{\strike [^]}{
+ the document described in clause (iv) of Section 2(a) of this Agreement, then, 
+in lieu thereof, ENA shall deliver the Retention Letter of Credit which GE delivered to the Original Purchaser and/or the Agent pursuant to the Original Turbine Contract.  In the event this Agreement is terminated by ENA pursuant to this Section 10(a), as
+ its sole and exclusive remedy, NorSub shall be entitled to the immediate refund of all Purchase Price Deposits made by NorSub and to the immediate return of all moneys (including interest earnings), if any, on deposit in the Escrow Account.
+\par (b)\tab ENA shall h
+ave the right to terminate this Agreement, at any time prior to the Closing, by written notice to NorSub, if (i) NorSub breaches its covenant contained in Section 6(j) of this Agreement, (ii) NorSub fails to give notice pursuant to Section 3 of this Agree
+m
+ent on or prior to August 15, 2001 of a Specified Closing Date occurring on or prior to September 15, 2001, (iii)  NorSub fails to fund the Escrow Account at the time and in the amount required by Section 4(b) of this Agreement, (iv) NorSub fails to make 
+t
+he Additional Purchase Price Deposit at the time and in the amount required by Section 5(c) of this Agreement, or (v) NorSub fails to satisfy, perform or comply in any material respect with any of the other material covenants or obligations that NorSub is
+ 
+required to satisfy, perform or comply with pursuant to this Agreement prior to the Closing.  In the event this Agreement is terminated by ENA pursuant to this Section 10(b), NorSub shall be entitled to the immediate return of all moneys (including intere
+s
+t earnings), if any, on deposit in the Escrow Account and ENA shall be entitled to retain (and shall have no obligation to refund) the Purchase Price Deposits made by NorSub.  In addition, if such termination occurs on or prior to July 15, 2001, NorSub sh
+all pay to ENA, within three (3) }{\strike [^]}{ }{\b Business Days}{ after receipt by NorSub of ENA\rquote s written notice of termination, and as ENA\rquote s sole and exclusive remedy, and as liquidated damages for ENA\rquote 
+s loss of a bargain (and not as a penalty), Five Million and No/100 Dollars ($5,000,000) by wire transfer to an account specified by ENA in writing for such purpose.
+\par (c)\tab NorSub shall have the right to terminate this Agreement, at any time prior to the Clos
+ing, by written notice to ENA, if ENA fails to satisfy, perform or comply in any material respect with any of the material covenants or obligations that ENA is required to satisfy, perform or to comply with pursuant to this Agreement prior to the Closing.
+ 
+ In the event this Agreement is terminated by NorSub pursuant to this Section 10(c), NorSub shall be entitled to the immediate refund of all Purchase Price Deposits made by NorSub and to the immediate return of all moneys (including interest earnings), if
+ any, on deposit in the Escrow Account.
+\par (d)\tab Either Party shall have the right to terminate this Agreement if the Closing has not occurred (other than by reason of the failure of the Party s
+eeking to terminate this Agreement to satisfy, perform or comply with any of the material covenants or obligations that such Party is required to satisfy, perform or comply with pursuant to this Agreement) on or before September 1, 2001 (or such later dat
+e
+ as the parties may mutually agree upon).  In the event this Agreement is terminated pursuant to this Section 10(d), NorSub shall be entitled to the immediate return of all moneys (including interest earnings), if any, on deposit in the Escrow Account and
+ ENA shall be entitled to retain (and shall have no obligation to refund) the Purchase Price Deposits made by NorSub.
+\par (e)\tab Each Party\rquote s right of termination under this Section 10 shall be in lieu of, and not in addition to, any other rights or remedies it ma
+y have under this Agreement or otherwise; and the exercise of a right of termination will be an election of remedies.  If this Agreement is terminated pursuant to this Section 10, all further obligations of the Parties under this Agreement will terminate,
+ 
+except that the obligations in, or arising under or by reason of, Sections 11, 12(a)(v), 12(b)(v) and 13 will survive.  Notwithstanding anything in this Section 10(e) to the contrary, if this Agreement is terminated by a Party because of failure by the ot
+h
+er Party to satisfy, perform or comply with any of the covenants or obligations that such Party is required to satisfy, perform or comply with pursuant to this Agreement, then, except as otherwise provided in Sections 10(a) and 10(b) of this Agreement wit
+h respect to sole and exclusive remedies, the terminating Party\rquote s right to pursue all legal remedies (whether under this Agreement or otherwise) will survive unimpaired notwithstanding its election to terminate this Agreement.
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {11.\tab }{\b Confidentiality}{. 
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab The 
+Parties agree to maintain in confidence and not disclose to any Person, and not to use for any purpose other than a Permitted Purpose (as defined below), the terms of this Agreement and the LLC Agreement and the transactions contemplated hereby and thereb
+y, and the documents and information delivered hereunder and thereunder and in connection herewith and therewith (collectively, \ldblquote }{\ul Confidential Information}{\rdblquote ), except for:  
+\par }\pard\plain \s42\qj\fi1440\li720\sa240\widctlpar\tx2160\tx2736\adjustright {(i)\tab Confidential Information that a Party can demonstrate was rightfully in such Party\rquote s possession prior to the date of disclosure to such Party;
+\par (ii)\tab Confidential Information that, at the time of disclosure or later, is published or becomes otherwise available to the general public as part of the public domain through no act or failure to
+ act on the part of the Party receiving the Confidential Information;
+\par (iii)\tab Confidential Information that is disclosed to a third party in accordance with written direction or approval from or of the Party claiming an interest in the confidentiality thereof;
+\par (iv)\tab 
+Confidential Information that a Party is required by applicable law, rule or regulation or by legal process or in connection with legal proceedings to disclose or produce; provided that such Party shall, prior to making such disclosure or productio
+n, give written notice of the same to the other Party and cooperate with the other Party in obtaining an order for confidential treatment or to narrow the disclosure or production or to otherwise protect the other Party\rquote s interests;
+\par (v)\tab Disclosures of Confidential Information by a Party to any of its Affiliates or its Affiliates\rquote 
+ employees, officers, agents, consultants, representatives, accountants, counsel, investment bankers, financial advisors, rating agencies, prospective or actual lenders or investors
+, or other professionals engaged by it or its Affiliates (hereinafter collectively referred to as \ldblquote }{\ul Representatives}{\rdblquote ) who have a need to know related to a Permitted Purpose; }{\ul provided}{
+ that each Party shall instruct its Representatives that any Confidential I
+nformation conveyed to them is to be held in strict confidence by them, and each Party shall use its best efforts to ensure that all of its Representatives take reasonable precautions to safeguard and preserve the confidential status of Confidential Infor
+mation conveyed to them;
+\par (vi)\tab Disclosures of Confidential Information for financial reporting purposes; and
+\par (vii)\tab Disclosures of Confidential Information by a Party to GE in connection with the Turbines or the Turbine Contract.
+\par }\pard\plain \s26\qj\fi1440\sa240\nowidctlpar\adjustright {As used in this Section 11(a), \ldblquote }{\ul Permitted Purpose}{\rdblquote 
+ means a purpose related solely to (i) this Agreement or the LLC Agreement or the transactions contemplated hereby or thereby (other than the unrelated and/or competing transactions referred to in Section 4.3 of the LLC Agreement), (ii
+) the acquisition, ownership, use or operation (actual or intended) of the Turbines, or (iii) the business or assets of the LLC, the manager of the LLC or any Affiliate of the LLC or the manager of the LLC, in each case, at or after the Closing.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(b)\tab Each Party shall take all necessary precautions to exclude unauthorized personnel and visitors from areas where Confidential Information is or may be available or observable.
+\par (c)\tab Upon request by a Party, the other Party shall promptly (i) return to the requestin
+g Party the originals and any copies of Confidential Information that was provided to such Party by the requesting Party, and (ii) certify in writing to the requesting Party that such Party has complied fully with the provisions of this Section 11.
+\par (d)\tab Not
+hing contained in this Agreement shall be construed as a grant of any right or license or an offer to grant any right or license by either Party to the other Party with respect to any Confidential Information provided by such Party to such other Party her
+eunder.
+\par (e)\tab The provisions of this Section 11 shall survive until two (2) years from the earlier of (i) the date of the exercise of the Call Right }{\strike [^]}{ or the Put Right}{\strike [^]}{
+, or (ii) the date of termination of this Agreement pursuant to Section 10 hereof.
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {12.\tab }{\b Representations and Warranties}{.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab ENA represents and warrants as follows:
+\par }\pard\plain \s42\qj\fi1440\li720\sa240\widctlpar\tx2160\tx2736\adjustright {(i)\tab 
+ENA is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware.  This Agreement (A) has been validly executed and delivered 
+by ENA, (B) has been duly authorized by all action on the part of ENA necessary for the authorization hereof, and (C) is the legal, valid and binding obligation of ENA, enforceable against ENA in accordance with its terms, except that (1) such enforceabil
+ity may be subject to bankruptcy, insolvency, reorganization, moratorium or other similar laws now or hereafter in effect relating to creditors\rquote 
+ rights, and (2) the remedy of specific performance and injunctive and other forms of equitable relief may be subject to equitable defenses and to the discretion of the court before which any proceeding therefor may be brought.
+\par (ii)\tab Neither the execution, delivery nor performance of this Agreement or the Transaction by ENA will violate any provision of the Certificat
+e of Incorporation or Bylaws of ENA, or violate, or be in conflict with, or constitute a default (or an event that, with the giving of notice or the lapse of time or both, would constitute a default) under, or result in the termination of, or accelerate t
+h
+e performance required by, or cause the acceleration of the maturity of any debt or obligation pursuant to, or result in the creation or imposition of any security interest, lien or other encumbrance upon any property or assets of ENA under, any agreement
+ or commitment to which ENA is a Party or by which ENA is bound, or violate any statute or law or any judgment, decree, order, regulation or rule of any court or governmental authority by which ENA is bound.
+\par (iii)\tab No consent, approval or authorization of, o
+r declaration, filing or registration with, any Person or any governmental or regulatory authority is required in connection with the execution, delivery and performance of this Agreement or the consummation of the transactions contemplated hereby by ENA,
+ including, without limitation, consents from parties to loans, contracts, leases or other agreements, except such as have been obtained.
+\par (iv)\tab There is no Action pending, or to the knowledge of ENA threatened, against ENA or the LLC relating to the Original Turbine Contract, the Turbine Contract, the GE Equipment, the LLC or the LLC\rquote s business or assets.
+\par (v)\tab Neither NorSub nor the LLC shall directly or indirectly have any responsibility, liability or expense, as a result of undertakings or agreements of ENA or any Affiliate of ENA, for brokerage fees, finder\rquote s fees, agent\rquote 
+s commissions, or other similar forms of compensation in connection with this Agreement or the Transaction.
+\par (vi)\tab The LLC is a limited liability company duly organized, validly existing and in good standing under the laws of the State of Delaware.
+\par (vii)\tab ENA has delivered to NorSub true and complete copies (and at Closing will deliver originals) of (A) the limited liability company agreement and other governing instruments of the LLC, each as amended, and (B) all other records of the LLC.
+\par (viii)\tab Except for the Membership Interests to be issued to NorSub pursuant to this Agreement, ENA owns and holds of record and beneficially all Membership Interests, free and clear of any security interests, li
+ens, options, warrants, purchase rights or other encumbrances, except (A) as contemplated by the Transaction and (B) any restrictions on sales of the Membership Interests under applicable securities laws.  Upon the purchase of the NorSub Membership Intere
+s
+ts by NorSub as contemplated by this Agreement and payment therefor as contemplated by this Agreement, the NorSub Membership Interests will be fully paid and not subject to any capital call, and NorSub will obtain good and valid title to the NorSub Member
+s
+hip Interests free and clear of all security interests, liens, options, warrants, purchase rights or other encumbrances, except (A) the LLC Agreement and (B) any restrictions on sales of the Membership Interests under applicable securities laws.  Upon iss
+u
+ance of the NorSub Membership Interests against payment therefor as contemplated by this Agreement, the NorSub Membership Interests will have been validly issued, without violation of the preemptive rights of any Person.  Following the issuance of the Nor
+S
+ub Membership Interests, the Membership Interests in the LLC will consist solely of (A) the NorSub Membership Interests, which shall constitute 80% of the limited liability company membership interests in, and the equity of, the LLC and (B) the issued and
+ outstanding Membership Interests which are owned and held solely by ENA, which shall constitute 20% of the limited liability company membership interests in, and the equity of, the LLC.  Neither ENA nor the LLC is a }{\strike [^]}{ }{\b party}{
+ to any option, warrant, purchase right or other contract or commitment that would require the LLC to issue or ENA to sell, transfer or otherwise dispose of any Membership Interests in the LLC, except this Agreement and the LLC Agreement.
+\par (ix)\tab The LLC does not directly or indirectly own any capital stock or other equity interest in any corporation, partnership or other entity and has never owned any such equity interest.
+\par (x)\tab The LLC has no employees and has never had any employees.
+\par (xi)\tab Since its formation, the LLC has not made any tax elections.
+\par (xii)\tab Since its formation, the LLC has engaged in no business other than the Transaction (including execution of the Turbine Contract Assignment and Assumption Agreement) and has complied with al
+l laws, rules, regulations and orders of governmental authority applicable to the LLC or its assets and business.  Since its formation, the LLC has not entered into any contracts or agreements or incurred any liabilities, other than the obligations of the
+ LLC under (A) the Turbine Contract and the Turbine Contract Assignment and Assumption Agreement, (B) the promissory notes contemplated by Sections 2(a) and 2(d) hereof and (C) the LLC Agreement.
+\par (xiii)\tab The Turbine Contract Assignment and Assumption Agreeme
+nt, when delivered by the parties thereto and at the Closing of the Transaction, will constitute the legal, valid and binding obligation of the Original Purchaser, the Agent and the LLC, except that (A) such enforceability may be subject to bankruptcy, in
+solvency, reorganization, moratorium or other similar laws now or hereafter in effect relating to creditors\rquote 
+ rights generally, and (B) the remedy of specific performance and injunctive and other forms of equitable relief may be subject to equitable defenses and to the discretion of the court before which any proceeding therefor may be brought.
+\par (xiv)\tab }{\b The Original Purchaser holds good and valid title to all rights, title and interests of the \ldblquote }{\b\ul Purchaser}{\b \rdblquote  in, to and under the Original Turbine Contract (as in eff
+ect prior to the Original Purchaser becoming a party thereto) and the Original Purchaser (and each of its predecessors) acquired such title pursuant assignment or other transfer in compliance with the terms of the Original Turbine Contract (as then in eff
+ect and with the acknowledgment and agreement of GE.}{  At the Closing of the Transaction, the LLC will own and hold good and valid title to all rights, title and interests of the \ldblquote }{\ul Purchaser}{\rdblquote  and the \ldblquote }{\ul Agent}{
+\rdblquote  in, to and under the Original Turbine Contract and 
+in and to the First Turbine, free and clear of any security interests, liens, options, purchase rights or other encumbrances, and will not have transferred, or entered any agreement to transfer, any of its rights, title and interests in and to the Turbine
+s or in, to or under the Turbine Contract to any Person.
+\par (xv)\tab No act or omission on the part of ENA, the Original Purchaser }{\b (or any of its predecessors as \ldblquote }{\b\ul Purchaser}{\b \rdblquote  under the Original Turbine Contract as in effect prior to the Original Purchaser becoming 
+a party thereto)}{ or the Agent has impaired or adversely affected, or will impair or adversely affect, in any manner or to any extent, the entitlement of the \ldblquote }{\ul Purchaser}{\rdblquote 
+ under the Original Turbine Contract to the benefit of any of the material warranties or performance guarantees of GE provided for in the Original Turbine Contract or available under applicable law to such \ldblquote }{\ul Purchaser}{\rdblquote .
+\par (xvi)\tab No Event of Purchaser Default (and no event or circumstance which, with the giving of notice or the lapse of time or bo
+th, would constitute an Event of Purchaser Default) has occurred and is continuing; and to the best knowledge of ENA, no Event of Seller Default (and no event or circumstance which, with the giving of notice or the lapse of time or both, would constitute 
+an Event of Seller Default) has occurred and is continuing.
+\par (xvii)\tab ENA has furnished to NorSub a true, correct and complete (}{\ul e.g.}{, not redacted) copy of the Original Turbine Contract and all Change Orders thereunder.
+\par (xviii)\tab The Original Turbine Contract is in full force and effect without any termination thereof by any party thereto; and as of the Closing, the Turbine Contract will be in full force and effect without any termination thereof.
+\par (xix)\tab The LLC is, and on the Closing Date (and without giving effect to the Transaction) will be, an Affiliate (as defined in the Original Turbine Contract) of the Agent.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(b)\tab NorSub represents and warrants as follows:
+\par }\pard\plain \s42\qj\fi1440\li720\sa240\widctlpar\tx2160\tx2736\adjustright {(i)\tab NorSub is a limited liability company duly organized, validly existing and in good standing under th
+e laws of the State of Delaware.  This Agreement (A) has been validly executed and delivered by NorSub, (B) has been duly authorized by all action on the part of NorSub necessary for the authorization hereof, and (C) is the legal, valid and binding obliga
+tion of NorSub, enforceable against NorSub in accordance with its terms, except that (1) such enforceability may be subject to bankruptcy, insolvency, reorganization, moratorium or other similar laws now or hereafter in effect relating to creditors
+\rquote  rights, and (2) the remedy of specific performance and injunctive and other forms of equitable relief may be subject to equitable defenses and to the discretion of the court before which any proceeding therefor may be brought.
+\par (ii)\tab Neither the execution, delivery
+ nor performance of this Agreement or the Transaction by NorSub will violate any provision of the certificate of formation or the limited liability company agreement of NorSub, or violate, or be in conflict with, or constitute a default (or an event that,
+ 
+with the giving of notice or the lapse of time or both, would constitute a default) under, or result in the termination of, or accelerate the performance required by, or cause the acceleration of the maturity of any debt or obligation pursuant to, or resu
+l
+t in the creation or imposition of any security interest, lien or other encumbrance upon any property or assets of NorSub under, any agreement or commitment to which NorSub is a party or by which NorSub is bound, or violate any statute or law or any judgm
+ent, decree, order, regulation or rule of any court or governmental authority by which NorSub is bound.
+\par (iii)\tab No consent, approval or authorization of, or declaration, filing or registration with, any Person or any governmental or regulatory authority is re
+quired in connection with the execution, delivery and performance of this Agreement or the consummation of the transactions contemplated hereby by NorSub, including, without limitation, consents from parties to loans, contracts, leases or other agreements
+, except such as have been obtained.
+\par (iv)\tab There is no Action pending, or to the knowledge of NorSub threatened, against NorSub relating to the Turbine Contract, the GE Equipment, the LLC or the LLC\rquote s business or assets.
+\par (v)\tab ENA shall not directly or indirectly have any responsibility, liability or expense, as a result of undertakings or agreements of NorSub or any Affiliate of NorSub, for brokerage fees, finder\rquote s fees, agent\rquote 
+s commissions, or other similar forms of compensation in connection with this Agreement or the Transaction.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(c)\tab NorSub specifically represents and warrants that NorSub is acquiring its Membership Interest in the LLC solely for investment and for NorSub\rquote 
+s own account, with the intention of holding such interest for investment, without any 
+intention of participating directly or indirectly in any distribution of any portion of such interest, and without the financial participation of any other Person.  Furthermore, NorSub specifically acknowledges that (i) NorSub is aware that its Membership
+ 
+Interest in the LLC is subject to restrictions on transfer and other terms and conditions set forth in the LLC Agreement and may not be offered for sale, pledged, hypothecated, sold, assigned or transferred at any time except in compliance with the terms 
+and conditions of the LLC Agreement, (ii) NorSub may be required to bear the risk of its investment for an indefinite period of time; (iii) the issuance of NorSub\rquote 
+s Membership Interest in the LLC has not been registered under (A) the Securities Act of 1933, as amended (the \ldblquote }{\ul Securities Act}{\rdblquote ), (B) any state securities laws (the \ldblquote }{\ul State Acts}{\rdblquote 
+), or (C) the securities laws of any foreign jurisdiction (the \ldblquote }{\ul Foreign Acts}{\rdblquote ), and neither such interest nor any part thereof may be offered for sale, pledged, hypothecated
+, sold, assigned, or transferred at any time except in compliance with the terms and conditions of the LLC Agreement and (1) pursuant to an effective registration statement under any applicable State Acts or in a transaction that is exempt from registrati
+o
+n under such State Acts or for which such registration otherwise is not required, (2) pursuant to an effective registration statement under the Securities Act or in a transaction that is exempt from registration under the Securities Act or for which such 
+r
+egistration otherwise is not required, and (3) pursuant to an effective registration statement under any applicable Foreign Acts or in a transaction that is exempt from registration under any applicable Foreign Acts or for which such registration is not o
+t
+herwise required.  NorSub further understands and acknowledges that its representations and warranties contained in this Section 12(c) are being relied upon by the LLC as the basis for the exemption of the purchase by NorSub of its interest in the LLC fro
+m the registration requirements of the Securities Act the applicable State Acts and the applicable Foreign Acts.
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {13.\tab }{\b Expenses}{.  Except as specifically stated otherwise herein or in the LLC Agreement, each Party shall bear its own costs associated with negot
+iating, executing, delivering and performing this Agreement.
+\par 14.\tab }{\b Entire Agreement}{.  This Agreement and the documents delivered hereunder to which }{\strike [^]}{ }{\b either}{ Party or NorthWestern is a party constitute the entire agreement of the Parties and NorthWestern re
+lating to the subject matter hereof and supersede all prior discussions, agreements or understandings, whether oral or written, relating to such subject matter, including that certain letter of intent}{\b ,}{
+ dated March 26, 2001, between ENA and NorthWestern and
+ that certain confidentiality agreement, dated February 23, 2001, between ENA and NorthWestern, both of which are hereby terminated (and all of the provisions of both of which shall be of no further force or effect).  There are no other written or oral ag
+reements or understandings between or among the Parties and NorthWestern.
+\par 15.\tab }{\b Amendments, etc}{.  Neither this Agreement nor any term or provision  hereof may be waived, altered, modified, amended, supplemented or terminated in any manner whatsoever except by
+ written instrument signed by both Parties.  No waiver that may be given shall be applicable in any circumstance other than the specific circumstance for which it is given.
+\par 16.\tab }{\b Governing Law}{.  THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK, WITHOUT GIVING EFFECT TO CONFLICTS OF LAWS PRINCIPLES.
+\par 17.\tab }{\b Relationship of the Parties; No Third Party Beneficiaries}{.  The Parties shall not be deemed in a relationship of partners or joint venturers by virtue of th
+is Agreement, nor shall either Party be an agent, representative, trustee or fiduciary of the other Party.  Neither Party shall have any authority to bind the other Party to any agreement.  Nothing in this Agreement shall be deemed to stipulate any benefi
+t for third parties not signatories hereto or a permitted assign of a signatory hereto }{\strike [^]}{ except that the LLC shall be a third party beneficiary of this Agreement}{\strike [^]}{.
+\par 18.\tab }{\b Limitation of Liability}{.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab }{\b Notwithstanding anything herein to the contrary, it is t
+he explicit intent of each Party that neither Party is making any representations or warranties whatsoever, express or implied, beyond those expressly set forth in this Agreement, and it is understood that, except for the representations and warranties co
+ntained herein or in the LLC Agreement and without limiting any rights, claims and remedies against GE, the LLC is acquiring the GE Equipment \ldblquote AS IS, WHERE IS.\rdblquote 
+  Without limiting the generality of the foregoing, except for the representations and warranties
+ contained in this Agreement and in the LLC Agreement, ENA hereby disclaims and negates any representation or warranty, expressed or implied, at common law, by statute, or otherwise, relating to the condition of the GE Equipment (including any implied or 
+expressed warranty of merchantability or fitness for a particular purpose, or of conformity to models or samples of materials).
+\par }{(b)\tab }{\b Notwithstanding anything herein to the contrary, neither Party nor any of its directors, officers, shareholders, managers, em
+ployees, agents or representatives will be liable to the other Party or any of its directors, officers, shareholders, managers, employees, agents or representatives whether under breach of contract, breach of warranty, tort liability (including without li
+m
+itation both negligence and strict liability), strict liability or otherwise, for any incidental, special, indirect or consequential damages whatsoever (including without limitation lost profits or revenue) of any nature connected with or resulting from p
+erformance of this Agreement, but rather shall be liable only for direct actual damages arising from the breaching Party\rquote s breach or sole, joint or concurrent negligence.
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {19.\tab }{\b Assignment}{.  This Agreement shall be binding upon and inure to the benefit of the 
+Parties and their respective successors and assigns, except that neither Party may assign this Agreement or any of its rights or obligations hereunder or any interest herein without the prior written consent of the other Party.  Notwithstanding the forego
+i
+ng, however, either Party may assign its rights and obligations hereunder without the approval of the other Party to any Affiliate of such Party.  No assignment by either Party of this Agreement or any of its rights or obligations hereunder or any interes
+t herein shall operate to release such assigning Party from its obligations under this Agreement, unless an express written release is obtained from the  other Party.
+\par 20.\tab }{\b Indemnity}{.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab }{\ul Indemnification by NorSub}{.  FROM AND AFTER THE CLOSING DATE NORSUB SHAL
+L INDEMNIFY AND HOLD HARMLESS ENA, ITS DIRECTORS, OFFICERS, EMPLOYEES AND AGENTS, AND THE HEIRS, EXECUTORS, SUCCESSORS AND ASSIGNS OF ANY OF THE FOREGOING (COLLECTIVELY HEREIN REFERRED TO AS THE \ldblquote }{\ul ENA INDEMNIFIED PARTIES}{\rdblquote 
+) FROM AND AGAINST ANY AND ALL COVERED LIABILITIES RESULTING FROM ANY MISREPRESENTATION, BREACH OF WARRANTY OR NONFULFILLMENT OF ANY COVENANT OR AGREEMENT ON THE PART OF NORSUB HEREUNDER, }{\b 
+INCLUDING, WITHOUT LIMITATION, ANY COVERED LIABILITY BASED ON NEGLIGENCE, GROSS NEGLIGENCE, OR STRICT LIABILITY OF THE ENA INDEMNIFIED PARTY OR ANY OTHER THEORY OF LIABILITY, WHETHER IN LAW (WHETHER COMMON OR STATUTORY) OR EQUITY}{.
+\par (b)\tab }{\ul Indemnification by ENA}{.  FROM AND AFTER THE CLOSING DATE, ENA SHALL INDEMNIFY AND HOLD HARML
+ESS NORSUB, ITS DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS, AND THE HEIRS, EXECUTORS, SUCCESSORS, AND ASSIGNS OF ANY OF THE FOREGOING (COLLECTIVELY HEREIN REFERRED TO AS THE \ldblquote }{\ul NORSUB INDEMNIFIED PARTIES}{\rdblquote 
+) FROM AND AGAINST ANY AND ALL COVERED LIABILITIES RESULTING FROM ANY MISREPRESENTATION, BREACH OF WARRANTY, OR NONFULFILLMENT OF ANY COVENANT OR AGREEMENT ON THE PART OF ENA HEREUNDER, }{\b 
+INCLUDING, WITHOUT LIMITATION, ANY COVERED LIABILITY BASED ON NEGLIGENCE, GROSS NEGLIGENCE, OR STRICT LIABILITY OF THE NORSUB INDEMNIFIED PARTY OR ANY OTHER THEORY OF LIABILITY, WHETHER IN LAW (WHETHER COMMON OR STATUTORY) OR EQUITY}{.
+\par (c)\tab }{\ul Third Party Claims}{.  If a claim by a third party is made against an ENA Indemnified Party or a NorSub Indemnified Party (herein referred to as an \ldblquote }{\ul Indemnified Party}{\rdblquote 
+) with respect to a matter for which indemnification by NorSub or ENA, as applicable (referred to herein as the \ldblquote }{\ul Indemnitor}{\rdblquote 
+), may be sought pursuant to and in accordance with Section 20(a) or Section 20(b), as applicable (such claim being referred to in this Section 20(c) as a \ldblquote }{\ul Claim}{\rdblquote 
+), and if the Indemnified Party intends to seek indemnification from the Indemnitor in respect of such Claim pursuant to such Section, such Indemnified Party shall promptly notify the Indemnitor of such 
+Claim.  The Indemnitor shall have thirty (30) days after receipt of notice of a Claim to undertake, conduct, and control, through counsel of its own choosing and at its own expense, the settlement or defense thereof, and the Indemnified Party shall cooper
+ate with the Indemnitor in connection therewith; }{\ul provided}{
+ that the Indemnitor shall permit the Indemnified Party to participate in such settlement or defense through counsel chosen by such Indemnified Party at the expense of such Indemnified Party.  The Ind
+emnified Party shall not pay or settle a Claim if (and for so long as) the Indemnitor, at the  Indemnitor\rquote 
+s cost and expense, (i) has undertaken the defense of, and assumed full responsibility for all Covered Liabilities with respect to, such Claim, (ii) i
+s reasonably contesting such Claim in good faith by appropriate proceedings, and (iii) has taken such action (including the posting of a bond, deposit, or other security) as may be necessary to prevent any action to foreclose a lien against or attachment 
+of the property of the Indemnified Party for payment of such Claim; }{\ul provided}{, }{\ul however}{
+, that the Indemnified Party may pay or settle such Claim, if the Indemnified Party waives any and all rights to indemnification by the Indemnitor for such Claim.  If, with
+in thirty (30) days after receipt of the notice from an Indemnified Party of a Claim, the Indemnitor does not notify the Indemnified Party that it elects, at the Indemnitor\rquote 
+s cost and expense, to undertake the defense of such Claim and assume full responsi
+bility for all Covered Liabilities with respect to such Claim, or if the Indemnitor gives such notice and thereafter fails to contest such Claim in good faith or to prevent action to foreclose a lien against or attachment of the Indemnified Party\rquote 
+s property for payment of such Claim, the Indemnified Party shall have the right to contest, settle, or compromise such Claim but shall not thereby waive any right to indemnification therefor pursuant to this Agreement.
+\par (d)\tab }{\ul Other Claims}{.  A claim by an Indemnified Party for indemnification for, or in respect of, any matter not involving a third-party claim may be asserted by notice to the Party from which indemnification is sought.
+\par (e)\tab }{\ul Survival}{.  The obligations of the Parties under this Section 20 shall survive the Closing until expiration of such obligations as set forth in accordance with Section 9 hereof.
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {21.\tab }{\b Notices}{.  All notices and other communications hereunder shall be in writing and shall be deemed sufficiently given for all purposes hereof if (i) delivered
+ in person, by courier or by registered or certified United States Mail to the Person to be notified, with receipt obtained, or (ii) sent by telecopy, telefax or other facsimile or electronic transmission, with \ldblquote answer back\rdblquote  or other 
+\ldblquote evidence of receipt\rdblquote  
+obtained, in each case to the appropriate address or number as set forth below (or at such other address or number for a Party as shall be specified by like notice).  Each notice shall be deemed effective on receipt by the addressee as aforesaid; provided
+ 
+that, notice received by telex, telecopy, telefax or other facsimile or electronic transmission after 5:00 p.m. at the location of the addressee of such notice shall be deemed received on the first business day following the date of such electronic receip
+t.  Until changed pursuant to the foregoing, notices to the Parties shall be addressed as follows:
+\par }\pard\plain \s26\qj\fi1440\sa240\nowidctlpar\adjustright {\page 
+\par }\pard\plain \s49\qj\li1440\nowidctlpar\adjustright {NorthWestern Generation I, LLC
+\par c/o NorthWestern }{\strike [^]}{ }{\b Corporation}{
+\par 125 S. Dakota Avenue
+\par Sioux Falls, South Dakota 57104
+\par Attention: }{\strike [^]}{ }{\b Vice President and General}{ Counsel
+\par }\pard \s49\qj\li1440\sa240\nowidctlpar\adjustright {Facsimile: (605) 978-2840
+\par }\pard \s49\qj\li1440\nowidctlpar\adjustright {Enron North America Corp.
+\par 1400 Smith Street
+\par Houston, Texas 77002
+\par Attention:\tab Mr. Ben F. Jacoby
+\par }\pard \s49\qj\li1440\sa240\nowidctlpar\adjustright {Facsimile:\tab (713) 646-3037
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {22.\tab }{\b Dispute Resolution}{.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab }{\ul Binding Arbitration}{.  Any dispute, controversy or claim arising under or relating to this Agreement (referred to in this Section 22 as a \ldblquote }{\ul Dispute}{\rdblquote )
+}{\b ,}{ that is not resolved by mutual agreement within 30 days after the date that one Party notifies the other of such }{\strike [^]}{ Dispute}{\b ,}{ shall be resolved by binding arbitration as provided
+ herein, and judgment on an award rendered therein may be entered in any court of competent jurisdiction.
+\par }\pard\plain \s42\qj\fi1440\li720\sa240\widctlpar\tx2160\tx2736\adjustright {(i)\tab Arbitration shall be initiated by the delivery of a written demand for arbitration by the demanding Party to the other Party.  The demand shall se
+t out the nature of the dispute and the resolution sought by the demanding Party.
+\par (ii)\tab The respondent Party shall have twenty (20) calendar days (the \ldblquote }{\ul Response Period}{\rdblquote ) to respond to the demand, in writing, setting out its answer and/or counterclaims.
+\par (iii)\tab After the arbitration demand and response have been exchanged, a three-member arbitration panel shall be selected as follows:
+\par }\pard\plain \s43\qj\fi1440\li1440\sa240\widctlpar\tx2160\tx2736\tx3600\adjustright {(1)\tab No person may be selected or serve as an arbitrator who is employed by, or under the control or management of, either Party;
+\par (2)\tab Each Party shall, within fifteen (15) calendar days after expiration of the Response Period, appoint one arbitrator from a list of at least 20 names of arbitrators located in the State of New York as such list is maintained by the AAA (the 
+\ldblquote }{\ul Arbitrator List}{\rdblquote 
+) and provide written notice of the appointment to the other Party.  If either Party fails or refuses to appoint an arbitrator during the period for doing so, the other Party may appoint the second arbitrator; and 
+\par (3)\tab The two arbitrators so chosen s
+hall confer and, within thirty (30) calendar days after their appointment, mutually select a third arbitrator from the Arbitrator List.  If the Party-chosen arbitrators cannot agree on a third arbitrator, each of them shall, within the fifteen (15) calend
+a
+r day period stated above, name three (3) choices from the Arbitrator List.  Of the three choices named by each arbitrator, the other arbitrator shall then reject two (2).  Lots shall be drawn to appoint the third arbitrator from the two remaining candida
+tes.
+\par }\pard\plain \s42\qj\fi1440\li720\sa240\widctlpar\tx2160\tx2736\adjustright {(iv)\tab 
+In addition to its authority to hear the dispute presented by the Parties, the arbitration panel may, subject to the terms of this Section 22, make rulings in connection with the procedures and timetable to be followed by the Parties hereunder.
+\par (v)\tab Within fifteen (15) calendar days after the final appointment to the arbitration panel, the arbitration hearing shall proceed, subject to the following requirements and procedures:
+\par }\pard\plain \s43\qj\fi1440\li1440\sa240\widctlpar\tx2160\tx2736\tx3600\adjustright {(1)\tab The arbitration hearing shall be held in New York, New York, at a l
+ocation mutually agreed by the Parties, or failing such agreement, at a location determined by the arbitration panel;
+\par (2)\tab Strict rules of evidence shall not be applied in the arbitration hearing.  The Parties may offer such evidence as they desire and the 
+arbitrators shall accept such evidence and accord it such weight as the arbitrators deem appropriate.  Cross-examination of witnesses and rebuttal testimony shall be permitted; and
+\par (3)\tab Each Party may, but is not required to, submit one (1) pre-arbitration 
+hearing brief (of not more than ten (10) pages (excluding exhibits)) no later than five (5) business days prior to commencement of the arbitration hearing, and may also submit one (1) post-arbitration hearing brief (of not more than ten (10) pages (exclud
+ing exhibits)) no later than ten (10) business days after the close of the arbitration hearing.  A copy of any brief submitted to the arbitration panel shall also be served on the other Party.
+\par }\pard\plain \s42\qj\fi1440\li720\sa240\widctlpar\tx2160\tx2736\adjustright {(vi)\tab After submission of any post-arbitration hearing briefs and
+ within thirty (30) calendar days after the close of the arbitration hearing, the arbitrators shall render an award upon a majority vote, subject to the following requirements and procedures:
+\par }\pard\plain \s43\qj\fi1440\li1440\sa240\widctlpar\tx2160\tx2736\tx3600\adjustright {(1)\tab The arbitration panel shall weigh evidence and make its award, taking into account, to the extent it deems applicable, custom and usage of the industry;
+\par (2)\tab The arbitration panel\rquote s award shall be issued in writing and shall state the factual bases and reasoning of the award; and
+\par (3)\tab The arbitrators may award costs of the arbitration proceeding, excluding attorneys\rquote 
+ fees and also excluding the costs apportioned pursuant to clause (vii) below; provided, however, that the arbitrators shall have no authority to award punitive damages or any other relief expressly disclaimed by the parties herein.
+\par }\pard\plain \s42\qj\fi1440\li720\sa240\widctlpar\tx2160\tx2736\adjustright {(vii)\tab 
+Each Party shall pay the expenses of the arbitrator of its selection.  The amount or rate to be paid by the selecting Party shall be disclosed to the other Party upon engagement of the arbitrator. The Parties shall jointly
+ and equally pay the reasonable expenses of the arbitrators-selected arbitrator.
+\par (viii)\tab Except as may be required by applicable law, including, without limitation, federal or state securities laws, neither Party may disclose the progress, content, findings
+ or award of any arbitration commenced or completed hereunder without the prior written consent of the other Party nor may the arbitrators disclose such information without the written consent of both Parties.
+\par (ix)\tab All time limits stated in this Section 22 are for the convenience of the Parties and may be altered upon mutual agreement of the Parties.
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(b)\tab }{\ul Sole and Exclusive Remedy}{.  The procedures specified in this Section 22, shall be the sole and exclusive procedures for the resolution of any Dispute betwe
+en the Parties arising out of or relating to this Agreement; }{\ul provided}{, }{\ul however}{
+, that a Party may seek a preliminary injunction or other preliminary judicial relief if in its judgment such action is necessary to avoid irreparable harm.  Despite such action,
+ the Parties will continue to follow, in good faith, the procedures specified in this Section 22.  All applicable statutes of limitation shall be tolled while the procedures specified in this Section are pending.  The Parties will take such action, if any
+,
+ required to effectuate such tolling.  Notwithstanding anything set forth in this Section 22, any Party hereto may bring an action in any court of competent jurisdiction to compel arbitration under this Agreement or to confirm or enforce (i) an arbitratio
+n award which resolves a Dispute or (ii) any judgment entered on such award.
+\par }\pard\plain \s40\qj\fi1440\sa240\widctlpar\tx2160\adjustright {23.\tab }{\b Further Assurances}{.  The Parties agree (i) to furnish upon request to each other such further information, (ii) to execute and deliver to each other such other documents, and (
+iii) to do such other acts and things, all as the other Party may reasonably request, for the purpose of carrying out the intent of this Agreement and the documents referred to in this Agreement.
+\par 24.\tab }{\b Interpretation}{.  In construing this Agreement:
+\par }\pard\plain \s41\qj\fi1440\sa240\widctlpar\tx2160\adjustright {(a)\tab }{\ul Examples}{.  Examples shall not be construed to limit, expressly or by implication, the matter they illustrate;
+\par (b)\tab }{\ul Including}{.  The word \ldblquote includes\rdblquote  and its derivatives means \ldblquote includes, but is not limited to\rdblquote  and corresponding derivative expressions;
+\par (c)\tab }{\ul Controlling Provisions}{
+.  Each Exhibit and Schedule to this Agreement is a part of this Agreement, but if there is any conflict or inconsistency between the main body of this Agreement and any Exhibit or Schedule, the provisions of the main body of this Agreement shall prevail;
+
+\par (d)\tab }{\ul Neutral Interpretation}{.  This Agreement is the result of arm\rquote 
+s-length negotiations from equal bargaining positions by both Parties.  It is expressly agreed that this Agreement shall not be construed against any Party, and no consideration 
+shall be given or presumption made on the basis of who drafted this Agreement or any particular provision hereof or who supplied the initial form of this Agreement;
+\par (e)\tab }{\ul Severability}{.  If any provision of this Agreement is held invalid or unenforceable, the
+ other provisions of this Agreement will remain in full force and effect.  Any provision of this Agreement held invalid or unenforceable only in part or degree will remain in full force and effect to the extent not held invalid or unenforceable;
+\par (f)\tab }{\ul Headings}{.  The headings and numbers of Sections of this Agreement are provided for convenience of reference only and will not affect its construction, interpretation or meaning; and
+\par (g)\tab }{\ul Time of Essence}{.  With regard to dates and time periods set forth or referred to in this Agreement, time is of the essence.
+\par }\pard\plain \s26\qj\fi1440\sa240\nowidctlpar\adjustright {
+\par }\pard\plain \s50\qc\nowidctlpar\adjustright \fs20 {[THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK}{\strike [^]}{]
+\par }\pard\plain \s26\qj\fi1440\sa240\nowidctlpar\adjustright {\page If the foregoing provisions correctly set forth our binding agreement, please execute both originals of this Agreement in the space provided below
+.  This Agreement may be executed in counterparts, and all such counterparts together shall constitute but one agreement.
+\par }\pard\plain \s51\qj\li4234\sb240\nowidctlpar\adjustright {ENRON NORTH AMERICA CORP.
+\par }\pard \s51\qj\li4230\nowidctlpar\adjustright {
+\par 
+\par By:}{\ul \tab \tab \tab \tab \tab \tab }{\b 
+\par }{Printed Name:}{\ul \tab \tab \tab \tab \tab }{
+\par Title:}{\ul \tab \tab \tab \tab \tab \tab }{
+\par }\pard\plain \qj\nowidctlpar\adjustright \fs20 {
+\par 
+\par }\pard\plain \s52\qj\sa120\nowidctlpar\adjustright {Agreed and accepted }{\strike [^]}{ }{\b this
+\par }\pard \s52\qj\nowidctlpar\adjustright {\b ___}{ day of April, 2001
+\par 
+\par 
+\par NORTHWESTERN GENERATION I, LLC
+\par 
+\par }{\b By: NorthWestern Growth Corporation, its member}{
+\par 
+\par By: }{\ul \tab \tab \tab \tab \tab \tab }{\b 
+\par }{Printed Name:\tab }{\ul \tab \tab \tab \tab }{\b 
+\par }{Title:}{\ul \tab \tab \tab \tab \tab \tab }{
+\par }\pard\plain \qj\nowidctlpar\adjustright \fs20 {
+\par }\pard\plain \s50\qc\nowidctlpar\adjustright \fs20 {\page }{\b\fs24 Schedule I
+\par Remaining Purchase Amount Installments
+\par }\pard \s50\qj\nowidctlpar\adjustright {\b 
+\par }\pard\plain \s26\qj\fi1440\sa240\nowidctlpar\adjustright {\b If the Closing occurs prior to any of the dates set forth below under the caption \ldblquote Payment Date\rdblquote 
+, the Remaining Purchase Amount Installments will be the amount or amounts set forth opposite the earliest such date and all subsequent dates in the following table:
+\par }\pard\plain \qj\nowidctlpar\adjustright \fs20 {\b 
+\par }\trowd \trqc\trgaph108\trleft-108\trkeep \clvertalt\cltxlrtb \cellx4824\clvertalt\cltxlrtb \cellx9756\pard \qj\nowidctlpar\intbl\adjustright {\b\ul Payment Date\cell Payment Amount\cell }\pard \widctlpar\intbl\adjustright {\b\ul \row }\pard 
+\qj\nowidctlpar\adjustright {
+\par 
+\par 
+\par 
+\par ------------------ COMPARISON OF HEADERS ------------------
+\par 
+\par -HEADER 1-
+\par }{\strike [^]}{ }{\b 29}{
+\par 
+\par 
+\par -HEADER 2-
+\par Header Discontinued
+\par 
+\par -HEADER 3-
+\par DRAFT
+\par FOR DISCUSSION PURPOSES ONLY
+\par APRIL }{\strike [^]}{ }{\b 13}{, 2001
+\par 
+\par 
+\par ------------------ COMPARISON OF FOOTERS ------------------
+\par 
+\par -FOOTER 1-
+\par }{\strike [^]}{ }{\b 29}{
+\par 
+\par 
+\par -FOOTER 2-
+\par }{\strike [^]}{ }{\b 29}{
+\par }{\strike [^]}{ }{\b NY/333343.2 }{
+\par 
+\par -FOOTER 3-
+\par }{\strike [^]}{ }{\b NY/333343.2 
+\par A}{
+\par 
+\par \page This redlined draft, generated by CompareRite (TM) - The Instant Redliner, shows the differences between - 
+\par original document   : I:\\DOCS\\DOCSOPEN\\NY\\MRK\\AGR\\757P01!.DOC
+\par and revised document: I:\\DOCS\\DOCSOPEN\\NY\\MRK\\LTR\\757J02!.DOC
+\par 
+\par CompareRite found  107 change(s) in the text
+\par CompareRite found    6 change(s) in the notes
+\par 
+\par Deletions appear as a Overstrike ^ surrounded by []
+\par Additions appear as Bold text 
+\par }}

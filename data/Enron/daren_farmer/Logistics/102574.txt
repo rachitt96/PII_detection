@@ -1,0 +1,30 @@
+From : Wynne  Rita
+To : Daren J Farmer/HOU/ECT@ENRON
+CC : Bolanos  Milton
+BCC : 
+Subject : PLE00004 2000
+
+Message Body :Daren,
+
+When I look back in CPR for the delivery periods of 10/00 - 12/00 on CPR Pipeline Exchange, I do not see anything being flashed as an imbalance, i.e. the buys and sales always equal in CPR.  However, we are booking an imbalance every month on the parking and lending contract.  Should there be something in CPR for these volumes?  Let me know because it is causing an OA variance for us.  Thanks!
+---------------------- Forwarded by Rita Wynne/HOU/ECT on 04/24/2001 12:58 PM ---------------------------
+   
+	  From:  Thu T Nguyen                           04/24/2001 12:14 PM	
+		
+
+
+To:	Rita Wynne/HOU/ECT@ECT
+cc:	 
+Subject:	PLE00004 2000
+
+Imbalances :
+
+	Oct	26687
+	Nov	-44177
+	Dec	-9248
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

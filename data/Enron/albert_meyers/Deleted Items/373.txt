@@ -1,0 +1,20 @@
+From : Amador  Susan
+To : DL-Portland World Trade Center
+CC : 
+BCC : 
+Subject : EnPower outage
+
+Message Body :
+ 
+The EnPower database will be down from 4 PM Friday afternoon (6 PM Houston) to 4 PM Saturday afternoon (6PM Houston).  The reason for this is the NETCO/Estate database and hardware split that is occuring this weekend.  
+
+You must re-boot your machines following this shut down to access any EnPower applications.
+
+
+Susan Amador
+503.464.8681 office
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

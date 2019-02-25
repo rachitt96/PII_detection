@@ -1,0 +1,25 @@
+From : Robert Superty
+To : randall l gay; george smith; edward terry; katherine l kelly; daren j farmer
+CC : inja chun; dave nommensen; scotty gilbert
+BCC : 
+Subject : Monthly clean-up and bridge back for non-EDI pipes
+
+Message Body :To help avoid Unify problems during bid-week we must be keeping up with the 
+business on the non-EDI pipes throughout the month rather than wait until the 
+end of the month to clean-up and bridge back. The IT staff has identified 
+this as one of the things Logistics could do to help them maintain reasonable 
+performance. 
+
+Please make sure you know the status of each of your pipes and speak to the 
+schedulers if you see they aren't keeping their data clean and bridged. I 
+expect you to keep on top of this throughout each month.
+
+We are asking everyone else to work around our schedule so lets make sure we 
+do our part.
+
+Thanks - Bob
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,37 @@
+From : Stephen Plauche
+To : kay mann
+CC : 
+BCC : 
+Subject : Preliminary Spec with Spare Parts
+
+Message Body :FYI...
+
+SP
+---------------------- Forwarded by Stephen Plauche/Corp/Enron on 11/28/2000 
+12:21 PM ---------------------------
+
+
+"Leo, Tony" <tleo@fce.com> on 11/28/2000 08:36:25 AM
+To: "Leo, Tony" <tleo@fce.com>, "''Stephen.Plauche@enron.com' '" 
+<Stephen.Plauche@enron.com>, "''Scott.Healy@enron.com' '" 
+<Scott.Healy@enron.com>, "''Terri.Austin@enron.com' '" 
+<Terri.Austin@enron.com>
+cc: "Levine, Ross" <rlevine@fce.com>, "Skok, Andy" <askok@fce.com>, "Bentley, 
+Chris" <cbentley@fce.com>, "Nock, Herb" <HNock@FCE.com>, "''Jacqueline 
+Scheib' '" <jscheib@rc.com> 
+
+Subject: Preliminary Spec with Spare Parts
+
+
+
+Attached file is a new version of the preliminary spec, with added language
+on initial spare parts.
+
+
+ - Preliminary Specification with Spares.doc
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,26 @@
+From : Meyers
+To : williams iii; Bill
+CC : 
+BCC : 
+Subject : EPE Schedules for the past two days
+
+Message Body :Bill:
+
+Please note the following due to the past two days schedules have been wrong in the EPE Schedules in Excel:
+
+Tag number 6181 has been cancelled (50mw to the CISO).
+
+Lending is wrong in the EPE schedules (it is 75mw from PSCO instead of 50mw).
+
+SPS is wrong for HE 08 (it is 130mw instead of 100mw).
+
+I thought you might like to since this is the only income we have currently for real-time and a major screw-up could hurt our relationship.
+
+Regards,
+
+Bert Meyers
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

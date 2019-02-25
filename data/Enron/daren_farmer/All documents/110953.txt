@@ -1,0 +1,20 @@
+From : Robert Cotten
+To : daren j farmer; o'neal d winfree
+CC : 
+BCC : 
+Subject : Spot purchases - 04/01
+
+Message Body :The following deals have been entered today as wellhead purchases:
+
+Deal #  Meter # Counterparty Tr Zn Nom Price
+
+712357  2630  Swift Energy 18 21/d 100%           IFHSC less $1.38
+
+712358  9603  Vintage Gas 8 100/d 84% IFHSC
+
+Bob
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

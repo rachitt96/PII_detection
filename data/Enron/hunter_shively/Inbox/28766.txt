@@ -1,0 +1,41 @@
+From : Gaskill
+To : shively; Hunter S.
+CC : 
+BCC : 
+Subject : FW: Updated Netco-Fundies
+
+Message Body :Hunter,
+
+Attached is the latest budget with the revision to $10,000 for travel and entertainment.  Here is the breakdown of the $475,600 for outside services:
+
+$250,000 - PI/Dwights from IHS energy (needed for supply forecast, was paid by Enron Corp. and has never been in the budget before)
+$70,000 - MIPD(Major Industrial Plant Database), PI Grid, IHS DRN monthly updates (needed for database and web scraping)
+$40,000 - 1/3 of PIRA annual fee
+$15,000 - WEFA energy consulting monthly updates and AGA forecast
+$6,600 - Earthsat/PIRA weekly AGA forecast
+$20,000 - Dow Jones Interactive (14 users at $120/month)
+$24,000 - Bloomberg (1 terminal at $2000/Month)
+$30,000 - Reuters (4 users at $600/Month)
+$5,000 - SAS software
+$15,000 - Misc. data (state rig count data, Railcar loading data, etc.)
+
+Let me know if you have any questions.
+Chris
+ -----Original Message-----
+From: 	Hardy, Trey  
+Sent:	Thursday, January 03, 2002 1:59 PM
+To:	Gaskill, Chris
+Subject:	Updated Netco-Fundies
+
+ 
+This includes your T&E adjustment.
+
+
+Thanks
+
+Trey
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

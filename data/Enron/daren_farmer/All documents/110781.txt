@@ -1,0 +1,45 @@
+From : Melissa Jones
+To : Eileen Ponton; Charlie Stone; gary
+CC : 
+BCC : 
+Subject : Re: NOMS / ACTUAL FLOW FOR 03/14
+
+Message Body :We Agree
+
+
+
+
+
+"Eileen Ponton" <kponton@duke-energy.com> on 03/15/2001 09:47:26 AM
+
+To:   David Avila/LSP/ENSERCH/US@TU, Charlie Stone/Texas Utilities@TU, Melissa
+      Jones/Texas Utilities@TU, HPL.SCHEDULING@ENRON.COM, 
+LIZ.BELLAMY@ENRON.COM
+cc:
+Subject:  NOMS / ACTUAL FLOW FOR 03/14
+
+
+
+
+
+
+DATE      NOM       FLOW - MCF           FLOW - MMBTU
+
+3/14      23,750         23,112               23,736
+
+
+BTU = 1.027
+
+
+
+
+
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

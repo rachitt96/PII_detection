@@ -1,0 +1,46 @@
+From : Shively
+To : dronet; David
+CC : 
+BCC : 
+Subject : RE: Site metrics for Fundamentals groups
+
+Message Body :Thanks for the update
+
+ -----Original Message-----
+From: 	Dronet, David  
+Sent:	Friday, April 20, 2001 11:46 AM
+To:	Tonks, Colin; Shively, Hunter S.; Gaskill, Chris
+Subject:	RE: Site metrics for Fundamentals groups
+
+Colin asked me to cover our current development on security.
+
+I met with the Web Requests team yesterday and we found that our model was correct however there was an bug in the software.
+We have worked through that and will do some further testing today.  If all goes well I anticipate we can define the users in the group
+and implement secure links next week.
+
+David
+
+ -----Original Message-----
+From: 	Tonks, Colin  
+Sent:	Friday, April 20, 2001 11:38 AM
+To:	Shively, Hunter S.; Gaskill, Chris
+Cc:	Dronet, David
+Subject:	FW: Site metrics for Fundametals groups
+
+Hunter/Chris .... fyi, progress has been made to the web based site stats reports. We will meet with the developer today to go over what been complete to date.
+
+http://egmfundy.dev.corp.enron.com/sitetrack/
+
+... in addition, the changes to the Gas Message board (in dev) are nearly complete. The is currently owned by another group, we intend to take this over in due course.
+
+http://gasmsgboard.dev.corp.enron.com/MsgBoard/Chat/msgframe.asp
+
+(there may be an error posting to the above message board, should resolved today.)
+
+Please forward comments and feedback
+-Colin
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

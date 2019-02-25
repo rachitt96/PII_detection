@@ -1,0 +1,22 @@
+From : Mary Poorman
+To : gary a hanks
+CC : edward terry; daren j farmer; david baumbach; aimee lannou; michael c winders
+BCC : 
+Subject : Meter 8022 - Bad Scada Feedback to Sitara
+
+Message Body :Beginning on January 14th at meter 988022 (United Salt), the BAV feed into 
+Pops shows excessive flow (over 200M/Day beginning the 15th).  O'Neal brought 
+this to my attention this evening.  This issue will blow out our UA4 number, 
+and probably our P & L.  I phoned Lee in Gas Control to make sure a tech was 
+sent out to check calibration and scada feed.  I would like to have better 
+estimates from the 14th through the 19th asap so that we can make corrections 
+to all pertinent numbers.
+
+Thank you,
+
+Mary
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

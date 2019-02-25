@@ -1,0 +1,27 @@
+From : Shively
+To : dronet; David
+CC : 
+BCC : 
+Subject : RE: please review
+
+Message Body :looks good
+
+ -----Original Message-----
+From: 	Dronet, David  
+Sent:	Tuesday, April 24, 2001 12:03 PM
+To:	Shively, Hunter S.; Gaskill, Chris
+Cc:	Tonks, Colin
+Subject:	please review
+
+Please review the new Gas Message Board in the development site.  http://gasfundy.dev.corp.enron.com
+
+We are hoping to implement this into the production site once you have had the opportunity to look over it.
+
+Thanks,
+
+Dave
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

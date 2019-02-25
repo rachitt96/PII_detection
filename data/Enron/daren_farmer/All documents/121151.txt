@@ -1,0 +1,21 @@
+From : info@highschoolalumni.com
+To : dfarmer@enron.com
+CC : 
+BCC : 
+Subject : Your Username and Password
+
+Message Body :Dear Daren Farmer,
+
+  Here is your username and password that you requested.
+
+  Username: dfarmer2
+  Password: jungle
+
+  You can update your info at:
+  http://www.highschoolalumni.com/hsaroot/Login.jsp
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

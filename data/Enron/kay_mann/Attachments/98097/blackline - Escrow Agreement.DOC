@@ -1,0 +1,333 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f143\froman\fcharset238\fprq2 Times New Roman CE;}{\f144\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f146\froman\fcharset161\fprq2 Times New Roman Greek;}{\f147\froman\fcharset162\fprq2 Times New Roman Tur;}{\f148\froman\fcharset186\fprq2 Times New Roman Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\adjustright \fs22 \snext0 Normal;}{\s1\qc\sb360\keepn\nowidctlpar\adjustright \b\caps\fs22 \sbasedon0 \snext2 heading 1;}{\s2\qj\sb240\keepn\nowidctlpar\adjustright \b\fs22 
+\sbasedon0 \snext15 heading 2;}{\s3\qj\sb240\nowidctlpar\adjustright \fs22 \sbasedon0 \snext3 heading 3;}{\s4\qj\sb240\nowidctlpar\adjustright \fs22 \sbasedon0 \snext4 heading 4;}{\s5\qj\sb240\nowidctlpar\adjustright \fs22 \sbasedon0 \snext5 heading 5;}{
+\s6\sa240\nowidctlpar\adjustright \fs22\ul \sbasedon0 \snext16 heading 6;}{\s7\sa240\nowidctlpar\adjustright \b\fs22\ul \sbasedon0 \snext16 heading 7;}{\s8\sa240\nowidctlpar\adjustright \b\i\fs22 \sbasedon0 \snext16 heading 8;}{
+\s9\sa240\nowidctlpar\adjustright \fs22\ul \sbasedon0 \snext16 heading 9;}{\*\cs10 \additive Default Paragraph Font;}{\s15\qj\li720\sb240\nowidctlpar\adjustright \fs22 \sbasedon0 \snext15 Body Text Indent 2;}{\s16\qj\sb240\nowidctlpar\adjustright \fs22 
+\sbasedon0 \snext16 Body Text;}{\s17\nowidctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs22 \sbasedon0 \snext17 header;}{\s18\nowidctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs22 \sbasedon0 \snext18 footer;}{\*\cs19 \additive \fs20 \sbasedon10 page number;}{
+\s20\li720\sa240\nowidctlpar\adjustright \sbasedon0 \snext20 Body Text 2;}{\s21\nowidctlpar\adjustright \fs16 \sbasedon0 \snext21 DocID;}{\*\cs22 \additive \fs20\super \sbasedon10 footnote reference;}{
+\s23\li2880\nowidctlpar\phpg\posxc\posyb\absh-1980\absw7920\dxfrtext180\dfrmtxtx180\dfrmtxty0\adjustright \fs22 \sbasedon0 \snext23 envelope address;}{\s24\nowidctlpar\adjustright \fs20 \sbasedon0 \snext24 envelope return;}{\s25\nowidctlpar\adjustright 
+\fs22 \sbasedon0 \snext25 footnote text;}{\s26\fi-720\li1440\ri720\nowidctlpar\tqr\tldot\tx9360\adjustright \fs22 \sbasedon0 \snext0 \sautoupd toc 2;}{\s27\fi-720\li720\ri720\nowidctlpar\tqr\tldot\tx9360\adjustright \fs22 \sbasedon0 \snext0 \sautoupd 
+toc 1;}{\s28\fi-720\li2160\ri720\nowidctlpar\tqr\tldot\tx9360\adjustright \fs22 \sbasedon0 \snext0 \sautoupd toc 3;}{\s29\fi-720\li2880\ri720\nowidctlpar\tqr\tldot\tx9360\adjustright \fs22 \sbasedon0 \snext0 \sautoupd toc 4;}{
+\s30\fi-720\li3600\ri720\nowidctlpar\tqr\tldot\tx9360\adjustright \fs22 \sbasedon0 \snext0 \sautoupd toc 5;}{\s31\fi-720\li4320\ri720\nowidctlpar\adjustright \fs22 \sbasedon0 \snext0 \sautoupd toc 6;}{\s32\fi-720\li5040\ri720\nowidctlpar\adjustright 
+\fs22 \sbasedon0 \snext0 \sautoupd toc 7;}{\s33\fi-720\li5760\ri720\nowidctlpar\adjustright \fs22 \sbasedon0 \snext0 \sautoupd toc 8;}{\s34\fi-720\li6480\ri720\nowidctlpar\adjustright \fs22 \sbasedon0 \snext0 \sautoupd toc 9;}{\s35\nowidctlpar
+\tx4320{\*\pn \pnlvlbody\ilvl11\ls2047\pnrnot0\pndec\pnb1\pnul\pnstart1\pnindent360 {\pntxtb REQUEST FOR ADMISSIONS NO. }{\pntxta :}}\ls2047\ilvl11\adjustright \fs22 \sbasedon0 \snext0 \sautoupd index 1;}{\s36\nowidctlpar\tx4410{\*\pn 
+\pnlvlbody\ilvl11\ls2047\pnrnot0\pndec\pnb1\pnul\pnstart1\pnindent360 {\pntxtb REQUEST FOR PRODUCTION NO. }{\pntxta :}}\ls2047\ilvl11\adjustright \fs22 \sbasedon0 \snext0 \sautoupd index 2;}{\s37\nowidctlpar\tx3240{\*\pn \pnlvlbody\ilvl11\ls2047\pnrnot0
+\pndec\pnb1\pnul\pnstart1\pnindent360 {\pntxtb INTERROGATORY NO. }{\pntxta :}}\ls2047\ilvl11\adjustright \fs22 \sbasedon0 \snext0 \sautoupd index 3;}{\s38\qj\fi-720\li720\nowidctlpar\adjustright \fs22 \sbasedon0 \snext38 Body Text Indent 3;}{\*\cs39 
+\additive \f0\fs14\cf0 \sbasedon10 zzmpTrailerItem;}{\s40\qj\sb240\nowidctlpar\adjustright \fs22 \sbasedon16 \snext40 Num Continue;}{\s41\qj\fi720\sa240\nowidctlpar\adjustright \sbasedon16 \snext41 Body Text First Indent;}{\s42\qc\sa240\keepn\nowidctlpar
+\tx0\adjustright \b\caps \sbasedon0 \snext16 PHLit1_L1;}{\s43\fi-720\li720\sa240\nowidctlpar\tx0\tx720\adjustright \sbasedon42 \snext16 PHLit1_L2;}{\s44\li720\sa240\nowidctlpar\tx0\tx720\tx1440\adjustright \sbasedon43 \snext16 PHLit1_L3;}{
+\s45\fi-720\li2160\nowidctlpar\tx0\tx720\tx1440\tx2160\adjustright \sbasedon44 \snext16 PHLit1_L4;}{\s46\fi-720\li1440\sa240\nowidctlpar\tx0\tx720\tx1440\tx2160\adjustright \sbasedon45 \snext16 PHLit1_L5;}{\s47\fi-720\li720\sa240\nowidctlpar
+\tx0\tx720\tx1440\tx2160\adjustright \sbasedon46 \snext16 PHLit1_L6;}{\s48\fi-720\li720\sa240\nowidctlpar\tx0\tx720\tx1440\tx2160\adjustright \sbasedon47 \snext16 PHLit1_L7;}{\s49\fi-720\li5040\sa240\nowidctlpar\tx0\tx720\tx1440\tx2160\tx5040\adjustright 
+\sbasedon48 \snext16 PHLit1_L8;}}{\info{\title ESCROW AGREEMENT}{\author CitiBank}{\operator PHJW}{\creatim\yr2001\mo4\dy13\hr22\min36}{\revtim\yr2001\mo4\dy13\hr22\min36}{\printim\yr2001\mo4\dy13\hr21\min14}{\version2}{\edmins0}{\nofpages14}
+{\nofwords4606}{\nofchars26258}{\*\company Citicorp}{\nofcharsws0}{\vern117}}\margl1440\margr1440 \widowctrl\ftnbj\aenddoc\aftnnar\hyphcaps0\formshade\viewkind1\viewscale75 \fet0{\*\docvar {iTrailerType}{0}}{\*\docvar {zzmpFixedDOC_ID}{NY/333347.RED}}
+\sectd \pgnrestart\linex0\footery432\endnhere\titlepg\sectdefaultcl {\header \pard\plain \s17\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs22 {
+\par }}{\footer \pard\plain \widctlpar\adjustright \fs22 {\field\fldlock{\*\fldinst {\fs16 filename  \\* Mergeformat }}{\fldrslt {\fs16 #333347 v2 - Escrow Agreement}}}{\fs16 
+\par }\pard \sl-200\slmult0\widctlpar\adjustright {NY/333347.1 
+\par }{\cs39\fs14 NY/333347.2}{ 
+\par }{\cs39\fs14 NY/333347.RED}{ 
+\par }}{\headerf \pard\plain \widctlpar\adjustright \fs22 {\b\ul EXHIBIT F}{\ul 
+\par }}{\footerf \pard\plain \sl-200\slmult0\widctlpar\adjustright \fs22 {\cs39\fs14 NY/333347.2}{ 
+\par }{\cs39\fs14 NY/333347.RED}{ }{\fs16 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \qc\sb4080\widctlpar\adjustright \fs22 {\b ESCROW AGREEMENT
+\par }\pard \qc\widctlpar\adjustright {\b 
+\par among
+\par 
+\par NORTHWESTERN GENERATION I, LLC,
+\par 
+\par ENRON NORTH AMERICA CORP.
+\par 
+\par and
+\par 
+\par CITIBANK, N.A.
+\par 
+\par Dated April __, 2001
+\par }\pard \widctlpar\adjustright {\sect }\sectd \pgnrestart\linex0\footery432\endnhere\titlepg\sectdefaultcl {\footer \pard\plain \s18\sb240\sl-200\slmult0\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs22 {\cs39\fs14 NY/333347.}{ }{\cs39\fs14 2\tab }
+{\field{\*\fldinst {\cs19 page }}{\fldrslt {\cs19\lang1024 13}}}{\cs19 \tab 
+\par }\pard \s18\sl-200\slmult0\widctlpar\tqc\tx4320\tqr\tx8640\adjustright {\cs39\fs14 NY/333347.RED}{ }{\fs16 
+\par }}{\headerf \pard\plain \s17\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs22 {\ul 
+\par }}{\footerf \pard\plain \s18\sl-200\slmult0\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs22 {\cs39\fs14 NY/333347.2}{ }{\cs19 
+\par }{\cs39\fs14 NY/333347.RED}{ }{\fs16 
+\par }}\pard\plain \qc\sa480\widctlpar\adjustright \fs22 {\b ESCROW AGREEMENT
+\par }\pard\plain \s41\qj\fi720\sa240\widctlpar\adjustright {ESCROW AGREEMENT made this ___ day of }{\strike [^]}{ }{\b April,}{ 2001 }{\strike [^]}{\b (this}{ \ldblquote Escrow Agreement\rdblquote ) among CITIBANK, N.A. (\ldblquote Escrow Agent\rdblquote )
+ and the undersigned NORTHWESTERN GENERATION I, LLC (\ldblquote NWG\rdblquote ) and ENRON NORTH AMERICA CORP. (\ldblquote ENA\rdblquote ) (collectively the \ldblquote Depositors\rdblquote  and individually a \ldblquote Depositor\rdblquote ).
+\par Depositors and Escrow Agent hereby agree that, in consideration of the mutual promises and cov
+enants contained herein, Escrow Agent shall hold in escrow and shall distribute Escrow Property (as defined herein) in accordance with and subject to the following Instructions and Terms and Conditions:
+\par }\pard\plain \s42\qc\sa240\keepn\widctlpar\tx0\adjustright \b\caps {\caps0 I. }{INSTRUCTIONS:\line [NOTE: SUM OF $40,000,800, PLUS $5 MILLION IF FUNDED PRIOR TO JULY\~15, 2001, PLUS INTEREST ACCRUED ON $40,000,000 FROM JULY\~16, 2001 TO CLOSING]
+\par }\pard\plain \s43\fi-720\li720\sa240\widctlpar\tx0\tx720\adjustright {\b 1.\tab }{\b\ul Escrow Property}{
+\par }\pard\plain \s20\li720\sa240\widctlpar\adjustright {The property and/or funds deposited or to be deposited with Escrow Agent by Depositors shall be as follows:
+\par Cash in the amount of _____________ ($____________) (for}{\strike [^]}{ Merchant Energy Ventures, LLC to acquire rights and obligations associated with the purchase of two (2) General Electric 7EA combustion turbine generator sets and for a cash contri
+bution by NWG to such LLC).
+\par The foregoing property and/or funds received by the Escrow Agent, plus all interest, dividends and other distributions and payments thereon (collectively the \ldblquote Distributions\rdblquote ), less any property and/or funds distributed or pai
+d in accordance with this Escrow Agreement, are collectively referred to herein as \ldblquote Escrow Property\rdblquote .  The Escrow Agent shall have no duty to solicit the Escrow Property.
+\par }\pard\plain \s43\fi-720\li720\sa240\widctlpar\tx0\tx720\adjustright {\b 2.\tab }{\b\ul Investment of Escrow Property}{.  (Depositors are to select one of the following options, mark the option selected and, if \ldblquote (b)\rdblquote 
+ is selected, insert the appropriate information.)
+\par }\pard\plain \s20\li720\sa240\widctlpar\adjustright {______ (a)  Escrow Agent shall have no obligation to pay interest on or to invest or reinvest any Escrow Property deposited or received hereunder.
+\par }{\ul       X    }{ (b
+)  Escrow Agent shall invest or reinvest Escrow Property, without distinction between principal and income, in accordance with written instructions from NWG delivered to the Escrow Agent specifying any one or more of the following investments: 
+\par }\pard\plain \s45\fi-720\li2160\widctlpar\tx0\tx720\tx1440\tx2160\adjustright {(1)  Any U.S. Government agency or U.S. Government security;
+\par (2)  Any commercial paper rated A1/P1 or better;
+\par (3)  A Money Market fund governed under the 1940 Act; or
+\par (4)  The Citibank Insured Money Market Deposit Account.
+\par }\pard\plain \s16\qj\sb240\widctlpar\adjustright \fs22 {
+\par }\pard\plain \s20\li720\sa240\widctlpar\adjustright {In the absence of written instructions, and
+ after 11:00 a.m. (E.S.T.), the Escrow Agent is authorized to invest 50% of the Escrow Property in the Dreyfus Money Market Fund titled Cash Management Investor Class (670) and 50% of the Escrow Property in Treasury Cash Management Investor Class (673).
+
+\par Th
+e Escrow Agent shall have no obligation to invest or reinvest the Escrow Property if deposited with the Escrow Agent after 11:00 a.m. (E.S.T.) on such day of deposit.  Instructions received after 11:00 a.m. (E.S.T.) will be treated as if received on the f
+ollowing business day.
+\par The Escrow Agent shall have the power to sell or liquidate the foregoing investments whenever the Escrow Agent shall be required to release the Escrow Property pursuant to the terms hereof. Requests (or instructions) received after 11
+:00 a.m. (E.S.T.) by the Escrow Agent to liquidate the Escrow Property will be treated as if received on the following business day.  The Escrow Agent shall have no responsibility for any investment losses resulting from the investment, reinvestment or li
+q
+uidation of the Escrow Property other than in accordance with paragraph 5 of the Terms and Conditions.  Any interest or other income received on such investment and reinvestment of the Escrow Property shall become part of the Escrow Property.  If a select
+ion is not made, the Escrow Property shall be invested as provided in the second sentence of this Section 2.  It is agreed and understood that the Escrow Agent may earn fees associated with the investments outlined above.
+\par Escrow Agent shall have no liability for any loss arising from or related to any such investment other than in accordance with paragraph 5 of the Terms and Conditions.
+\par }\pard\plain \s43\fi-720\li720\sa240\widctlpar\tx0\tx720\adjustright {\b 3.\tab }{\b\ul Distribution of Escrow Property}{
+\par }\pard\plain \s20\li720\sa240\widctlpar\adjustright {Escrow Agent is directed to distribute the Escrow Property only in the following manner:
+\par }\pard\plain \s46\fi-720\li1440\sa240\widctlpar\tx0\tx720\tx1440\tx2160\adjustright {(a)\tab 
+Upon receipt of written instructions signed by both Depositors and otherwise in form and substance satisfactory to Escrow Agent, in accordance with such instructions;
+\par (b)\tab Upon receipt after September 1, 2001 of written instructions signed by NWG and directing the payment of the Escrow Property to NWG and otherwise in form and substance satisfactory to Escrow Agent, in accordance with such instructions;
+\par (c)\tab As permitted by this Escrow Agreement, to Escrow Agent; or 
+\par (d)\tab Into the registry of the court as permitted by paragraph 15 of Part II of this Escrow Agreement.
+\par }\pard\plain \s43\fi-720\li720\sa240\keepn\widctlpar\tx0\tx720\adjustright {\b 4.\tab }{\b\ul Addresses  and Account Information}{
+\par }\pard\plain \s20\li720\sa240\widctlpar\adjustright {Notices, instructions and other communications shall be sent to Escrow Agent, Escrow and Specialized Agency Services, Attention:  Estelle Lawrence, Citiba
+nk, N.A., 111 Wall Street, 14th Floor, New York, New York 10043, (telephone number: (212) 657-2076, facsimile number: (212) 657-2762) and to Depositors as follows:
+\par }\trowd \trgaph108\trleft612\trkeep \clvertalt\cltxlrtb \cellx5400\clvertalt\cltxlrtb \cellx10188\pard\plain \sb240\widctlpar\intbl\tqr\tlul\tx3600\adjustright \fs22 {NorthWestern\line Generation I, }{\strike [^]}{ }{\b LLC}{\line }{\b 
+c/o NorthWestern Corporation}{\line }{\b 125 South Dakota Avenue}{\line }{\b Sioux Falls, South Dakota  57104}{\line }{\b Attn:  Vice President and General Counsel}{\line }{\b Phone:  (605) 978-2917}{\line }{\b Fax:  (605) 978-2840}{\cell }\pard 
+\sb240\widctlpar\intbl\adjustright {\line Enron North America Corp.\line 1400 Smith Street \line Houston, Texas  77002\line Attn:  Mr. Ben F. Jacoby \line Phone: 713-853-6173\line Fax:  713-646-3037\cell }\pard \widctlpar\intbl\adjustright {\row }\trowd 
+\trgaph108\trleft612\trkeep \clvertalt\cltxlrtb \cellx5400\clvertalt\cltxlrtb \cellx10188\pard \sb480\sa240\widctlpar\intbl\tqr\tlul\tx3600\adjustright {\ul Wiring Instructions}{:\line  }{\strike [^]}{ }{\b NorthWestern Corporation}{\line }{\b 
+First National Bank in Sioux Falls}{\line }{\b Account No.:  139-636-9}{\line }{\b ABA #:  091400020}{\cell }\pard \sb480\sa240\widctlpar\intbl\adjustright {\ul Wiring Instructions}{:\line Enron North America Corp.\line Bank of America \line 
+Account No. 4078-1075\line ABA # 021 000 089\line \cell }\pard \widctlpar\intbl\adjustright {\row }\pard\plain \s43\fi-720\li720\sa240\widctlpar\tx0\tx720\adjustright {\b 5.\tab }{\b\ul Distribution of Escrow Property Upon Termination}{
+\par }\pard\plain \s20\li720\sa240\widctlpar\adjustright {Upon written notice of termination of this Escrow Agreement, Escrow Property then held hereunder shall be distributed as set forth in paragraph 3 of Part I of this Escrow Agreement.  
+\par }\pard\plain \s43\fi-720\li720\sa240\widctlpar\tx0\tx720\adjustright {\b 6.\tab }{\b\ul Compensation}{
+\par }\pard\plain \s46\fi-720\li1440\sa240\widctlpar\tx0\tx720\tx1440\tx2160\adjustright {(a)\tab At the time of executi
+on of this Escrow Agreement, Depositors shall pay Escrow Agent an acceptance fee of $3,000.00.  In addition, Depositors shall pay Escrow Agent a fee of $3,000.00 per annum or part thereof payable upon execution of this Escrow Agreement and thereafter on e
+a
+ch anniversary date of this Escrow Agreement and Depositors agree to reimburse the Escrow Agent for all reasonable expenses, disbursements and advances incurred or made by the Escrow Agent in performance of its duties hereunder (including reasonable fees,
+ expenses and disbursements of its counsel).  It is understood that the Escrow Agent\rquote 
+s fees may be adjusted from time to time to conform to its then current guidelines.  The obligations contained in this paragraph (a) shall be a joint and several obligation of the Depositors.
+\par (b)\tab Depositors shall pay an investment transaction fee of $100.00 for each purchase or sale of a security made by Escrow Agent hereunder, unless funds are invested pursuant to paragraph 2(b)(3) or 2(b)(4)of Part I of this Escrow Agreement.
+\par (c)\tab Depositors shall be responsible for and shall reimburse Escrow Agent upon demand for all fees, expenses and disbursements incurred or made by Escrow Agent or its counsel in connection with this Escrow Agreement.
+\par }\pard\plain \s42\qc\sa240\keepn\widctlpar\tx0\adjustright \b\caps {\caps0 II. }{TERMS AND CONDITIONS
+\par }\pard\plain \s47\fi-720\li720\sa240\widctlpar\tx0\tx720\tx1440\tx2160\adjustright {1.\tab Escrow P
+roperty shall be held by the Escrow Agent either directly or through the Federal Reserve/Treasury Book-Entry System for United States and federal agency securities (the \ldblquote Book-Entry System\rdblquote 
+), The Depository Trust Company, a clearing agency registered with the Securities and Exchange Commission (\ldblquote DTC\rdblquote ), or through any other clearing agency or similar depository (a \ldblquote Clearing Agency\rdblquote 
+).  The Escrow Agent shall have no responsibility and shall not be liable for ascertaining or acting upon any calls, conversions, 
+exchange offers, tenders, interest rates changes, or similar matters relating to securities held at DTC or with any Clearing Agency unless the Escrow Agent shall have received actual and timely notice of the same, nor shall the Escrow Agent have any respo
+nsibility or liability for the actions or omissions to act of the Book-Entry System, DTC or any Clearing Agency.
+\par 2.\tab The duties, responsibilities and obligations of Escrow Agent shall be limited to those expressly set forth herein and no duties, responsibili
+ties or obligations shall be inferred or implied.  Escrow Agent shall not be subject to, nor required to comply with, any other agreement between or among any or all of the Depositors or to which any Depositor is a party, even though reference thereto may
+ 
+be made herein, or to comply with any direction or instruction (other than those contained herein or delivered in accordance with this Escrow Agreement) from any Depositor or an entity acting on its behalf.  Escrow Agent shall not be required to expend or
+ risk any of its own funds or otherwise incur any financial or other liability in the performance of any of its duties hereunder.
+\par 3.\tab This Escrow Agreement is for the exclusive benefit of the parties hereto and their respective permitted successors hereunder
+, and shall not be deemed to give, either express or implied, any legal or equitable right, remedy, or claim to any other entity or person whatsoever except as provided in paragraph 14 of Part II hereof with respect to the resignation of the Escrow Agent.
+
+\par 4.\tab 
+If at any time Escrow Agent is served with any judicial or administrative order, judgment, decree, writ or other form of judicial or administrative process which in any way affects the Escrow Property (including but not limited to orders of attachment o
+r garnishment or other forms of levies or injunctions or stays relating to the transfer of the Escrow Property), Escrow Agent is authorized to comply therewith in any manner it or legal counsel of its own choosing deems appropriate; and if Escrow Agent co
+m
+plies with any such judicial or administrative order, judgment, decree, writ or other form of judicial or administrative process, Escrow Agent shall not be liable to any of the parties hereto or to any other person or entity even though such order, judgme
+nt, decree, writ or process may be subsequently modified or vacated or otherwise determined to have been without legal force or effect.  
+\par 5.\tab Rights and Obligations of Escrow Agent
+\par }\pard\plain \s48\fi-720\li720\sa240\widctlpar\tx0\tx720\tx1440\tx2160\adjustright {(a)\tab Escrow Agent shall not be liable for any action taken or omitted or for a
+ny loss or injury resulting from its actions or its performance or lack of performance of its duties hereunder in the absence of gross negligence or willful misconduct on its part.  In no event shall Escrow Agent be liable (i) for acting in accordance wit
+h
+ or relying upon any instruction, notice, demand, certificate or document from any Depositor and signed by or on behalf of both Depositors (except as provided in paragraph (b) of Section 3), (ii) for any indirect, consequential, punitive or special damage
+s
+, regardless of the form of action and whether or not any such damages were foreseeable or contemplated, (iii) for the acts or omissions of its nominees, correspondents, designees, agents, subagents or subcustodians, provided each was selected by Escrow A
+g
+ent with reasonable care, (iv) for the investment or reinvestment of any cash held by it hereunder, in each case in good faith, in accordance with the terms hereof, including without limitation any liability for any delays (not resulting from its gross ne
+g
+ligence or willful misconduct) in the investment or reinvestment of the Escrow Property, or any loss of interest incident to any such delays, or (v) for an amount in excess of the value of the Escrow Property, valued as of the date of deposit, but only to
+ the extent of direct money damages.  
+\par (b)\tab If any fees, expenses or costs incurred by, or any obligations owed to, Escrow Agent or its counsel hereunder are not promptly paid when due, Escrow Agent may reimburse itself therefor from the Escrow Property and 
+may sell, convey or otherwise dispose of any Escrow Property for such purpose.  The Escrow Agent may in its sole discretion withhold from any distribution of Escrow Property an amount of Escrow Property it believes would, upon sale or liquidation, produce
+ proceeds equal to any unpaid amounts to which Escrow Agent is entitled to hereunder.  
+\par (c)\tab As security for the due and punctual performance of any and all of Depositor\rquote s, or Depositors\rquote , as the case may be, obligations to Escrow Agent hereunder, now or her
+eafter arising, Depositors, individually and collectively, hereby pledge, assign and grant to Escrow Agent a continuing security interest in, and a lien on, the Escrow Property and all Distributions thereon or additions thereto (whether such additions are
+ 
+the result of deposits by Depositors or the investment of Escrow Property).  The security interest of Escrow Agent shall at all times be valid, perfected and enforceable by Escrow Agent against Depositors and all third parties in accordance with the terms
+ of this Escrow Agreement.  
+\par (d)\tab Escrow Agent may consult with legal counsel of its own choosing at the expense of the Depositors as to any matter relating to this Escrow Agreement, and Escrow Agent shall not incur any liability in acting in good faith in a
+ccordance with any advice from such counsel.  
+\par (e)\tab Escrow Agent shall not incur any liability for not performing any act or fulfilling any duty, obligation or responsibility hereunder by reason of any occurrence beyond the control of Escrow Agent (includin
+g but not limited to any act or provision of any present or future law or regulation or governmental authority, any act of God or war, or the unavailability of the Federal Reserve Bank wire or facsimile or other wire or communication facility).  
+\par (f)\tab The E
+scrow Agent shall be entitled to rely upon any order, judgment, certification, demand, notice, instrument or other writing delivered to it hereunder without being required to determine the authenticity or the correctness of any fact stated therein or the 
+p
+ropriety or validity or the service thereof.  The Escrow Agent may act in reliance upon any instrument or signature believed by it to be genuine and may assume that any person purporting to give receipt or advice to make any statement or execute any docum
+ent in connection with the provisions hereof has been duly authorized to do so.  
+\par }\pard\plain \s47\fi-720\li720\sa240\widctlpar\tx0\tx720\tx1440\tx2160\adjustright {6.\tab 
+Unless otherwise specifically set forth herein, Escrow Agent shall proceed as soon as practicable to collect any checks or other collection items at any time deposited here
+under.  Should Escrow Agent in its sole discretion or otherwise credit Distributions before the same are finally collected, such credits shall be provisional and may be reversed by Escrow Agent without notice until such time as the same shall be finally c
+ollected.  All such collections shall be subject to Escrow Agent\rquote 
+s usual collections practices or terms regarding items received by Escrow Agent for deposit or collection.  Escrow Agent shall not be required, or have any duty, to notify anyone of any paymen
+t or maturity under the terms of any instrument deposited hereunder, nor to take any legal action to enforce payment of any check, note or security deposited hereunder or to exercise any right or privilege which may be afforded to the holder of any such s
+ecurity.  
+\par 7.\tab Escrow Agent shall provide to Depositors monthly statements identifying transactions, transfers or holdings of Escrow Property and each such statement shall be deemed to be correct and final upon receipt thereof by the Depositors unless Escrow
+ Agent is notified in writing, by either Depositor, to the contrary within thirty (30) business days of the date of such statement.
+\par 8.\tab Escrow Agent shall not be responsible in any respect for the form, execution, vali
+dity, value or genuineness of documents or securities deposited hereunder, or for any description therein, or for the identity, authority or rights of persons executing or delivering or purporting to execute or deliver any such document, security or endor
+sement.  The Escrow Agent shall not be called upon to advise any party as to the wisdom in selling or retaining or taking or refraining from any action with respect to any securities or other property deposited hereunder.  
+\par 9.\tab The Escrow Agent shall not be 
+under any duty to give the Escrow Property held by it hereunder any greater degree of care than it gives its own similar property and shall not be required to invest any funds held hereunder except as provided in this Escrow Agreement.  Uninvested funds h
+eld hereunder shall not earn or accrue interest.
+\par 10.\tab When the Escrow Agent is instructed in writing to deliver securities against payment, or to effect payment against delivery, delivery and receipt of payment may not be completed simultaneously, and each D
+epositor agrees that the Escrow Agent shall incur no liability for any credit risk involved, and that the Escrow Agent may deliver and receive securities, and arrange for payments to be made and received, in accordance with customs prevailing from time to
+ time among brokers or dealers in such securities.
+\par 11.\tab At any time the Escrow Agent may request an instruction in writing in English from the Depositors and may, at its own option, include in such request the course of action it proposes to take and the dat
+e on which it proposes to act, regarding any matter arising in connection with its duties and obligations hereunder.  The Escrow Agent shall not be liable for acting in accordance with such a proposal on or after the date specified therein, provided that 
+the specified date shall be at least one business day after the Depositors receive the Escrow Agent\rquote 
+s request for instructions and its proposed course of action, and provided further that, prior to so acting, the Escrow Agent has not received the written instructions requested.  
+\par 12.\tab Notices, instructions or other communications shall be in writing in English and shall be given to the address set forth in the \ldblquote Addresses\rdblquote 
+ provision herein (or to such other address as may be substituted therefor by written not
+ification to Escrow Agent or Depositors).  Notices to Escrow Agent shall be deemed to be given when actually received by the Escrow Agent (Escrow and Specialized Agency Services).  Escrow Agent is authorized to comply with and rely upon any notices, instr
+u
+ctions or other communications believed by it to have been sent or given by Depositors or by a person or persons authorized by Depositors.  Whenever under the terms hereof the time for giving a notice or performing an act falls upon a Saturday, Sunday, or
+ a banking holiday in New York, such time shall be extended to the next day on which the Escrow Agent is open for business.
+\par 13.\tab Depositors, jointly and severally, shall be liable for and shall reimburse and indemnify Escrow Agent (and any predecessor Escrow
+ Agent) and hold Escrow Agent harmless from and against any and all claims, losses, actions, liabilities, costs, damages or expenses (including reasonable attorneys\rquote  fees and expenses) (collectively \ldblquote Losses\rdblquote 
+) arising from or in connection with its administ
+ration of this Agreement, provided, however, that nothing contained herein shall require Escrow Agent to be indemnified for Losses caused by its own gross negligence or own willful misconduct for which Escrow Agent has assumed liability pursuant to preced
+i
+ng subparagraph (a) of paragraph 5 of Part I hereof.  In addition, when the Escrow Agent acts on any information, instructions or communications (including, but not limited to, communications with respect to the delivery of securities or the wire transfer
+ 
+of funds) sent by telephone, telex or facsimile, the Escrow Agent, absent gross negligence, shall not be responsible or liable in the event such communication is not an authorized or authentic communication of the Depositor(s) or is not in the form the De
+p
+ositor(s) sent or intended to send (whether due to fraud, distortion or otherwise).  The Depositor(s) shall jointly and severally indemnify the Escrow Agent against any loss, liability, claim or expense (including reasonable legal fees and expenses) it ma
+y incur with its acting in accordance with any such communication.  This paragraph shall survive the termination of this Escrow Agreement or the removal of the Escrow Agent. 
+\par }\pard\plain \s16\qj\sb240\widctlpar\adjustright \fs22 {
+\par }\pard\plain \s47\fi-720\li720\sa240\widctlpar\tx0\tx720\tx1440\tx2160\adjustright {14.\tab Removal or Resignation of Escrow Agent
+\par }\pard\plain \s48\fi-720\li720\sa240\widctlpar\tx0\tx720\tx1440\tx2160\adjustright {(a)\tab Depositors may remove Escrow Agent at any time by giving to Escrow Agent thirty (30) calendar days\rquote 
+ prior notice in writing signed by both Depositors.  Escrow Agent may resign at any time by giving the Depositors fifteen (15) calendar days\rquote  prior written notice thereof. 
+\par (b)\tab Within ten (10
+) calendar days after giving the foregoing notice of removal to Escrow Agent or receiving the foregoing notice of resignation from Escrow Agent, both Depositors shall jointly agree on and appoint a successor Escrow Agent, and provide written notice of  su
+c
+h appointment to the resigning Escrow Agent. If a successor Escrow Agent has not accepted such appointment by the end of such 10-day period, Escrow Agent may, in its sole discretion, apply to a court of competent jurisdiction for the appointment of a succ
+essor Escrow Agent or for other appropriate relief.  The costs and expenses (including reasonable attorneys\rquote 
+ fees and expenses) incurred by Escrow Agent  in connection with such proceeding shall be paid by, and be deemed a joint and several obligation of, t
+he Depositors.  In the event of any such resignation or removal, the Escrow Agent shall have no further obligation with respect to the Escrow Property. 
+\par (c)\tab Upon receipt of the identity of the successor Escrow Agent, Escrow Agent shall either deliver the Escrow Property then held hereunder to the successor Escrow Agent, less Escrow Agent\rquote 
+s fees, costs and expenses or other obligations owed to Escrow Agent, or hold such Escrow Property (or any portion thereof), pending distribution, until all such fees, costs and conclusively expenses or other obligations are paid.
+\par (d)\tab Upon delivery of the Escrow Property to the successor Escrow Agent, Escrow Agent shall have no further duties, responsibilities or obligations hereunder.
+\par }\pard\plain \s47\fi-720\li720\sa240\widctlpar\tx0\tx720\tx1440\tx2160\adjustright {15.\tab Ambiguities, Uncertainties, Disputes or Conflicting Claims
+\par }\pard\plain \s48\fi-720\li720\sa240\widctlpar\tx0\tx720\tx1440\tx2160\adjustright {(a)\tab 
+In the event of any ambiguity or uncertainty hereunder or in any notice, instruction or other communication received by Escrow Agent hereunder, Escrow Agent may, in its sole discretion, refrain from taking any action other than 
+retain possession of the Escrow Property, unless Escrow Agent receives written instructions, signed by both Depositors (except as otherwise provided in paragraph (b) of Section 3), which eliminates such ambiguity or uncertainty. 
+\par (b)\tab In the event of any di
+spute between or conflicting claims by or among the Depositors and/or any other person or entity with respect to any Escrow Property, Escrow Agent shall be entitled, in its sole discretion, to refuse to comply with any and all claims, demands or instructi
+o
+ns with respect to such Escrow Property so long as such dispute or conflict shall continue, and Escrow Agent shall not be or become liable in any way to the Depositors for failure or refusal to comply with such conflicting claims, demands or instructions.
+ 
+ Escrow Agent shall be entitled to refuse to act until, in its sole discretion, either (i) such conflicting or adverse claims or demands shall have been determined by a final order, judgment or decree of a court of competent jurisdiction, which order, jud
+g
+ment or decree is not subject to appeal, or settled by agreement between the conflicting parties as evidenced in a writing satisfactory to Escrow Agent or (ii) Escrow Agent shall have received security or an indemnity satisfactory to it sufficient to hold
+ 
+it harmless from and against any and all Losses which it may incur by reason of so acting. Any court order, judgment or decree shall be accompanied by a legal opinion by counsel for the presenting party, satisfactory to the Escrow Agent, to the effect tha
+t
+ said order, judgment or decree represents a final adjudication of the rights of the parties by a court of competent jurisdiction, and that the time for appeal from such order, judgment or decree has expired without an appeal having been perfected.  The E
+s
+crow Agent shall act on such court order and legal opinions without further question.  Escrow Agent may, in addition, elect, in its sole discretion, to commence an interpleader action or seek other judicial relief or orders as it may deem, in its sole dis
+cretion, necessary.  The costs and expenses (including reasonable attorneys\rquote  fees and expenses) incurred in connection with such proceeding shall be paid by, and shall be deemed a joint and several obligation of, the Depositors.
+\par (c)\tab The Escrow Agent shall have no responsibility for the contents of any writing of the arbitrators or any third party contemplated herein as a means to resolve disputes and may conclusively rely without any liability upon the contents thereof.
+
+\par }\pard\plain \s47\fi-720\li720\sa240\widctlpar\tx0\tx720\tx1440\tx2160\adjustright {16.\tab This Escrow Agreement shall be int
+erpreted, construed, enforced and administered in accordance with the internal substantive laws (and not the choice of law rules) of the State of New York.  Each of the Depositors hereby submits to the personal jurisdiction of, and each agrees that all pr
+o
+ceedings relating hereto shall be brought in, courts located within the City and State of New York.  Each of the Depositors hereby waives the right to trial by jury in any such proceedings.  To the extent that in any jurisdiction any Depositor may be enti
+t
+led to claim, for itself or its assets, immunity from suit, execution, attachment (whether before or after judgment) or other legal process, each hereby irrevocably agrees not to claim, and hereby waives, such immunity.  Each Depositor waives personal ser
+v
+ice of process and consents to service of process by certified or registered mail, return receipt requested, directed to it at the address last specified for notices hereunder, and such service shall be deemed completed ten (10) calendar days after the sa
+m
+e is so mailed.  Any court order shall be accompanied by a legal opinion by counsel for the presenting party satisfactory to the Escrow Agent to the effect that said opinion is final and non-appealeable.  The Escrow Agent shall act on such court order and
+ legal opinions without further question.  
+\par 17.\tab The Escrow Agent does not have any interest in the Escrow Property deposited hereunder but is serving as escrow holder only and having only possession thereof.  The Depositors shall pay or reimburse the Escrow
+ Agent upon request for any transfer taxes or other taxes relating to the Escrow Property incurred in connection herewith and shall indemnify and hold harmless the Escrow Agent from any amounts that it is obligated to pay in the way of such taxes.  Any pa
+y
+ments of income from the Escrow Account shall be subject to withholding regulations then in force with respect to United States taxes.  The Depositors will provide the Escrow Agent with appropriate W-9 forms for tax I.D., number certifications, or W-8 for
+ms for non-resident alien certifications.  This paragraph shall survive notwithstanding any termination of this Escrow Agreement or the resignation or removal of the Escrow Agent. 
+\par 18.\tab This Escrow Agreement may be modified only by a written amendment signed by all the parties hereto, and no waiver of any provision hereof shall be effective unless expressed in a writing signed by the party to be charged.
+\par 19.\tab The rights and remedies conferred upon the parties hereto shall be cumulative, and the exercise or wai
+ver of any such right or remedy shall not preclude or inhibit the exercise of any additional rights or remedies.  The waiver of any right or remedy hereunder shall not preclude the subsequent exercise of such right or remedy.
+\par 20.\tab Each Depositor hereby repr
+esents and warrants (a) that this Escrow Agreement has been duly authorized, executed and delivered on its behalf and constitutes its legal, valid and binding obligation and (b) that the execution, delivery and performance of this Escrow Agreement by such
+ Depositor does not and will not violate any applicable law or regulation.  
+\par 21.\tab The invalidity, illegality or unenforceability of any provision of this Escrow Agreement shall in no way affect the validity, legality or enforceability of any other provision;
+ and if any provision is held to be unenforceable as a matter of law, the other provisions shall not be affected thereby and shall remain in full force and effect.
+\par 22.\tab This Escrow Agreement shall constitute the entire agreement of the parties with respect to the subject matter herein and supersedes all prior oral or written agreements in regard thereto.
+\par 23.\tab This Escrow Agreement shall terminate upon the distribution of all Escrow Property from the account established hereunder.  The provisions of  these Ter
+ms and Conditions and paragraph 6 of Part I shall survive termination of this Escrow Agreement and/or the resignation or removal of the Escrow Agent.
+\par 24.\tab No printed or other material in any language, including prospectuses, notices, reports, and promotional material which mentions \ldblquote Citibank, N.A.\rdblquote 
+ by name or the rights, powers, or duties of the Escrow Agent under this Escrow Agreement shall be issued by any other parties hereto, or on such party\rquote s behalf, without the prior written consent of Escrow Agent.
+\par 25.\tab The headings contained in this Escrow Agreement are for convenience of reference only and shall have no effect on the interpretation or operation hereof.
+\par 26.\tab This Escrow Agreement may be executed by each of the parties hereto in any number of counterpar
+ts, each of which counterpart, when so executed and the original signature delivered to the other parties, shall be deemed to be an original and all such counterparts shall together constitute one and the same agreement.
+\par 27.\tab No party may assign any of its rights or obligations under this Escrow Agreement without the written consent of the other parties. 
+\par 28.\tab Any corporation into which the Escrow Agent may be merged or converted or with which it may be consolidated, or any c
+orporation resulting from any merger, conversion or consolidation to which the Escrow Agent shall be a party, or any corporation succeeding to the business of the Escrow Agent shall be the successor of the Escrow Agent hereunder without the execution or f
+iling of any paper with any party hereto or any further act on the part of any of the parties hereto except where an instrument of transfer or assignment is required by law to effect such succession, anything herein to the contrary notwithstanding.
+\par }\pard\plain \s41\qj\fi720\sa240\widctlpar\adjustright {IN WITNESS WHEREOF, each of the parties have caused this Escrow Agreement to be executed by a duly authorized officer as of the day and year first written above.
+\par }\trowd \trgaph108\trleft-108\trkeep \clvertalt\cltxlrtb \cellx4860\clvertalt\cltxlrtb \cellx9468\pard\plain \sb480\keepn\widctlpar\intbl\adjustright \fs22 {\b NORTHWESTERN\line GENERATION I, LLC\cell ENRON NORTH AMERICA CORP.\cell }\pard 
+\widctlpar\intbl\adjustright {\b \row }\trowd \trgaph108\trleft-108\trkeep \clvertalt\cltxlrtb \cellx4860\clvertalt\cltxlrtb \cellx9468\pard \sb240\keepn\widctlpar\intbl\tqr\tlul\tx4320\adjustright {By: NorthWestern Growth Corporation, its member\line 
+\line \line \line \line By: \tab \cell }\pard \fi72\sb240\keepn\widctlpar\intbl\tx432\tqr\tlul\tx4320\adjustright {By: \tab \line \tab }{\b \~\~\~\~Name:  Ben F. Jacoby}{\line \tab }{\b \~\~\~\~Title:    Director}{\cell }\pard 
+\widctlpar\intbl\adjustright {\row }\pard \li720\keepn\widctlpar\intbl\tqr\tlul\tx3600\adjustright {Name:\tab \line Title: \tab \cell }\pard \li720\keepn\widctlpar\intbl\tx1422\tqr\tlul\tx3600\adjustright {\strike [^]}{ \cell }\pard 
+\widctlpar\intbl\adjustright {\row }\pard \sb1200\keepn\widctlpar\intbl\adjustright {\b \cell CITIBANK, N.A., as Escrow Agent\cell }\pard \widctlpar\intbl\adjustright {\b \row }\pard \sb600\keepn\widctlpar\intbl\adjustright {\cell }\pard 
+\sb600\keepn\widctlpar\intbl\tqr\tlul\tx4320\adjustright {By: \tab \cell }\pard \widctlpar\intbl\adjustright {\row }\trowd \trgaph108\trleft-108\trkeep \clvertalt\cltxlrtb \cellx4860\clvertalt\cltxlrtb \cellx9468\pard \li720\widctlpar\intbl
+\tqr\tlul\tx3600\adjustright {\cell Name:\tab \line Title: \tab \cell }\pard \widctlpar\intbl\adjustright {\row }\pard \widctlpar\adjustright {
+\par 
+\par 
+\par 
+\par 
+\par 
+\par ------------------ COMPARISON OF HEADERS ------------------
+\par 
+\par -HEADER 1-
+\par 
+\par 
+\par -HEADER 2-
+\par Header Discontinued
+\par 
+\par -HEADER 3-
+\par EXHIBIT F
+\par 
+\par -HEADER 4-
+\par Header Discontinued
+\par 
+\par 
+\par ------------------ COMPARISON OF FOOTERS ------------------
+\par 
+\par -FOOTER 1-
+\par 
+\par 
+\par -FOOTER 2-
+\par #333347 }{\strike [^]}{ }{\b v2}{ - Escrow Agreement
+\par NY/333347.1 
+\par }{\strike [^]}{ }{\b NY/333347.2 
+\par 
+\par -FOOTER 3-
+\par NY/333347.2}{ 
+\par E
+\par 
+\par -FOOTER }{\strike [3]}{ }{\b 4}{-
+\par }{\strike [^]}{ }{\b NY/333347. 2 3 }{
+\par 
+\par 
+\par -FOOTER }{\strike [4]}{ }{\b 5}{-
+\par }{\strike [^]}{ }{\b NY/333347.2}{ 
+\par 
+\par E
+\par 
+\par \page This redlined draft, generated by CompareRite (TM) - The Instant Redliner, shows the differences between - 
+\par original document   : I:\\DOCS\\DOCSOPEN\\NY\\MRK\\AGR\\757N01!.DOC
+\par and revised document: I:\\DOCS\\DOCSOPEN\\NY\\MRK\\AGR\\757N02!.DOC
+\par 
+\par CompareRite found    7 change(s) in the text
+\par CompareRite found    4 change(s) in the notes
+\par 
+\par Deletions appear as a Overstrike ^ surrounded by []
+\par Additions appear as Bold text 
+\par }}

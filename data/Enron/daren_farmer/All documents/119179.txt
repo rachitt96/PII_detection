@@ -1,0 +1,32 @@
+From : Thomas Engel
+To : brent a price; steve jackson; jim homco; robert superty; katherine l kelly
+CC : 
+BCC : 
+Subject : NEW RISK ASSIGNMENT DEMOS
+
+Message Body :You have been identified as key SITARA personnel for Term Deals with Risk 
+Assignment.  A New SITARA release with a complete redesign of Risk Assignment 
+is scheduled to be implemented into production the weekend of Jan 22.
+
+There will be 3 demos of the New SITARA Risk Assignment release on the 
+following dates/times in room EB 5C2
+Jan 19 - 3:00 - 4:00
+Jan 19 - 5:00 - 6:00 
+Jan 20 - 4:30 - 5:30 
+
+There are some major changes to SITARA that will result in a transformation 
+of every deal with risk assignment.  This release includes the introduction 
+of financial deal types needed for SITARA valuation and eventual replacement 
+of CPR and TAGG systems for natural gas.
+ 
+Please make every effort to attend one of these sessions.   
+
+You are encouraged to invite anyone you believe may be interested in 
+attending.
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

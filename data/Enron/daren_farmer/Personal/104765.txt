@@ -1,0 +1,37 @@
+From : OrderCenter@radioshack.com
+To : dfarmer@enron.com
+CC : 
+BCC : 
+Subject : Shipment Confirmation 11871528-01
+
+Message Body :Thank you for shopping at RadioShack.com.
+
+Your order 11871528-01 is scheduled for shipment on 01/11/2001 to the 
+following address:
+
+DAREN FARMER
+5519 CLARKSTON
+SPRING , TX  77379
+
+For inquiries regarding this shipment, please use the package tracking number 
+when visiting the web site for UPSN at 
+http://www.ups.com/tracking/tracking.html                                   
+or contact our telephone order center with your order number.
+
+Trk#: 1Z7517550316716125
+
+
+We appreciate your business and look forward to serving you in the future.
+
+Sincerely,
+RadioShack.com
+
+Customer Service Contacts
+----------------------------------------
+Email: OrderCenter@RadioShack.com
+Phone: (800) 464-5365
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

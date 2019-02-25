@@ -1,0 +1,33 @@
+From : Agarwalla  Dipak
+To : Pimenov  Vladi; Bayer  Adam
+CC : Gaskill  Chris
+BCC : 
+Subject : RE: New Power Point template
+
+Message Body :Please update the slides that we had presented on 1/31/02 with the new template and save it in "O:\Fundy_Ops\Monthly Presentation\Feb 2002 Presentation" (Please note the O drive and not P drive).
+Also, keep updating the files with the improvements that we discussed after the presentation. When you feel comfortable with the final version, let me know and we can paste the picture format in the master file. Lets plan to meet on monday afternoon to discuss the slides.
+
+Thanks
+
+Dipak
+
+ -----Original Message-----
+From: 	Pimenov, Vladi  
+Sent:	Thursday, January 31, 2002 5:37 PM
+To:	Agarwalla, Dipak; Bayer, Adam; Burk, Bart; Lieskovsky, Jozef; O'Malley, Justin; Pehlivanova, Biliana; Tucker, Patrick; Gaskill, Chris; Yawapongsiri, Virawan
+Subject:	New Power Point template
+
+Hi everybody,
+
+Here is the new slide template. It is reduced in size and also has more space available for information.
+
+Dipak, Justin and Patrick, please make sure that you don't link to the data, your files were the biggest in size.
+
+Vladi
+
+ << File: New Slide background.ppt >> 
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

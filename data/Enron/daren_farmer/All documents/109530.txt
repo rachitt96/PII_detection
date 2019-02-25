@@ -1,0 +1,21 @@
+From : Megan Parker
+To : daren j farmer
+CC : 
+BCC : 
+Subject : Re: Duke Cashout Entries 7/00 and 8/00
+
+Message Body :We did take into account the price adjustments you made.  The actual purchase 
+cashout for 8/00 was $118,103.67.  Your pricing took care of most of the 
+cashout, but there was still a balance.  The over delivery pricing per MMBtu 
+in the contract is the difference between HSC Spot - 0.05 and HSC Index, so 
+GD - 0.10 didn't quite cover the entire cashout.  I have attached the calc 
+sheet in case you need it.
+
+
+
+Megan
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

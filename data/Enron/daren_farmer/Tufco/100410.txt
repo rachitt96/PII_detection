@@ -1,0 +1,42 @@
+From : Melissa Jones mjones7@txu.com@ENRON
+To : Eileen Ponton; Charlie Stone; gary
+CC : 
+BCC : 
+Subject : Re: noms/actual flow for 4/11/01
+
+Message Body :
+
+
+We agree but you may have a typo in your memo.  We show we were on a 30 rate
+from 23:00 - 03:00 which is the 4 hours you were showing.
+
+
+
+
+
+
+"Eileen Ponton" <kponton@duke-energy.com> on 04/12/2001 10:31:07 AM
+
+To:   David Avila/LSP/ENSERCH/US@TU, Charlie Stone/Texas Utilities@TU, Melissa
+      Jones/Texas Utilities@TU, HPL.SCHEDULING@ENRON.COM, LIZ.BELLAMY@ENRON.COM
+cc:
+Subject:  noms/actual flow for 4/11/01
+
+
+
+9:00 AM - 15:00     30,000    (6 HRS)
+15:00      -  23:00    0
+23:00      -   9:00 AM    30,000   (4 HRS)
+
+
+NOM       MCF       MMBTU
+12,500         12,982         13,333
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

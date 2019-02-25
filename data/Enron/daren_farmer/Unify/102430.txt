@@ -1,0 +1,20 @@
+From : Jaquet  Tammy
+To : Pena  Matt; Nguyen  Ben; greif
+CC : Superty  Robert
+BCC : 
+Subject : Automate Load of Scheduled Quantity SIRP00067
+
+Message Body :
+I have attached a draft of the enhancement to automate the load of scheduled quantities.  Please review and provide your input by COB 10/10/01.  If you need to discuss this document,  let know and I will make arrangements to meet with you.  Once we get your input, we will issue an updated document and meet with IT to prioritize.
+
+
+ 
+
+Thanks,
+
+Tammy  
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

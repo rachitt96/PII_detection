@@ -1,0 +1,14 @@
+From : McCoy  Mark
+To : Daren J Farmer/HOU/ECT@ENRON
+CC : 
+BCC : 
+Subject : Oasis Transport Imbalances
+
+Message Body :
+Current Mth:	201K  (7.580) Due Oasis		202K  1.176 Due HPL
+Cumulative:	201K  (22.526)Due Oasis	202K  730 Due HPL		
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

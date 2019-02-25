@@ -1,0 +1,24 @@
+From : Marilyn Colbert
+To : curtis smith; jeremy wong; bob bowen; debbie r brackett; kathryn cordes; mary
+CC : 
+BCC : 
+Subject : Name Change/Merger Listing for 7/00
+
+Message Body :This is the preliminary spreadsheet for July. There will definitely be 
+another listing distributed no later than this Friday. For some reason there 
+has been an unusual number of notices issued and we are working diligently to 
+get the documents lined up. 
+
+Updates to records in GCP for counterparty name changes:
+
+The legal name field will be updated Monday afternoon (7/17). 
+
+The ERMS Shortnames will be changed on Tuesday afternoon (7/18).
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

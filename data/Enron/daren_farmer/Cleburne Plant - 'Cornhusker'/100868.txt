@@ -1,0 +1,42 @@
+From : Parker  Megan
+To : Farmer  Daren J.
+CC : 
+BCC : 
+Subject : RE: Tenaska IV March 2001
+
+Message Body :Yes, the dollar amount is what we need to recoup from Williams.  I will take the credit with our payment to Williams on the 25th.  Tenaska  will send us their wire to us on the 24th.  I will make sure we receive the wire from Tenaska before I send the wire to Williams.  I will also let James know about the volume for the agency fee.  I thought it was suppose to be calculated on actual volume, not the nominated volume.
+
+Megan
+
+
+
+From:	Daren J Farmer/ENRON@enronXgate on 05/16/2001 03:04 PM
+To:	Megan Parker/Corp/Enron@ENRON
+cc:	 
+
+Subject:	RE: Tenaska IV March 2001
+
+I have changed the demand fee.  But, is this adjusted by the dollar amount that we need to recoup from Williams?  I don't want to pay Tenaska until we get the money from Williams.  Additionally, I believe that we need to keep the volume at 45,000 for the admin fee, since we originally nominated 45,000/day.
+
+D
+
+ -----Original Message-----
+From: 	Parker, Megan  
+Sent:	Wednesday, May 16, 2001 12:49 PM
+To:	Daren J Farmer/HOU/ECT@ENRON
+Subject:	Tenaska IV March 2001
+
+We have the actuals from TXU for Tenaska IV for March 2001.  The receipt from Williams was not kept whole, so we have money to recoup from Williams and repay to Tenaska IV.  Please change the following deals.  Let me know if you have any questions.
+
+Deal 384258	change demand fee from $2,653,694.95 to $2,607,176.02
+Deal 514353	change volume from 45,000 to 44,590
+
+Thanks,
+Megan
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

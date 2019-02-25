@@ -1,0 +1,90 @@
+From : Kay Mann
+To : sjensen@bracepatt.com
+CC : 
+BCC : 
+Subject : 
+
+Message Body :FYI.
+---------------------- Forwarded by Kay Mann/Corp/Enron on 06/20/2000 11:37 
+AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Kay Mann                           05/18/2000 05:00 PM
+	
+
+To: Peggy Banczak/HOU/ECT@ECT
+cc: Sheila Tweed/HOU/ECT@ECT 
+
+Subject: 
+
+Peggy,
+
+Here are my observations on the Vitro turbine purchase agreement, for you to 
+consider, pass along, ignore, modify, etc.  I,m ignoring some issues, and 
+considering where the transaction is at this point, you may want to overlook 
+more.
+
+The project company should be the signatory to all three contracts.  Brian is 
+changing this.  Purchaser and Owner will then be the same entity, so some 
+changes within the document will be necessary.  By the way, is everything 
+being shipped via rail or land?  If there is any marine transport which might 
+necessitate EEIM chartering a vessel, the organization docs may need to be 
+check to make sure that is covered (ran into this problem on another project).
+
+Comments to offshore contract:
+
+Commercial operation is a key term, yet isn,t defined. (an example of use is 
+14.1.1)
+
+5.3 This should be integrated with the change order procedure in Article XI. 
+As I recall the same is true for both cost and schedule extensions.
+
+10.3.2 GE isn,t subject to delay ld,s unless Purchaser is subject to similar 
+delay ld,s with Owner.  This will need to be changed since Owner will be 
+Purchaser, but I don,t like this concept. Maybe it is covered by the EPC wrap.
+
+The term Takeover Performance criteria is used in 10.9.7, with a reference 
+back to 10.3.2; it is probably reasonable to construe the first few criteria 
+as being Takeover Performance criteria, but better practice would have it 
+defined.
+
+10.14 A &provided that8 should be added after (a).  This change should 
+probably be made as a clarification.
+ 
+14.3 Five days for GE to provide a service representative for a warranty 
+problem is fairly generous since the Owner can,t work on the equipment in the 
+meanwhile.  I don,t know what the EPC contract says on the point, so there 
+may be some protection. Probably too late and too commercial.
+
+14.6 The first and second sentence of this paragraph are not consistent.  The 
+second sentence is the better one.
+
+Note that a strike against GE is a force majeure event for which GE can get 
+schedule and cost relief. Too late for this deal, though.
+
+21.3 the confidentiality provisions have no time limit.
+
+I didn,t notice a FCPA provision, but I might have overlooked it.
+
+I assume the onshore contract has some of the same issues.  
+
+As for the onshore/offshore split, it would seem that some coordination with 
+the onshore/offshore epc contract would be in order, especially if the tax 
+risk is ours.  My initial impression of the proposed split on the turbine 
+contract is that the onshore contract still contains too much relating to the 
+offshore scope.  
+
+Brian is working on the consolidation agreement.
+
+Steve is working on the payment issue.
+
+By the way, I'll be on vacation tomorrow and next week.  
+
+Kay
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

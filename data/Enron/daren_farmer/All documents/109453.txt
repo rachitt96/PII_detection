@@ -1,0 +1,28 @@
+From : Mary Poorman
+To : daren j farmer; susan hadix; gary a hanks
+CC : 
+BCC : 
+Subject : Shell Meters for October
+
+Message Body :I have confirmed with Rusty at Shell for October.  Expected flows by meter 
+are as follows:
+
+ 1060 - East Low Pressure:  35M
+ 1061 - West Low Pressure: 0M
+ 1095 - Shell South: 40M
+ 1581 - Shell High Pressure: 15M
+
+The numbers may flip around in a couple of weeks, after they bring some units 
+back on at Meter 1581.  We need to just be sure that they keep a rate between 
+points of 90M/Day.
+
+Please let me know if you have any questions, comments.  
+
+Thank you,
+
+Mary
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

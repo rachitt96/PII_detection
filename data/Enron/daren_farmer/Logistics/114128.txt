@@ -1,0 +1,18 @@
+From : Kenneth Seaman
+To : robert e lloyd; jackie young
+CC : 
+BCC : 
+Subject : Lyondell -- #1063
+
+Message Body :The gas looks like it is not allocating correctly in Jan.
+I have not researched as to why, but if you like I can come down and go over 
+some things to help identify and correct these kinds of problems.
+
+Let me know.
+
+Ken
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

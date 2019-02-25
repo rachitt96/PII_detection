@@ -1,0 +1,35 @@
+From : Puthigai  Savita
+To : EOL Non North America Traders; eol north
+CC : EOL Call Center; Mandola  Teresa
+BCC : 
+Subject : EnronOnline -Stack Manager Changes
+
+Message Body :We have made the  following modifications to the EnronOnline applications.
+
+Stack Manager Changes
+
+Fill Order Enhancements - (Effective Tuesday September 25)
+·	To fill a Top of Stack order in Stack Manager, Right click on the pink shaded order in the depth window of Stack Manager and select fill.
+·	The trader now has the ability to fill limit orders that appear at the top of the trader's stack on both sides. 
+·	The order will now be filled at the full order volume regardless of the trader's stack volume.
+·	Filling an order will not move the trader's price or cause a hedge to occur.
+
+Resize floated stack windows- (Effective Tuesday September 25)
+
+You will now have the ability to resize the stack window to the desired extent.
+
+Website Changes ( Effective Monday September 24)
+
+Limit Order Restrictions on Physical Transactions -
+·	Customers will not be allowed to transact with themselves on physical transactions. If a top of stack limit order has been placed on a physical product the counterparty or desk that placed the order will not be allowed to transact on it.
+·	If a customer or desk has top of stack limit orders at different prices on both the bid and offer and subsequently moves the price of one so that they are at the same price, both orders will be cancelled. The customer would have effectively transacted with himself.
+
+Please call me if you have any questions. Thanks.
+
+Savita ( X 31787)
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

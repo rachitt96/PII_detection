@@ -1,0 +1,22 @@
+From : Robert Cotten
+To : Carlos J Rodriguez
+CC : Daren J Farmer; Vance L Taylor
+BCC : 
+Subject : Phillips - 4/01
+
+Message Body :Carlos,
+
+I created the following deal for 4/01 production:
+
+Deal #:		689508
+Meter #:		98-6782
+Deal Volume:	5,000
+Expected Vol.:	4,200
+Price:		IFHSC less $0.05
+
+Bob
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

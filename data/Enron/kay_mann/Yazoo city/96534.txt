@@ -1,0 +1,47 @@
+From : Reagan Rorschach
+To : kay mann
+CC : 
+BCC : 
+Subject : RE: Are we confusing scheduling services with QSE type stuff?
+
+Message Body :What about this?  Is this the QSE defn? [Rorschach, Reagan]  No, that would 
+be Qualified Scheduling Entity that has a very lengthly ERCOT definition.  
+This was greatly simplified to eliminate any confusion.  I think it is OK as 
+is. 
+
+&Scheduling Entity8 means an entity contemplated to be recognized by SPP, and 
+fully qualified under SPP rules and regulations, to schedule the transmission 
+of Energy, Capacity and Ancillary Services from the Facilities.
+
+
+From: Reagan Rorschach/ENRON@enronXgate on 05/31/2001 07:51 AM
+To: Kay Mann/Corp/Enron@Enron
+cc:  
+
+Subject: RE: Are we confusing scheduling services with QSE type stuff?
+
+Kay, lets couch it as below...or similar....what I did below is botchy.
+
+Reagan C. Rorschach
+Enron North America
+1400 Smith Street
+Houston, Texas 77002
+713.345.3363
+
+ -----Original Message-----
+From:  Mann, Kay  
+Sent: Wednesday, May 30, 2001 10:52 AM
+To: Rorschach, Reagan
+Subject: Are we confusing scheduling services with QSE type stuff?
+
+(20) If and when a new RTO begins operation, seek to  [Rorschach, Reagan]  
+comply with scheduling requirements and to satisfy [Rorschach, Reagan]  such 
+rules and protocols [Rorschach, Reagan] that are created in [Rorschach, 
+Reagan]  association therewith.  
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

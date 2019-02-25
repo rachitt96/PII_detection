@@ -1,0 +1,24 @@
+From : Michael Eiben
+To : lisa csikos; rita wynne; mary m smith; daren j farmer; pat clynes; sjones@hdinc.com
+CC : 
+BCC : 
+Subject : Unify Enhancement Tracking List for ENA Upstream
+
+Message Body :Hi Everyone,
+ See attached a listing of the documented enhancements that pertain to ENA 
+Upstream.  What we need to do next is develop an impact for each one that 
+gives an estimate of the number of hours saved for each item.  Please supply 
+these savings where your name is listed if you haven't already done so.  The 
+vision and purpose of this list is to provide Holland & Davis ( a consultant 
+) and upper management with the necessary information to determine the extent 
+of IT resources that would be needed to enhance Unify.  I will need your 
+replies by COB May 31st.  
+
+ 
+
+Thanks,  MVE
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,40 @@
+From : Jaquet  Tammy
+To : Superty  Robert; Olinger  Kimberly S.
+CC : Jackson  Brandee
+BCC : 
+Subject : FW: reconnect VPN
+
+Message Body :Everyone's remote access has been changed due to security reasons.    Brandee is in the process of initiating a E-Request for each of you.  Once you get approved you should get the following email.  
+
+In addition, each of you who uses a laptop will need to connect the laptop to the network here at the office and log on as yourself.  This will syncrize your profile on that laptop.
+
+Please pass the information onto your staff.
+
+Thanks,
+
+Tammy
+
+ -----Original Message-----
+From: 	Stine, Robert  
+Sent:	Tuesday, December 11, 2001 1:33 PM
+To:	Jaquet, Tammy; Calcagno, Suzanne
+Subject:	eConnect VPN
+
+You have been approved and added to the eConnect remote access solution.  Your user account will be granted remote access permission by IT Security within 24 hours.  Please follow the instructions in the attached document.
+
+ 
+If you require technical assistance, please call the resolution center at 713.853.1411.
+
+Thanks,
+
+Rob.
+
+Robert C. Stine
+Technology Architecture
+E-mail: robert.stine@enron.com
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,47 @@
+From : Jaquet  Tammy
+To : Krishnaswamy  Jayant
+CC : Pena  Matt; Superty  Robert
+BCC : 
+Subject : RE: Killing ENA to ENA deals in Sitara
+
+Message Body :Jay,
+
+If a deal is killed it poses a problem for us in Unify if there are any paths associated with the deal; therefore, we request the deals be zeroed out.  Call me if this is a problem.  Also, we would appreciate further details on why these deals are being killed.  
+
+In addition, I have copied Rita and Mark from Volume Management for their input.
+
+Regards,
+
+Tammy
+x35375
+
+
+
+ -----Original Message-----
+From: 	Pena, Matt  
+Sent:	Thursday, December 13, 2001 3:39 PM
+To:	Krishnaswamy, Jayant; Pinion, Richard; Jaquet, Tammy
+Cc:	Severson, Russ; Truong, Dat; Aybar, Luis; Ma, Felicia
+Subject:	RE: Killing ENA to ENA deals in Sitara
+
+Thanks Jay!
+
+Tammy/Richard:
+You may want to let the schedulers know, although they may already.
+
+ -----Original Message-----
+From: 	Krishnaswamy, Jayant  
+Sent:	Thursday, December 13, 2001 3:38 PM
+To:	Pinion, Richard; Jaquet, Tammy
+Cc:	Severson, Russ; Pena, Matt; Truong, Dat; Aybar, Luis; Ma, Felicia
+Subject:	Killing ENA to ENA deals in Sitara
+
+Richars/Tammy:
+
+
+We will be killing about 2000 deals in Sitara tonight. Whenever a deal is touched in Sitara, it will bridge over to Unify. THese are Desk2Desk deals, and should have minimal impact on you.
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

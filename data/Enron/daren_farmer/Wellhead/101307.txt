@@ -1,0 +1,27 @@
+From : Cotten  Robert
+To : Weissman  George
+CC : Melissa Graves/HOU/ECT@ENRON
+BCC : 
+Subject : Missing Deals - May, 2001
+
+Message Body :George,
+
+The following volumes are included in the May, 2001 spreadsheet but deals do not exist in Sitara.  Daren has requested that we be advised by noon today of the information on pricing ( i.e., Gas Daily or IFHSC).  Thanks.
+
+Counterparty		Meter		Zone		Nomination
+
+Carrizo Oil & Gas	9888		12		10,000
+Comstock Oil & Gas	9878		20		100
+D & P Operating	?		001(Gulf Coast)	5,000
+Ergon Exploration	9880		08		9,000
+HESCO Gathering	9649		?		300
+HESCO Gathering	9876		05		85
+HESCO Gathering	9885		05		1,100
+Louis Dreyfus		9874		14		750
+Suemaur Exploration	9881		02		1,300
+United Oil & Mineral	9887		19		2,000
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

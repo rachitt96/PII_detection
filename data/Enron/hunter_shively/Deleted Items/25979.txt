@@ -1,0 +1,43 @@
+From : Luce  Laura
+To : Carrabine  Cary
+CC : Shively  Hunter S.
+BCC : 
+Subject : Re: CILCO
+
+Message Body :Cary,
+Great job...  Please write a short detailed description of this transaction for distribution to all our Central Originators.  Write it, send it to me and I will forward a note to everyone for product pitch to a larger market.
+
+Thanx,
+Laura
+
+
+
+
+	Cary M Carrabine 05/04/2001 11:17 AM 	   To: Laura Luce/Corp/Enron@Enron, Hunter S Shively/Enron@EnronXGate, Gregg Penman/Corp/Enron@Enron, Kelli Stevens/Enron@EnronXGate  cc:   Subject: CILCO	
+
+
+A gas/power deal was closed with CILCO on May 1st.
+This deal was  worked as a gas/power origination combo with Ed Baughman in Power.
+The deal structure is as follows:
+
+ENA buys a daily gas put @ a $4.00 strike - Jan '02 thru Dec '02  -  NGPL Midcont  10,000/day (physical)
+
+ENA sells power to CILCO into Illinois Power  -  Sep '01 thru May '02  -  20 MW ; 5 X 16  @  $26.00
+
+Total value created  	$479,000
+
+			($250,000)  Risk premium held in reserve for IP delivery
+
+			$229,660   Origination - Split 50/50 between Gas & Power ($114,830 each)
+
+Please let me know if you have any questions.
+
+Cary
+			
+	
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

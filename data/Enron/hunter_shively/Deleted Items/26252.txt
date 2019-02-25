@@ -1,0 +1,25 @@
+From : eserver@enron.com@ENRON
+To : Shively  Hunter S.
+CC : 
+BCC : 
+Subject : <<Concur Expense Document>> - Trip to Chicago
+
+Message Body :The Payment status has changed on the following report:
+
+Status last changed by:  System
+Expense Report Name: Trip to Chicago
+Report Total: $671.56
+Amount Due Employee: $671.56
+Amount Approved: $671.56
+Amount Paid: $0.00
+Approval Status: Approved
+Payment Status: In Progress
+
+
+To review this expense report, click on the following link for Concur Expense.
+http://xms.enron.com
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

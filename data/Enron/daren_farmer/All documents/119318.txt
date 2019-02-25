@@ -1,0 +1,22 @@
+From : Ami Chokshi
+To : o'neal d winfree; julie meyers
+CC : eric bass; daren j farmer
+BCC : 
+Subject : 
+
+Message Body :Deals 141877,141883, and 141884 (Koch Midstream) were in CES's system (and 
+ours) as term sales. However,  those deals were terminated by CES. So, any 
+volumes at KMID are sold to Midcon Texas P/L Operator at IF-.09. The purchase 
+price is (.10) for base volumes and (.11) for swing volumes. For Feb, I 
+zeroed the volumes in deals 141877,141833,141884, in Sitara. All of the 
+volumes will be in deal 156256. O'Neal, do we need to risk assign this new 
+deal? Julie, it is an evergreen deal.  MTPL takes whatever is produced at the 
+points. Let me know if I can help with anything else.
+
+Thanks,
+AC
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

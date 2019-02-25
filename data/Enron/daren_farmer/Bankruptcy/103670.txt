@@ -1,0 +1,40 @@
+From : Winfree  O'Neal D.
+To : Farmer  Daren J.
+CC : 
+BCC : 
+Subject : RE: Physical Curve Mappings_Sitara
+
+Message Body :I would much rather add the Thompsonville now... O 
+
+ -----Original Message-----
+From: 	Farmer, Daren J.  
+Sent:	Monday, January  7, 2002 2:04 PM
+To:	Winfree, O'Neal D.
+Subject:	RE: Physical Curve Mappings_Sitara
+
+OW, 
+
+I went through the list on the sort by pipe and highlighted the curves/mapping we can delete (yellow) and those we can change (orange).  The only curves we will have left are Katy, Waha, HSC, Agua Dulce, and Thompsonville.  I expect to be using Thompsonville in 6 months to a year.  If it easier or cleaner to delete that curve and add it when we need it, that will be fine.  Let me know if you have any questions.
+
+ << File: CurveMapping_Texas_df.xls >> 
+
+D
+
+ -----Original Message-----
+From: 	Winfree, O'Neal D.  
+Sent:	Monday, January 07, 2002 12:55 PM
+To:	Farmer, Daren J.; Baumbach, David; Olsen, Michael
+Cc:	Martin, Thomas A.
+Subject:	Physical Curve Mappings_Sitara
+
+Hey Gang,
+
+Attached are the physical curve mappings as provided by Russ Severson... Please take a peek and let us know if we need to change, add/delete, update any points/mappings going forward in a Netco environment... For instance, I would like to change Texoma to Carthage on the curve mappings... Also, I would like to delete all derived curves, leaving only Carthage, KatyTailgate, and Agua Dulce.
+The other physical locations would be ShipChannel, Waha and Katy (non-tailgate)... Let me know your thoughts... O'Neal 3-9686
+
+ << File: CurveMapping_Texas.xls >> 
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

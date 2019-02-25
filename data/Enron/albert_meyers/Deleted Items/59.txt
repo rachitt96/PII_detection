@@ -1,0 +1,25 @@
+From : Symes  Kate
+To : DL-Portland Real Time Shift
+CC : 
+BCC : 
+Subject : New SWOASIS Login
+
+Message Body :FYI -
+
+The Southwest OASIS website (for PNM, SRP, NEVP, EPE, SMUD, SPP, and LADWP transmission reservations) has given us a new login ID and password. Don Norman is no longer our site administrator; Les Rawson has taken that title. I registered us with two user names and passwords, which are as follows:
+
+	Login: rxtime12
+	Password: epmipower
+
+	Login: kxsymes1
+	Password: realtime
+
+Please let me know if you have any questions regarding this new procedure.
+
+Thanks,
+Kate
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

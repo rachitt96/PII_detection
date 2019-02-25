@@ -1,0 +1,57 @@
+From : Robert Cotten
+To : vance l taylor
+CC : daren j farmer; o'neal d winfree; tom acton; lisa hesse; heidi withers; julie
+BCC : 
+Subject : Re: New Turn-on Range Resources
+
+Message Body :Vance,
+
+A ticket has been created and entered in Sitara based on the information 
+below.  The deal number is 287507.  Thanks.
+
+Bob
+
+
+
+
+
+Vance L Taylor
+06/02/2000 10:23 AM
+To: Tom Acton/Corp/Enron@ENRON, Robert Cotten/HOU/ECT@ECT
+cc: Lisa Hesse/HOU/ECT@ECT, Heidi Withers/HOU/ECT@ECT, Julie 
+Meyers/HOU/ECT@ECT, Susan Smith/HOU/ECT@ECT, Donald P Reinhardt/HOU/ECT@ECT, 
+Melissa Graves/HOU/ECT@ECT 
+Subject: New Turn-on Range Resources
+
+Robert/Tom,
+
+The following production commenced to flow earlier in the week and a ticket 
+should be created and entered into sitara based on the following:
+
+
+Counterparty   Meter   Volumes  Price    Period
+
+Range Resources Corporation  9832   350mmbtu/d  100% GasDaily less $0.18 5/30 
+- 5/31
+
+
+FYI, Susan will create and submit a committed reserves firm ticket for June 
+and for the remaining term of the deal beginning with the month of July once 
+she recieves a reserve study.  Additionally, this is a Producer Svcs. deal 
+and should be tracked in the IM Wellhead portfolio... attached to the 
+gathering contract.
+
+
+Thanks,
+
+vlt
+x3-6353
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

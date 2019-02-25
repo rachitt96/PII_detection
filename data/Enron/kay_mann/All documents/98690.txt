@@ -1,0 +1,147 @@
+From : John Schwartzenburg
+To : nigel carling
+CC : davidlu@nepco.com; sheila tweed@ect; john g rigby; scott dieball; randy pais@enron
+BCC : 
+Subject : Re: WARRANTIES & INSURANCE
+
+Message Body :Thanks, Nigel.
+
+Gang, we really should get a group together to discuss this issue and how it 
+impacts the project development, EPC, and insurance approaches. A common 
+response to the change in the insurance coverages would seem appropriate. 
+Owners will want EPC contractors to take this risk if they cannot get it 
+covered by operational insurance, EPC contractors will be very loath to take 
+such a risk as this if not completely and securely back-to-back with the 
+turbine boys or compensated significantly for taking the risk without the 
+back-to-back. GE et al can be expected to resist taking the risk. 
+
+Sheila, would you and Kay check and see who might like to sit in on a 
+dicussion on this matter, I will check with Keith Dodson, and Mr. Lund could 
+you check with Mr. Gillis? Maybe meet or have a call next week?
+
+ JWVS
+
+
+
+	Nigel Carling
+	04/02/2001 12:59 PM
+		 
+		 To: John Schwartzenburg/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+		 cc: 
+		 Subject: WARRANTIES & INSURANCE
+LATEST MARKET DEVELOPMENT #2
+
+FYI
+----- Forwarded by Nigel Carling/ENRON_DEVELOPMENT on 04/02/2001 12:59 PM 
+-----
+
+	Paul E Parrish@ENRON
+	04/02/2001 10:29 AM
+		
+		 To: Nigel Carling/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Spencer 
+Burton/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, John 
+Cullen/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Michael 
+McGarry/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Bob 
+Meckna/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, James 
+Naeger/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Donald 
+Reid/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Michael Guerriero/SA/Enron@Enron, 
+Kevin Ruffcorn/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Rafi 
+Khan/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Richard Quek/SIN/ECT@ECT, Manuel 
+Gallego/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, John R Ayres/NA/Enron@Enron, 
+Brett R Wiggs/SA/Enron@Enron, davidlu@nepco.com, Dag Adolfsson/HOU/EES@EES, 
+Curly Baca/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Brian D 
+Barto/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Kenneth Bean/HOU/EES@EES, Karl 
+Breckon/NA/Enron@Enron, John Cates/HOU/EES@EES, Ed Cattigan/EU/Enron@ENRON, 
+Ned E Crady/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Greg Curran/CA/Enron@Enron, 
+Scott Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, Roberto 
+Figueroa/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, David 
+Glessner/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, David Howe/Enron@EnronXGate, 
+James A Hughes/Enron@EnronXGate, Christopher b Hunt/Enron@EnronXGate, Michael 
+Oehrle/ENRON_DEVELOPMENT, Larry Reynolds/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, 
+Rob Walls/ENRON@enronXgate, David K Bargainer/Enron@EnronXGate, Cheryl 
+Costa/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Ed 
+Dannhaus/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Phillip 
+Foster/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, Gavin 
+Gaul/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Bruce 
+Golden/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Steve 
+Heck/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Edward J Hlopak 
+Sr/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Edward Hlopak Jr/Enron 
+Communications@Enron Communications, Ed 
+Husami/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, John G 
+Rigby/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Robert Lundin/NPNG/Enron@ENRON, 
+Michael Ranz/ENRON@enronXgate, Scott 
+Laidlaw/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Joe 
+Lakes/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Martin Penkwitz/HOU/EES@EES, Jim 
+Sutherland/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Brian Stanley/EU/Enron@ENRON, 
+Roger Tietz/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Richard 
+Vincent/ENRON_DEVELOPMENT, David Marshall/HOU/ECT@ECT, Terry 
+Yamada/Corp/Enron@ENRON, James L Bouillion/HOU/ECT@ECT, Paul 
+Clayton/HOU/ECT@ECT
+		 cc: 
+		 Subject: WARRANTIES & INSURANCE
+LATEST MARKET DEVELOPMENT #2
+
+To Distribution:
+
+Recently we sent out a notice that the insurance market is requiring that 
+warranties from major equipment manufacturers [mainly prototype turbines] 
+were to come first before insurance. Following is a summary of recent market 
+changes that underwriters are requiring related to the vendor,s warranty 
+issues on prototype machines. Please note that the market could become more 
+restrictive and require the following on proven technology as well. This 
+market change should be incorporated into the contracts between Enron and its 
+vendors for the purchase of major equipment for power plants.
+
+Underwriter requirements during:
+
+Construction Period:
+
+1. Vendor,s Warranty for the part that failed - required as builder's risks 
+policy does not cover it.
+2. Vendor,s Warranty for resultant damage within the casing - now being 
+required by underwriters.
+3. Vendor,s Warranty for resultant damage within vender,s scope of supply - 
+now being required by Underwriters.
+4. Vendor,s LD's following all of the above - underwriters now requiring 
+before DSU [delay in start up] insurance responds on at least prototype 
+machines. 
+5. Vendor,s responsibility for collateral damage to items not within their 
+scope of supply and resultant LD's ) underwriters are not asking for this.
+
+Operating Period [Permanent Insurance]:
+
+1. Vendor,s Warranty for part that failed - required even though machinery 
+breakdown [boiler & machinery] coverage will respond.
+2. Vendor,s Warranty for resultant damage within the casing - now being 
+required by underwriters.
+3. Vendor,s Warranty for resultant damage within their scope of supply - now 
+being required by underwriters.
+4. Vendor,s LD's following all of the above - underwriters not asking for 
+this.
+5. Vendor,s responsibility for collateral damage to items not within their 
+scope of supply and resultant LD's - underwriters not asking for this.
+
+We have been told that two-year warranties after Taking-Over are generally 
+all that underwriters expect.  We also have been told that if there were 
+problems such as we have experienced at Dabhol, longer warranties would be 
+extremely useful in arranging favorable terms and conditions on the permanent 
+insurance. If there were no problems after two years it would not make much 
+difference. 
+
+If you find that someone is not listed in the distribution list, please pass 
+this email to them. If you have any questions please call or email one of us 
+listed below:
+
+Richard Vincent
+David Marshall
+Terry Yamada
+Paul Parrish
+Jim Bouillion
+Paul Clayton
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

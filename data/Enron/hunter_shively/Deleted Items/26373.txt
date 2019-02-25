@@ -1,0 +1,20 @@
+From : Kinsey  Lisa
+To : Shively  Hunter S.
+CC : Superty  Robert
+BCC : 
+Subject : Hurricane Preparedness
+
+Message Body :Hunter,
+FYI - Next Tuesday we will be getting together with Tom to talk about what we will need to be prepared for in a hurricane.  We are planning to talk about the different interconnects within our region as well as the east desk, plans to replace gas, what legal considers force majeure and rankings.  I have invited the schedulers from the east and upstream desks hoping that this will help facilitate discussion and ideas on how to resolve problems should a hurricane happen.   
+
+Kirk Lenart is also in the process of working with Unify team to create reports out of Unify to enable us to track cuts in Unify rather than on a spreadsheet.  This will be more efficient and accurate.  The code freeze on Unify will soon be lifted since the migration to the new server will happen this weekend.
+
+Let me know if you have any other suggestions or questions. 
+
+Lisa
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

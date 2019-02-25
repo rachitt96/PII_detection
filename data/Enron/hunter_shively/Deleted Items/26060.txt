@@ -1,0 +1,25 @@
+From : ARSystem ARSystem@mailman.enron.com@ENRON
+To : Shively  Hunter S.
+CC : 
+BCC : 
+Subject : Request Submitted: Access Request for sean.boyle@enron.com
+
+Message Body :You have received this email because the requester specified you as their VP. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000033204&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000033204
+Request Create Date : 5/7/01 12:03:29 PM
+Requested For       : sean.boyle@enron.com
+Resource Name       : Market Data CQG
+Resource Type       : Applications
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

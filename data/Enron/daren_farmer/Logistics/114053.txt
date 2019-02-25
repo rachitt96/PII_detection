@@ -1,0 +1,27 @@
+From : Anita Luong
+To : jackie young; mary m smith; daren j farmer
+CC : howard b camp; clem cernosek; karry kendall
+BCC : 
+Subject : McMullen Gas for 11/99
+
+Message Body :Jackie,
+
+Since the inlet to 3 River Plant is shut in on 10/19/99 (the last day of 
+flow):
+at what meter is the McMullen gas being diverted to?
+at what meter is HPL buying the residue gas? (this is the gas from Teco, 
+Vastar, Vintage, Tejones, and Swift)
+
+I still see active deals at meter 3405 in Path Manager for Teco, Vastar, 
+Vintage, Tejones, and Swift
+I also see gas scheduled in POPS at meter 3404 and  3405.  
+
+Please advice.   We need to resolve this as soon as possible so Settlement 
+can send out payments.
+
+Thanks
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

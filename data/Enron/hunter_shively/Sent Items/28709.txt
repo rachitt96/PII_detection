@@ -1,0 +1,49 @@
+From : Shively
+To : sever; Stephanie
+CC : 
+BCC : 
+Subject : RE: New Company - Online Trader Access (Stack Manager & Website)
+
+Message Body :
+These lists could change before the new company opens for business.
+
+
+Execute for all gas products, read only for power and access to stack manager:
+Hunter Shively
+Geof Storey
+Kevin Ruscitti
+Martin Cuilla
+Andy Lewis
+Jason Williams
+Jim Simpson
+
+Read only for all gas and power products:
+Laura Luce
+Patrice Thurston
+Bryant Frihart
+Russell Murrell
+
+
+
+
+
+ -----Original Message-----
+From: 	Sever, Stephanie  
+Sent:	Monday, December 17, 2001 10:20 AM
+To:	Allen, Phillip K.; Arnold, John; Martin, Thomas A.; Neal, Scott; Shively, Hunter S.
+Cc:	Lees, Lisa; Denny, Jennifer
+Subject:	New Company - Online Trader Access (Stack Manager & Website)
+
+Please populate the attached worksheets for Stack Manager & Website Access.  I have added the Gas product types and a drop down for each user/product type  to populate with READ, EXECUTE or NONE.  For READ ONLY Website ID's, additional population is NOT necessary.  Please add or remove names as necessary and return to me once complete.  Let me know if you have any questions.
+
+ << File: US Gas Stack & Website for New Version 121401.xls >> 
+Thank you,
+
+Stephanie Sever
+EnronOnline
+713-853-3465
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

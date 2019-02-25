@@ -1,0 +1,23 @@
+From : Regina Perkins
+To : randall l gay; victor lamadrid; tricia bowen; edward terry; george smith; daren
+CC : 
+BCC : 
+Subject : Desk Summary Report
+
+Message Body :The CPR Report named Desk Summary is currently being reviewed for an 
+upgrade.  I have been told that this report is used during bidweek to check 
+positions on a particular pipe (for a particular zone).  If you do not need 
+additional data, this report could very easily be added to the report 
+selection in the SITARA Reporting application.  If anyone would like to see 
+more detailed information on the report, please let me know.  There may be a 
+report that is already in Production that they can access.
+
+Please let me know if the format currently in CPR is sufficient as soon as 
+possible.
+
+Chao!
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

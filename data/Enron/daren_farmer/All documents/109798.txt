@@ -1,0 +1,56 @@
+From : Aimee Lannou
+To : daren j farmer
+CC : pat clynes
+BCC : 
+Subject : Re: meter 6387 & 5192
+
+Message Body :Just to let you know, ther is flow for November at meter 5192.  
+
+What is the status of meter 6387? 
+
+Aimee
+
+
+
+
+
+
+Daren J Farmer
+10/26/2000 12:52 PM
+To: Aimee Lannou/HOU/ECT@ECT
+cc:  
+Subject: Re: meter 6387 & 5192  
+
+I created #454057 for the flow at Mtr 5192.  Canny Conner is looking into mtr 
+6387.  I will let you know when he determines what we will be doing.
+
+D
+
+
+Aimee Lannou   10/26/2000 10:01 AM
+
+To: Daren J Farmer/HOU/ECT@ECT
+cc: Pat Clynes/Corp/Enron@ENRON 
+Subject: meter 6387 & 5192
+
+Daren - There is flow at meters 6387 & 5192 for Oct. without a nom.
+  
+   Deal  contract  Last month of activity Counterparty
+
+ Meter 6387 133179  HPL 215 Sept. 00  Duke Energy Trading  
+
+ Meter 5192 269123  ENA 201 Nov. 99   Duke Energy Trading
+
+Thanks.
+
+AL
+
+
+
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

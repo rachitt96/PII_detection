@@ -1,0 +1,28 @@
+From : Reagan Rorschach
+To : kay mann
+CC : 
+BCC : 
+Subject : Must Run Situation
+
+Message Body :Kay,
+
+Item 4 - of the Beck comments
+
+The "must run" condition is when Entergy calls up and declares an emergency, 
+Clarksdale has to generate or they have no power.
+
+In a previous version of the LOI David and I had the following language:
+
+Profit from external sales of The Cities, power and gas resources and savings 
+realized by purchase of on-peak market power would be split 60% to The Cities 
+and 40% to EPMI except under first contingency 32 MW &must run8 conditions. 
+If not already running, &must run8 periods will be excluded from the profit 
+loss calculation.  
+
+Something like this could go und the Structure section as item D following 
+the "EPMI would be compensated..." sentence which should be item C.
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

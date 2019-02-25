@@ -1,0 +1,21 @@
+From : Meyers
+To : volume management; Test
+CC : williams iii; Bill
+BCC : 
+Subject : TAG 26235
+
+Message Body :To Whom It May Concern:
+
+
+NEVP called at 21:00 and informed us the cut.  Dynegy was not able to resupply the energy so I bought APS tranny and power from EPE for $70.00 and will show it in the EL PASO model as a sell from EPE to DYNEGY 8MW @ $70 Palo Verde.  The Tranny from APS was $3.50, and I will show an annuity for this amount billed to Dynegy.  I built two annuities for the tranny purchase from APS and its subsequent billing to Dynegy (674830 & 674831).  The EPEC deals that relate to the cut are 674832 and 674833.
+
+Please call me with any questions.
+
+Regards,
+
+Bert Meyers
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,100 @@
+From : Paul E Parrish
+To : john g rigby
+CC : david marshall; james l bouillion; kay mann; scott dieball; sheila tweed; charles
+BCC : 
+Subject : RE: INSURANCE EXHIBIT FORTURBINE PURCHASE AGREEMENT- Paul call please.
+
+Message Body :John:
+The call is set up for tomorrow [Friday] 4 pm your time [London]/ 10am my 
+time [Houston] to discuss this. David Way will be in a meeting just prior to 
+this time so we wanted to give him time to get back to his office.
+
+The broker,s concern is that if this contract is to apply to a variety of 7FA,
+s with various rating, etc., the underwriter could view them differently and 
+require subrogation rights on some of them. We need to understand how this 
+contract language will be used to purchase what equipment before insurance 
+language can be suggested.
+Paul
+
+ -----Original Message-----
+From:  Rigby, John  
+Sent: Thursday, May 17, 2001 5:45 AM
+To: Parrish, Paul E.
+Cc: Marshall, David; Bouillion, James L.; Mann, Kay; Dieball, Scott; Tweed, 
+Sheila
+Subject: Re: INSURANCE EXHIBIT FORTURBINE PURCHASE AGREEMENT- Paul call 
+please.
+
+Paul- when will your review of the language be complete.  This language has 
+been given to outside counsel to incorporate in the world hunger standard.  
+Please keep in mind that in this case the contracting party is a vendor whose 
+job is manufacture the equipment and deliver it to the site, the vendor is 
+not involved in the construction other than providing technical direction of 
+installation.
+
+Paul-  we need to talk- I thought I heard that the 7FA' are not considered 
+new technology.  I need to hear this from you, David  and Wortham before 
+opening up the subject of collateral damage and allowing the insurer to 
+subrogate.  I do not understand your comment on your naming the vendor as an 
+additional insured.  We are doing so in the case of Arcos.  What we are doing 
+in Arcos is making the vendor responsible under its warranty obligations for 
+colleteral damage.
+
+I need to have a very clear understanding of what we can and cannot do it the 
+case of GE 7FA units.  Deviating from the past practice on 7FA's where there 
+is not a new technology issue will be a painful and expensive ordeal.
+
+I can be reached in London  via Scott Dieball's cell phone 713-504-2742.  
+Please call.
+
+
+
+
+
+
+	Paul E Parrish/ENRON@enronXgate
+	05/16/2001 03:56 PM	 
+		 To: John G Rigby/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Scott 
+Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt
+		 cc: Sheila Tweed/HOU/ECT@ECT, Kay Mann/Corp/Enron@Enron, David 
+Marshall/ENRON@enronXgate, James L Bouillion/ENRON@enronXgate
+		 Subject: INSURANCE EXHIBIT FORTURBINE PURCHASE AGREEMENT
+
+
+John:
+The changes I suggested on the watercraft wording are still being reviewed 
+for completeness. I think what I gave you will work for most situations where 
+the watercraft is incidental to the work or is far removed from our being 
+involved [contractor to sub to sub contractor] but it does not address every 
+situation that we could be involved in. We may need to expand our wording 
+accordingly.
+
+Likewise, your question on giving to the turbine venders the waiver of 
+subrogation and additional insured is an even bigger concern. You are asking 
+us to obligate ourselves in providing waiver and additional insured status to 
+GE which we cannot do.   As you know, we went many years with providing 
+turbine venders protection under the insurance because the market was soft 
+and underwriters agreed to it. Now they balk at giving it because of the 
+losses they have incurred and we cannot predict what they will agree to. It 
+does not matter if the machines are proto-type or not, there is a good chance 
+right now that they will not agree to insuring the vender. Everyone says it 
+only takes money and in many cases we could probably include venders on the 
+insurance but I cannot recommend committing to it in a long term contract ) 
+we have to arrange the insurance at the time we need it in order to determine 
+if it is available. 
+
+If you need to have some language in the agreement, I would recommend that we 
+not give the waive and additional insured to GE or any vender. When we need 
+the insurance and begin placing it, we can then determine if the underwriter 
+will cover the vender and ask for a price reduction from GE to move their 
+risk to the underwriter.
+
+I am sorry I cannot make this easier but that is the nature of the insurance 
+beast.
+Paul
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

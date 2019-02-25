@@ -1,0 +1,33 @@
+From : perfmgmt@enron.com
+To : dfarmer@enron.com
+CC : 
+BCC : 
+Subject : Performance Management Process - New Password
+
+Message Body :According to our system records, you have not yet logged into the Enron 
+Performance Management system (PEP).   As a result your temporary password 
+for the PEP system has expired.  Your  User Id and new password are provided 
+below.
+
+During the feedback phase you will need to access PEP at 
+http://pep.corp.enron.com to suggest reviewers who can provide feedback on 
+your performance.  You may also be requested to provide feedback on fellow 
+employees, but the system will only be open for feedback until November 17th!
+
+HelpDesk representatives will be available to answer questions throughout the 
+process.  You may contact the HelpDesk at:
+
+Houston:  1-713-853-4777, Option 4
+London:  44-207-783-4040, Option 4
+E-mail:  perfmgmt@enron.com
+
+Your  User Id and new PEP password are:
+
+User ID: 90011947
+
+Password: WSRXTIVM
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

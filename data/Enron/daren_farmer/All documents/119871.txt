@@ -1,0 +1,23 @@
+From : Karie Hastings
+To : julie meyers
+CC : daren j farmer; scott mills
+BCC : 
+Subject : Storage Deal 47472 and 60747
+
+Message Body :Julie:
+
+There are two Storage deals that are using the same contract number. Can you 
+look at the two deals and determine which one is the correct deal? Do we need 
+to kill or cut off the other deal? Let me know when you get back in the 
+office and look at it.
+
+Karie (36759)
+
+Deal  Contract
+47472  96016959
+60747  96046959
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,18 @@
+From : Oh  John
+To : DL-Portland World Trade Center
+CC : 
+BCC : 
+Subject : >>>>READ! UBS EMAIL MIGRATION<<<<
+
+Message Body :This message is only relevant for those going to UBS.
+
+When exporting your EMAIL messages listed in the instructions or via the Outlook Export utility, attachments WILL NOT BE SAVED!
+There will be a better solution to exporting your Email messages and all your attachments emailed later today.
+
+Thank you,
+John Oh
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

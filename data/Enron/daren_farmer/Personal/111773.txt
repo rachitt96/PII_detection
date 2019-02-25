@@ -1,0 +1,36 @@
+From : customer_service@Footlocker.com@ENRON
+To : DFARMER@ENRON.COM@waufrw01.eastbay.com
+CC : 
+BCC : 
+Subject : DFARMER@ENRON.COM - Thank you for placing your order at Footlocker.com
+
+Message Body :Thank you for placing your order at Footlocker.com. Foot Locker appreciates your business and we hope you visit again soon.
+
+Foot Locker has shipped your item(s) today via Standard Shipping (approximately 3-7 business days Mon- Fri).
+
+Your order number is   1206478.00; your customer number is 2481611.
+Your order was shipped to:
+2747 MEADOW TREE LN
+SPRING, TX 773885434
+
+The following item(s) were included in this shipment:
+
+Item                                Price  Shipped Subtotal
+   NIKE AIR TEAM UNITE-WHT/BLK      29.99   1      29.99
+
+Items Subtotal          - $        29.99
+Shipping & Handling     - $         6.99
+Tax                     - $         2.68
+Total                   - $        39.66
+
+_____________________________________________________________
+
+
+If you have any questions about your order, please e-mail us at: customer_service@Footlocker.com.  You can also call our customer service representatives toll-free at 1-800-991-6815.  Thank you again for shopping at Footlocker.com  we look forward to your next visit.
+
+http://www.Footlocker.com
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,68 @@
+From : Lamadrid
+To : homco; Meredith; allwein; Robert
+CC : ames; Chuck; brawner; Sandra F.
+BCC : 
+Subject : FW: Minority/Majority Indices/September 2001
+
+Message Body :
+fyi.
+ -----Original Message-----
+From: 	CustomerNotices, WGPHOU [mailto:WGPHOU.CustomerNotices@Williams.com] 
+Sent:	Wednesday, October 10, 2001 2:51 PM
+Subject:	Minority/Majority Indices/September 2001
+
+October 10, 2001
+
+To:  Transcontinental Gas Pipe Line Corporation Customers
+     and Shippers
+
+Re:  Minority\Majority Cashout Indices - September, 2001
+     
+*****************  NONPENALTY PRICE REFERENCES  *****************
+
+                                MAJORITY            MAJORITY
+    FT       MINORITY     (<= 2.5% or 1,000 dt)    ( > 2.5% )
+  ------   ------------   ---------------------   ------------
+  Zone 1   $2.2638 BUY        $2.33163 SELL       $2.3850 SELL
+  Zone 2    2.2769 BUY         2.30555 SELL        2.3875 SELL 
+  Zone 3    2.2900 BUY         2.31908 SELL        2.3900 SELL 
+  Zone 4    2.3028 SELL        2.28947 BUY         2.1471 BUY 
+  Zone 5    2.3595 SELL        2.21884 BUY         2.2008 BUY  
+  Zone 6    2.4054 BUY         2.50680 SELL        2.5094 SELL 
+
+                                MAJORITY            MAJORITY
+    IT       MINORITY     (<= 2.5% or 1,000 dt)    ( > 2.5% )
+  ------   ------------   ---------------------   ------------
+  Zone 1   $2.2638 BUY        $2.33163 SELL       $2.3850 SELL
+  Zone 2    2.2769 BUY         2.30555 SELL        2.3875 SELL 
+  Zone 3    2.2900 BUY         2.31908 SELL        2.3900 SELL 
+  Zone 4    2.3435 SELL        2.33017 BUY         2.1878 BUY  
+  Zone 5    2.5452 SELL        2.40454 BUY         2.3865 BUY   
+  Zone 6    2.6996 BUY         2.80100 SELL        2.8036 SELL 
+ 
+                                MAJORITY            MAJORITY
+   FTG       MINORITY     (<= 2.5% or 1,000 dt)    ( > 2.5% )
+  ------   ------------   ---------------------   ------------
+  Zone 1   $2.2638 BUY  	     $2.33163 SELL       $2.3850 SELL
+  Zone 2    2.2769 BUY         2.30555 SELL        2.3875 SELL 
+  Zone 3    2.2900 BUY         2.31908 SELL        2.3900 SELL 
+  Zone 4    2.3706 SELL        2.35727 BUY         2.2149 BUY 
+  Zone 5    2.6690 SELL        2.52834 BUY         2.5103 BUY   
+
+                                MAJORITY            MAJORITY
+   FTNT      MINORITY     (<= 2.5% or 1,000 dt)    ( > 2.5% )
+  ------   ------------   ---------------------   ------------
+  Zone 6   $2.3025 BUY        $2.40732 SELL       $2.4100 SELL  
+
+For information concerning cashout transactions, please contact 
+your Customer Services representative or Casilda Vasquez at (713)
+215-4504 in the Rates Department.
+
+Stella Yu
+Manager - Rate Systems      
+(713) 215-3381
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

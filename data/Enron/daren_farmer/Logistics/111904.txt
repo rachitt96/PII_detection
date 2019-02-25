@@ -1,0 +1,37 @@
+From : Herrera  Katherine
+To : Meyers  Julie
+CC : Janet H Wallis/HOU/ECT@ENRON
+BCC : 
+Subject : Guadalupe Power Partners- March 01 Prod
+
+Message Body :Julie-
+
+Could you please change the following deal tickets to the rates detailed below:
+
+ENA
+Deal # 628368
+KATY.HUB.GDP.DA should be a fixed rate of $4.651( per the contract the rate is the KATY. GDP.DA -WACOG +.02)
+
+ENA
+Deal # 628363
+WAHA.HUB.GDP.DA should be a fixed rate of 4.621( per the contract the rate is the WAHA. GDP.DA -WACOG +.02)
+
+ENA
+Deal # 628367
+WAHA.HUB.GDP.DA should be a fixed rate of 4.621( per the contract the rate is the WAHA. GDP.DA -WACOG +.02)
+
+ENA
+Deal # 682397
+WAHA.HUB.GDP.DA should be a fixed rate of 4.621( per the contract the rate is the WAHA. GDP.DA -WACOG +.02)
+
+
+I will also send you the rates that need to be changed for 02/01 production.
+
+
+Thanks for all your help- Katherine 5-8643
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

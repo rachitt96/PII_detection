@@ -1,0 +1,48 @@
+From : Tonks  Colin
+To : Shively  Hunter S.
+CC : Stock  Stephen
+BCC : 
+Subject : EOL Products
+
+Message Body :Hunter, it appears that we are being more and more exposed to the various products associated with EOL. My concern is that no one in my group really has a complete understand of many of the key concepts in this area, i.e.:
+
+The difference between physical and financial products
+Explanation of the concept of Basis Differential
+The difference between term, cash, prompt, ROM etc.
+How the Nymex products affect the above... i.e. auto hedge.
+What are the downstream systems, i.e. Sitara for physical etc?
+Why trade physical over financial
+The various rules associated with each product ie cash only trades until 11ish and then becomes a new product for the next trade day.
+How to calculate positions based on forward curves
+etc.
+
+As you can see from my points above, my knowledge in this area is really fragmented, and since the EOL products you trade are highly associated with or function on the floor, can I suggest that we arrange a weekly training session for my group, with someone from your team, i.e. Martin (he is been very helpful to date). But it important that its someone who understands that we have no real financial backgrounds.
+
+ 
+
+My hope is that if we have a better understanding of how you work, we can:
+
+ 
+
+·         Be more proactive in providing tools based on above principles
+
+·         Speed up development (i.e. Pipeline economic sheet took far too long)
+
+·         Help us architect better solutions for the plasmas in the future
+
+ 
+
+Anyway, let me know your thoughts, I am unsure if any of the above knowledge is available outside of our domain, hence I have copied Steve Stock on this mail.
+
+ 
+
+-Colin
+
+ 
+
+ 
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

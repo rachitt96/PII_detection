@@ -1,0 +1,43 @@
+From : Thomas Engel
+To : peggy hedstrom; anita k patton; george smith; edward terry; tricia bowen; victor
+CC : sylvia a campos; linda s bryan; donna greif; dave nommensen; diane h cook; scott
+BCC : 
+Subject : NEW STORAGE FLAG
+
+Message Body :We are going to add a new drop down flag to STORAGE in SITARA to 
+differentiate the difference between physical and synthetic storage - as each 
+are
+treated differently for inventory accounting purposes.   A change will also 
+be made to Global Contracts and UNIFY, and is intended to assist with OA 
+variances
+on STORAGE.
+
+On the next release (mid August) we will add a drop down on the STORAGE deal 
+type which will be a required field.
+Someone will need to edit the existing deals to add the flag - as it will be 
+a required field - physical facility or synthetic. 
+(We can create queries to work with you on identifying deals that need to be 
+converted - as well as results for Global conversion)
+
+Global Contracts uses the flags from SITARA to set up new contracts - so 
+SITARA will add the flag on the deal.
+
+The flag will be stored in Global Contracts - which will feed the flag to 
+UNIFY.
+
+Once the existing deals are converted in SITARA, Global Contracts can add the 
+appropriate flag to their system.
+Once this is complete and UNIFY is ready, UNIFY can begin to feed in the 
+information from Global Contracts, and we will then 
+be able to differentiate the two in the accounting system.
+
+In the interim time, you may want to identify your synthetic vs. physical 
+storage deals.
+
+Let me know if you have any questions.
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

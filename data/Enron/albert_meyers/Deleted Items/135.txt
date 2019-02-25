@@ -1,0 +1,106 @@
+From : Schedule Crawler
+To : Pete Davis
+CC : Bert Meyers; William Williams III; Craig Dean; Geir Solberg
+BCC : 
+Subject : Start Date: 1/2/02; HourAhead hour: 1;
+
+Message Body :
+
+Start Date: 1/2/02; HourAhead hour: 1;  No ancillary schedules awarded.  No variances detected. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002010201.txt
+!!!General SQL error.
+Couldn't update; currently locked by user 'admin' on machine 'ECTHOU-BPS4'.
+Table
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+
+---- Energy Import/Export Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTstCA
+  MKT_TYPE: 2
+  TRANS_DATE: 1/2/02
+  TIE_POINT: MALIN_5_RNDMTN
+  INTERCHG_ID: ENRJ_CISO_3001
+  ENGY_TYPE: FIRM
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTstSW
+  MKT_TYPE: 2
+  TRANS_DATE: 1/2/02
+  TIE_POINT: FCORNR_5_PSUEDO
+  INTERCHG_ID: ENRJ_CISO_7000
+  ENGY_TYPE: FIRM
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTstSW
+  MKT_TYPE: 2
+  TRANS_DATE: 1/2/02
+  TIE_POINT: MEAD_2_WALC
+  INTERCHG_ID: ENRJ_CISO_8000
+  ENGY_TYPE: FIRM
+
+
+
+---- Load Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  LOAD_ID: PGE1
+  MKT_TYPE: 2
+  TRANS_DATE: 1/2/02
+  SC_ID: ENRJ
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  LOAD_ID: PGE2
+  MKT_TYPE: 2
+  TRANS_DATE: 1/2/02
+  SC_ID: ENRJ
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  LOAD_ID: PGE3
+  MKT_TYPE: 2
+  TRANS_DATE: 1/2/02
+  SC_ID: ENRJ
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  LOAD_ID: SCE1
+  MKT_TYPE: 2
+  TRANS_DATE: 1/2/02
+  SC_ID: ENRJ
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  LOAD_ID: SDG1
+  MKT_TYPE: 2
+  TRANS_DATE: 1/2/02
+  SC_ID: ENRJ
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

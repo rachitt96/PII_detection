@@ -1,0 +1,80 @@
+From : Paul E Parrish
+To : john g rigby
+CC : sheila tweed; kay mann; scott dieball; david marshall
+BCC : 
+Subject : GE- World Hunger
+
+Message Body :John:
+I have reviewed the insurance article and would not mind recommending a few 
+minor changes but respect your wishes not to. However, I did find a couple of 
+places where it is definitely needed.
+
+After speaking with a few marine experts at Wortham I have found our Hull & 
+P&I wording to be deficient [did this on another project]. I believe Clause 
+19.1.4 should be changed to the following recommended wording. You are 
+welcome to change the limit [$10 million] but I think the wording is more 
+appropriate for all agreements going forward.
+
+Hull & Machinery and Protection and Indemnity Insurance. Seller shall ensure 
+that if any owned or non-owned watercraft of any kind is used for performance 
+of the Work, Hull & Machinery and Protection and Indemnity insurance shall be 
+provided for the vessels in the amounts as follows:
+
+Hull & Machinery:
+Full current market value of the watercraft.
+
+Protection &Indemnity including excess collision liability [unless otherwise 
+provided by the hull coverage]:
+$10,000,000 each occurrence or the full current market value of the vessel, 
+whichever is greater.
+
+Such insurance may be provided by the vessel operator or by Seller as Seller 
+deems appropriate.
+
+The aircraft clause needs a couple of changes:
+
+In Clause 19.1.6 insert &aircraft8 after &non-owned8 in the third line.
+
+Such insurance may be provided by the aircraft operator or by Seller as 
+Seller deems appropriate.
+
+
+Please let me know if you have any questions.
+Paul
+
+
+
+ -----Original Message-----
+From:  Rigby, John  
+Sent: Tuesday, May 15, 2001 5:07 AM
+To: Marshall, David; Parrish, Paul E.
+Cc: Tweed, Sheila; Mann, Kay; Dieball, Scott
+Subject: GE- World Hunger
+
+David and Paul:
+
+As you are aware Sheila Tweed has been championing achieving a standardized 
+turbine purchase agreement with GE for domestic applications.  Attached is 
+the current draft of such document.  Please review the insurance provisions 
+to see if there are any changes needed.   I believe the current drafting is 
+what we have used in the past.   
+
+Given the technology issues of late do we need to make any changes.  This 
+would be for 7FA and LM6000 applications which I believe the market views as 
+proven technology so I assume we will not need to shift collateral damage to 
+GE and expose GE to insurer subrogation.
+
+
+Scott Dieball and I are in London- Enron House.  Today Tuesday our telephone 
+number is  44-207-783-0517.   Please call at your earliest convenience so we 
+can discuss conceptually.
+
+I would prefer not to make drafting changes for the sake of style at this 
+point.
+
+ << File: GE Agreement - Version 4(jr).DOC >> 
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

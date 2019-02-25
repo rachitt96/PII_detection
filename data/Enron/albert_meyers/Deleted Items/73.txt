@@ -1,0 +1,27 @@
+From : Williams III
+To : anderson; John; bland; Todd
+CC : 
+BCC : 
+Subject : New BPA prices
+
+Message Body :Group,
+Effective October 1st...BPA transmission will be the following prices...
+
+BPA non-firm point to point (or network) will be $2.92 with 1.9% losses
+
+BPA non-firm on the intertie will be $3.34 with 3% losses
+
+Losses could be expected to add up to $5 of the total price--do not put losses into the purchase from BPA Transmission in Enpower--losses for BPA will be settled at the end of the month in a single annuity.
+
+Total price for MPC to CAISO at MALIN on BPA non-firm all the way will be $6.26
+Total price for MPC to CAISO at NOB on BPA NON-FIRM all the way will be $6.26--Remember to check tranny sheet for PGE-tranny availability--WE HAVE NO MORE LT FIRM FROM BIG EDDY TO NOB--
+
+SNOPud is charging $3.25 for point to point plus 1.9% losses.
+
+Bill
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

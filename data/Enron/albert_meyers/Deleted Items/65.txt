@@ -1,0 +1,32 @@
+From : Williams III
+To : anderson; John; bland; Todd
+CC : 
+BCC : 
+Subject : Tiered Adjustment Bids
+
+Message Body :Group,
+
+We have developed a process for tiering our bids and should do so going forward.
+
+Please use appropriate dollar and mw values. Below is JUST an example. When tiering, the top numbers (mw values) must be monotonically increasing and the last two numbers on the bottom of your tier ($ values) must be the same.
+
+	 
+IMPORT:	0	25	50	75	100	125	150	200	200.01
+		$49	$49	$74	99	149	174	199	249	249
+
+
+EXPORT:	0	25	50	75	100	125	150	200	200.01
+		$0.1	$0.1	$0.1	$0.1	$0.1	$0.1	$0.1	$0.1	$0.1
+
+
+*NOTE* If a tiered bid is entered incorrectly you will have to flow a large amount of mws for loss or no gain.*NOTE*
+
+Please see me with any questions before implementing tiered bids.
+
+Thanks,
+Bill
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

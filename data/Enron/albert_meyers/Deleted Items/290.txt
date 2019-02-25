@@ -1,0 +1,17 @@
+From : Heizenrader  Tim
+To : DL-Portland World Trade Center
+CC : 
+BCC : 
+Subject : Seminar Followup: RiskMetrics
+
+Message Body :
+All:
+
+For those people wanting to learn more about Var calculation and application, I've put a copy of JP Morgan's RiskMetrics documentation on the P: drive under \MidMarketing\RiskMetrics. Of the five documents, Part 2 probably gets most directly at the questions that were being asked in Matt's seminar.
+
+Tim H
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+
